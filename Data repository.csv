@@ -1,0 +1,88 @@
+﻿study name,sub-group,timepoint,Data format,OR,Lower Limit  ,Upper Limit  ,"Event 
+delirium group",Delirium group total (N),"Event 
+no-delirium group",Non-delirium group total (N),Confidence level 
+Bickel 2008,Dementia 38 month,38 month,Odds ratio,41.2,4.3,396.2,,,,,0.95
+Bickel 2008,Dementia 8 month,8 month,Odds ratio,4.6,0.9,24.2,,,,,0.95
+Brown 2020,Dementia,12 month,Odds ratio,1.59,1.06,2.39,,,,,0.95
+Davis 2012,Dementia,29 month,Odds ratio,8.65,2.13,35.12,,,,,0.95
+Davis 2014,Dementia,24 month,Odds ratio,8.82,2.76,28.2,,,,,0.95
+Dros 2020,Dementia 12 month,12 month,Odds ratio,4.952,2.853,8.596,,,,,0.95
+Dros 2020,Dementia 3 month,3 month,Odds ratio,7.267,2.182,24.207,,,,,0.95
+Krogseth 2011,Dementia,6 month,Odds ratio,10.5,1.6,70.3,,,,,0.95
+Lingehall 2017,Dementia,60 month,Odds ratio,7.57,2.15,26.65,,,,,0.95
+Lundström 2003,Dementia,60 month,Odds ratio,5.66,1.31,23.56,,,,,0.95
+Neerland 2017,Dementia,12 month,Odds ratio,6.7,2.3,20.1,,,,,0.95
+Ojagbemi 2020,Dementia,3 month,Odds ratio,3.7,1.2,11.2,,,,,0.95
+Olofsson 2018,Dementia (postoperative delirium),36 month,Odds ratio,15.582,2.649,91.64,,,,,0.95
+Olofsson 2018,Dementia (preoperative delirium),36 month,Odds ratio,1.867,0.437,7.982,,,,,0.95
+Rawle 2021,Dementia,24 month,Odds ratio,8.63,5.06,14.7,,,,,0.95
+Richardson 2021,Dementia,12 month,Odds ratio,8.8,1.9,41.4,,,,,0.95
+Rockwood 1999,Dementia,36 month,Odds ratio,5.97,1.83,19.54,,,,,0.95
+van Rijsbergen 2011,Dementia (CDR scale),24 month,Odds ratio,4.7,1.08,20.42,,,,,0.95
+van Rijsbergen 2011,Dementia (Rotterdam-CAMCOG),24 month,Odds ratio,7.2,1.88,27.89,,,,,0.95
+Bulic 2020,Dementia 12 month,12 month,Cohort 2x2 (Events),0.90625,,,3,27,4,33,0.95
+Bulic 2020,Dementia 6 month,6 month,Cohort 2x2 (Events),0.933333333,,,2,27,3,38,0.95
+Dostovic 2021,Dementia (dementia rating scale),12 month,Cohort 2x2 (Events),10.32323232,,,56,74,22,95,0.95
+Dostovic 2021,Dementia (MMSE),12 month,Cohort 2x2 (Events),11.81512605,,,57,74,21,95,0.95
+Garcez 2019,Dementia,24 month,Cohort 2x2 (Events),2.51754386,,,21,66,38,243,0.95
+Kat 2008,Dementia,30 month,Cohort 2x2 (Events),14.54545455,,,16,27,2,22,0.95
+Marrama 2022,Dementia 108 month,108 month,Cohort 2x2 (Events),0.921832884,,,18,25,53,72,0.95
+Marrama 2022,Dementia 12 month,12 month,Cohort 2x2 (Events),0.756198347,,,3,25,11,72,0.95
+Marrama 2022,Dementia 120 month,120 month,Cohort 2x2 (Events),0.846774194,,,21,25,62,72,0.95
+Marrama 2022,Dementia 24 month,24 month,Cohort 2x2 (Events),0.947368421,,,6,25,18,72,0.95
+Marrama 2022,Dementia 36 month,36 month,Cohort 2x2 (Events),0.496240602,,,6,25,28,72,0.95
+Marrama 2022,Dementia 48 month,48 month,Cohort 2x2 (Events),0.622390892,,,8,25,31,72,0.95
+Marrama 2022,Dementia 60 month,60 month,Cohort 2x2 (Events),0.666666667,,,10,25,36,72,0.95
+Marrama 2022,Dementia 72 month,72 month,Cohort 2x2 (Events),0.781065089,,,12,25,39,72,0.95
+Marrama 2022,Dementia 84 month,84 month,Cohort 2x2 (Events),0.576241135,,,13,25,47,72,0.95
+Marrama 2022,Dementia 96 month,96 month,Cohort 2x2 (Events),0.636363636,,,14,25,48,72,0.95
+Nerdal 2022,Dementia 18 month,18 month,Cohort 2x2 (Events),5.071428571,,,7,9,49,120,0.95
+Nerdal 2022,Dementia 3 month,3 month,Cohort 2x2 (Events),12.55172414,,,8,10,29,120,0.95
+Nerdal 2022,Dementia 36 month,36 month,Cohort 2x2 (Events),10,,,4,6,14,84,0.95
+Olofsson 2018,Dementia 12 month,12 month,Cohort 2x2 (Events),73.51948052,,,25,63,0,55,0.95
+Olofsson 2018,Dementia 4 month,4 month,Cohort 2x2 (Events),18.02564103,,,9,67,0,55,0.95
+Rahkonen 2001,Dementia,36 month,Cohort 2x2 (Events),5.369565217,,,13,20,46,179,0.95
+Rolandi 2020,Dementia,96 month,Cohort 2x2 (Events),13.24615385,,,7,12,104,1088,0.95
+Bellelli 2008,Readmission,12 month,Odds ratio,1.6,1.1,2.4,,,,,0.95
+George 1997,Readmission 12 month,12 month,Odds ratio,2.05,1.19,3.54,,,,,0.95
+George 1997,Readmission 6 month,6 month,Odds ratio,1.92,1.04,3.66,,,,,0.95
+Han 2022,Rehopsitalization,1 month,Odds ratio,1.02,0.59,1.76,,,,,0.95
+Hempenius 2016,Readmission,3 month,Odds ratio,0.5,0.14,1.74,,,,,0.95
+Moon 2018,Readmission,6 month,Odds ratio,1.31,0.13,13.62,,,,,0.95
+Large 2013,Readmission,1 month,Odds ratio,10.7,2.2,51.8,,,,,0.95
+Noriega 2015,Readmission 1 month,1 month,Odds ratio,3.07,1.04,9.08,,,,,0.95
+Noriega 2015,Readmission 12 month,12 month,Odds ratio,1.55,0.56,4.26,,,,,0.95
+Pendlebury 2015,Readmission,1 month,Odds ratio,0.32,0.09,1.1,,,,,0.95
+Penfold 2023,Readmission,6 month,Odds ratio,1.79,1.02,3.15,,,,,0.95
+Sanguanwit 2023,Revisit: Emergency department,1 month,Odds ratio,1.55,0.59,4.11,,,,,0.95
+Traissac 2011,Readmission,1 month,Odds ratio,1.91,1.11,3.29,,,,,0.95
+Uthamalingam 2011,Readmission 1 month,1 month,Odds ratio,4.24,2.77,6.47,,,,,0.95
+Uthamalingam 2011,Readmission 3 month,3 month,Odds ratio,3.72,2.51,5.54,,,,,0.95
+Durlach 2023,Readmission,3 month,Cohort 2x2 (Events),1.430041152,,,15,42,54,193,0.95
+Eide 2016,Readmission 1 month,1 month,Cohort 2x2 (Events),4.153846154,,,24,76,6,60,0.95
+Eide 2016,Readmission 6 month,6 month,Cohort 2x2 (Events),1.761904762,,,37,76,21,60,0.95
+Falsini 2018,Readmission,6 month,Cohort 2x2 (Events),2.300653595,,,48,111,153,615,0.95
+Gleason 2015,Readmission (Complications and delirium vs Complications only),1 month,Cohort 2x2 (Events),1.885714286,,,6,20,5,27,0.95
+Gleason 2015,Readmission (Delirium only vs No complications or delirium),1 month,Cohort 2x2 (Events),2.574320051,,,22,115,34,404,0.95
+Gual 2018,Readmission,1 month,Cohort 2x2 (Events),0.845354196,,,51,352,93,557,0.95
+Hoogma 2023,Rehospitalization,6 month,Cohort 2x2 (Events),1.513227513,,,12,93,14,157,0.95
+Kennedy 2014,Rehospitalization,1 month,Cohort 2x2 (Events),2.393160127,,,17,63,82,613,0.95
+Koster 2012,Readmission,6 month,Cohort 2x2 (Events),2.327213115,,,21,46,61,230,0.95
+Li 2019,Readmission,1 month,Cohort 2x2 (Events),11.14285714,,,4,32,1,79,0.95
+Marcantonio 2005,Rehospitalization,1 month,Cohort 2x2 (Events),1.977099237,,,57,188,57,316,0.95
+Muzzana 2022,Readmission,1 month,Cohort 2x2 (Events),3.267857143,,,1,15,4,187,0.95
+Neufeld 2015,Readmission,18 month,Cohort 2x2 (Events),1.069053708,,,19,36,23,45,0.95
+Paulino 2023,Readmission 3 month,3 month,Cohort 2x2 (Events),1.4,,,5,20,10,52,0.95
+Paulino 2023,Readmission 6 month,6 month,Cohort 2x2 (Events),5.466666667,,,6,15,5,46,0.95
+Racine 2018,Readmission,1 month,Cohort 2x2 (Events),1.797101449,,,4,27,3,34,0.95
+Singler 2014,Contact: Emergency department,3 month,Cohort 2x2 (Events),1.04679803,,,5,19,29,114,0.95
+Suraarunsumrit 2022,Readmission,3 month,Cohort 2x2 (Events),1.119791667,,,6,42,32,247,0.95
+Vasunilashorn 2022,Rehospitalization 12 month (DEl-Long),12 month,Cohort 2x2 (Events),1.443073593,,,113,168,84,143,0.95
+Vasunilashorn 2022,Rehospitalization 12 month (DEL-short),12 month,Cohort 2x2 (Events),1.545189504,,,106,155,91,156,0.95
+Vasunilashorn 2022,Rehospitalization 3 month (DEl-Long),3 month,Cohort 2x2 (Events),1.531914894,,,72,168,47,143,0.95
+Vasunilashorn 2022,Rehospitalization 3 month (DEL-short),3 month,Cohort 2x2 (Events),1.522727273,,,67,155,52,156,0.95
+Whittamore 2014,Readmission,6 month,Cohort 2x2 (Events),1.021049754,,,45,107,59,142,0.95
+Zakriya 2004,Readmission: Emergency department 1.5 month,1.5 month,Cohort 2x2 (Events),0.630769231,,,0,19,2,63,0.95
+Zakriya 2004,Readmission: Emergency department 3 month,3 month,Cohort 2x2 (Events),0.539170507,,,0,15,3,61,0.95
+Zakriya 2004,Readmission: Hospital admission 1.5 month,1.5 month,Cohort 2x2 (Events),0.630769231,,,0,19,2,63,0.95
+Zakriya 2004,Readmission: Hospital admission 3 month,3 month,Cohort 2x2 (Events),0.539170507,,,0,15,3,61,0.95
