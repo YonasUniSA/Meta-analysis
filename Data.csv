@@ -1,0 +1,1202 @@
+﻿study name,sub-group,timepoint,Data format,OR,Lower Limit  ,Upper Limit  ,"Event 
+delirium group",Delirium group total (N),"Event 
+no-delirium group",Non-delirium group total (N),"95% confidence 
+interval",Log OR,SE,"Delirium 
+mean","Delirium
+(SD)","Delirium 
+Sample size","No-delirium 
+mean","No-delirium
+(SD)","No-delirium 
+Sample size",Effect direction,"Independent 
+group t-value","Independent 
+group p-value",difference in means,Lower limit,upper limit,Tail,Hedges's g,Std Err,Variance
+Bickel 2008,Dementia ,38 month,Odds ratio,41.2,4.3,396.2,,,,,,,,,,,,,,,,,,,,,,,
+Bickel 2008,Dementia ,8 month,Odds ratio,4.6,0.9,24.2,,,,,,,,,,,,,,,,,,,,,,,
+Brown 2020,Dementia,12 month,Odds ratio,1.59,1.06,2.39,,,,,,,,,,,,,,,,,,,,,,,
+Davis 2012,Dementia,29 month,Odds ratio,8.65,2.13,35.12,,,,,,,,,,,,,,,,,,,,,,,
+Davis 2014,Dementia,24 month,Odds ratio,8.82,2.76,28.2,,,,,,,,,,,,,,,,,,,,,,,
+Dros 2020,Dementia ,12 month,Odds ratio,4.952,2.853,8.596,,,,,,,,,,,,,,,,,,,,,,,
+Dros 2020,Dementia,3 month,Odds ratio,7.267,2.182,24.207,,,,,,,,,,,,,,,,,,,,,,,
+Krogseth 2011,Dementia,6 month,Odds ratio,10.5,1.6,70.3,,,,,,,,,,,,,,,,,,,,,,,
+Lingehall 2017,Dementia,60 month,Odds ratio,7.57,2.15,26.65,,,,,,,,,,,,,,,,,,,,,,,
+Lundström 2003,Dementia,60 month,Odds ratio,5.66,1.31,23.56,,,,,,,,,,,,,,,,,,,,,,,
+Neerland 2017,Dementia,12 month,Odds ratio,6.7,2.3,20.1,,,,,,,,,,,,,,,,,,,,,,,
+Ojagbemi 2020,Dementia,3 month,Odds ratio,3.7,1.2,11.2,,,,,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Dementia (postoperative delirium),36 month,Odds ratio,15.582,2.649,91.64,,,,,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Dementia (preoperative delirium),36 month,Odds ratio,1.867,0.437,7.982,,,,,,,,,,,,,,,,,,,,,,,
+Rawle 2021,Dementia,24 month,Odds ratio,8.63,5.06,14.7,,,,,,,,,,,,,,,,,,,,,,,
+Richardson 2021,Dementia,12 month,Odds ratio,8.8,1.9,41.4,,,,,,,,,,,,,,,,,,,,,,,
+Rockwood 1999,Dementia,36 month,Odds ratio,5.97,1.83,19.54,,,,,,,,,,,,,,,,,,,,,,,
+van Rijsbergen 2011,Dementia (CDR scale),24 month,Odds ratio,4.7,1.08,20.42,,,,,,,,,,,,,,,,,,,,,,,
+van Rijsbergen 2011,Dementia (Rotterdam-CAMCOG),24 month,Odds ratio,7.2,1.88,27.89,,,,,,,,,,,,,,,,,,,,,,,
+Bulic 2020,Dementia ,12 month,Cohort 2x2 (Events),0.90625,,,3,27,4,33,,,,,,,,,,,,,,,,,,,
+Bulic 2020,Dementia ,6 month,Cohort 2x2 (Events),0.933333333,,,2,27,3,38,,,,,,,,,,,,,,,,,,,
+Dostovic 2021,Dementia (dementia rating scale),12 month,Cohort 2x2 (Events),10.32323232,,,56,74,22,95,,,,,,,,,,,,,,,,,,,
+Dostovic 2021,Dementia (MMSE),12 month,Cohort 2x2 (Events),11.81512605,,,57,74,21,95,,,,,,,,,,,,,,,,,,,
+Garcez 2019,Dementia,24 month,Cohort 2x2 (Events),2.51754386,,,21,66,38,243,,,,,,,,,,,,,,,,,,,
+Kat 2008,Dementia,30 month,Cohort 2x2 (Events),14.54545455,,,16,27,2,22,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,108 month,Cohort 2x2 (Events),0.921832884,,,18,25,53,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,12 month,Cohort 2x2 (Events),0.756198347,,,3,25,11,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,120 month,Cohort 2x2 (Events),0.846774194,,,21,25,62,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,24 month,Cohort 2x2 (Events),0.947368421,,,6,25,18,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,36 month,Cohort 2x2 (Events),0.496240602,,,6,25,28,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,48 month,Cohort 2x2 (Events),0.622390892,,,8,25,31,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia,60 month,Cohort 2x2 (Events),0.666666667,,,10,25,36,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,72 month,Cohort 2x2 (Events),0.781065089,,,12,25,39,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,84 month,Cohort 2x2 (Events),0.576241135,,,13,25,47,72,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Dementia ,96 month,Cohort 2x2 (Events),0.636363636,,,14,25,48,72,,,,,,,,,,,,,,,,,,,
+Nerdal 2022,Dementia,18 month,Cohort 2x2 (Events),5.071428571,,,7,9,49,120,,,,,,,,,,,,,,,,,,,
+Nerdal 2022,Dementia,3 month,Cohort 2x2 (Events),12.55172414,,,8,10,29,120,,,,,,,,,,,,,,,,,,,
+Nerdal 2022,Dementia,36 month,Cohort 2x2 (Events),10,,,4,6,14,84,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Dementia,12 month,Cohort 2x2 (Events),73.51948052,,,25,63,0,55,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Dementia ,4 month,Cohort 2x2 (Events),18.02564103,,,9,67,0,55,,,,,,,,,,,,,,,,,,,
+Rahkonen 2001,Dementia,36 month,Cohort 2x2 (Events),5.369565217,,,13,20,46,179,,,,,,,,,,,,,,,,,,,
+Rolandi 2020,Dementia,96 month,Cohort 2x2 (Events),13.24615385,,,7,12,104,1088,,,,,,,,,,,,,,,,,,,
+Bellelli 2008,Readmission,12 month,Odds ratio,1.6,1.1,2.4,,,,,,,,,,,,,,,,,,,,,,,
+George 1997,Readmission ,12 month,Odds ratio,2.05,1.19,3.54,,,,,,,,,,,,,,,,,,,,,,,
+George 1997,Readmission ,6 month,Odds ratio,1.92,1.04,3.66,,,,,,,,,,,,,,,,,,,,,,,
+Han 2022,Rehopsitalization,1 month,Odds ratio,1.02,0.59,1.76,,,,,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Readmission,3 month,Odds ratio,0.5,0.14,1.74,,,,,,,,,,,,,,,,,,,,,,,
+Moon 2018,Readmission,6 month,Odds ratio,1.31,0.13,13.62,,,,,,,,,,,,,,,,,,,,,,,
+Large 2013,Readmission,1 month,Odds ratio,10.7,2.2,51.8,,,,,,,,,,,,,,,,,,,,,,,
+Noriega 2015,Readmission,1 month,Odds ratio,3.07,1.04,9.08,,,,,,,,,,,,,,,,,,,,,,,
+Noriega 2015,Readmission,12 month,Odds ratio,1.55,0.56,4.26,,,,,,,,,,,,,,,,,,,,,,,
+Pendlebury 2015,Readmission,1 month,Odds ratio,0.32,0.09,1.1,,,,,,,,,,,,,,,,,,,,,,,
+Penfold 2023,Readmission,6 month,Odds ratio,1.79,1.02,3.15,,,,,,,,,,,,,,,,,,,,,,,
+Sanguanwit 2023,Revisit: Emergency department,1 month,Odds ratio,1.55,0.59,4.11,,,,,,,,,,,,,,,,,,,,,,,
+Traissac 2011,Readmission,1 month,Odds ratio,1.91,1.11,3.29,,,,,,,,,,,,,,,,,,,,,,,
+Uthamalingam 2011,Readmission ,1 month,Odds ratio,4.24,2.77,6.47,,,,,,,,,,,,,,,,,,,,,,,
+Uthamalingam 2011,Readmission,3 month,Odds ratio,3.72,2.51,5.54,,,,,,,,,,,,,,,,,,,,,,,
+Durlach 2023,Readmission,3 month,Cohort 2x2 (Events),1.430041152,,,15,42,54,193,,,,,,,,,,,,,,,,,,,
+Eide 2016,Readmission ,1 month,Cohort 2x2 (Events),4.153846154,,,24,76,6,60,,,,,,,,,,,,,,,,,,,
+Eide 2016,Readmission,6 month,Cohort 2x2 (Events),1.761904762,,,37,76,21,60,,,,,,,,,,,,,,,,,,,
+Falsini 2018,Readmission,6 month,Cohort 2x2 (Events),2.300653595,,,48,111,153,615,,,,,,,,,,,,,,,,,,,
+Gleason 2015,Readmission (Complications and delirium vs Complications only),1 month,Cohort 2x2 (Events),1.885714286,,,6,20,5,27,,,,,,,,,,,,,,,,,,,
+Gleason 2015,Readmission (Delirium only vs No complications or delirium),1 month,Cohort 2x2 (Events),2.574320051,,,22,115,34,404,,,,,,,,,,,,,,,,,,,
+Gual 2018,Readmission,1 month,Cohort 2x2 (Events),0.845354196,,,51,352,93,557,,,,,,,,,,,,,,,,,,,
+Hoogma 2023,Rehospitalization,6 month,Cohort 2x2 (Events),1.513227513,,,12,93,14,157,,,,,,,,,,,,,,,,,,,
+Kennedy 2014,Rehospitalization,1 month,Cohort 2x2 (Events),2.393160127,,,17,63,82,613,,,,,,,,,,,,,,,,,,,
+Koster 2012,Readmission,6 month,Cohort 2x2 (Events),2.327213115,,,21,46,61,230,,,,,,,,,,,,,,,,,,,
+Li 2019,Readmission,1 month,Cohort 2x2 (Events),11.14285714,,,4,32,1,79,,,,,,,,,,,,,,,,,,,
+Marcantonio 2005,Rehospitalization,1 month,Cohort 2x2 (Events),1.977099237,,,57,188,57,316,,,,,,,,,,,,,,,,,,,
+Muzzana 2022,Readmission,1 month,Cohort 2x2 (Events),3.267857143,,,1,15,4,187,,,,,,,,,,,,,,,,,,,
+Neufeld 2015,Readmission,18 month,Cohort 2x2 (Events),1.069053708,,,19,36,23,45,,,,,,,,,,,,,,,,,,,
+Paulino 2023,Readmission ,3 month,Cohort 2x2 (Events),1.4,,,5,20,10,52,,,,,,,,,,,,,,,,,,,
+Paulino 2023,Readmission ,6 month,Cohort 2x2 (Events),5.466666667,,,6,15,5,46,,,,,,,,,,,,,,,,,,,
+Racine 2018,Readmission,1 month,Cohort 2x2 (Events),1.797101449,,,4,27,3,34,,,,,,,,,,,,,,,,,,,
+Singler 2014,Contact: Emergency department,3 month,Cohort 2x2 (Events),1.04679803,,,5,19,29,114,,,,,,,,,,,,,,,,,,,
+Suraarunsumrit 2022,Readmission,3 month,Cohort 2x2 (Events),1.119791667,,,6,42,32,247,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2022,Rehospitalization(DEl-Long),12 month,Cohort 2x2 (Events),1.443073593,,,113,168,84,143,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2022,Rehospitalization (DEL-short),12 month,Cohort 2x2 (Events),1.545189504,,,106,155,91,156,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2022,Rehospitalization (DEl-Long),3 month,Cohort 2x2 (Events),1.531914894,,,72,168,47,143,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2022,Rehospitalization (DEL-short),3 month,Cohort 2x2 (Events),1.522727273,,,67,155,52,156,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Readmission,6 month,Cohort 2x2 (Events),1.021049754,,,45,107,59,142,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Readmission: Emergency department ,1.5 month,Cohort 2x2 (Events),0.630769231,,,0,19,2,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Readmission: Emergency department,3 month,Cohort 2x2 (Events),0.539170507,,,0,15,3,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Readmission: Hospital admission ,1.5 month,Cohort 2x2 (Events),0.630769231,,,0,19,2,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Readmission: Hospital admission ,3 month,Cohort 2x2 (Events),0.539170507,,,0,15,3,61,,,,,,,,,,,,,,,,,,,
+Bellelli 2008,Institutionalisation,12 month,Odds ratio,2.3,1.3,3.9,,,,,,,,,,,,,,,,,,,,,,,
+Cole 2008,Institutionalisation ,12 month,Odds ratio,1.37,0.67,2.83,,,,,,,,,,,,,,,,,,,,,,,
+Cole 2008,Institutionalisation,6 month,Odds ratio,0.79,0.4,1.56,,,,,,,,,,,,,,,,,,,,,,,
+deJong 2019,Institutionalisation (wth dementia) ,12 month,Odds ratio,2.09,0.36,12.32,,,,,,,,,,,,,,,,,,,,,,,
+deJong 2019,Institutionalisation (wthout dementia),12 month,Odds ratio,7.06,2.13,23.41,,,,,,,,,,,,,,,,,,,,,,,
+George 1997,Institutionalisation ,12 month,Odds ratio,4.53,,14.59,,,,,,,,,,,,,,,,,,,,,,,
+George 1997,Institutionalisation,6 month,Odds ratio,4.3,1.8,,,,,,,,,,,,,,,,,,,,,,,,
+Givens 2009,Institutionalisation,12 month,Odds ratio,2.49,1.06,5.83,,,,,,,,,,,,,,,,,,,,,,,
+Hawley 2023,Institutionalisation,4 month,Odds ratio,2.1739,1.8181,2.6315,,,,,,,,,,,,,,,,,,,,,,,
+Inouye 1998,Institutionalisation,3 month,Odds ratio,3,1.5,6,,,,,,,,,,,,,,,,,,,,,,,
+Krogseth 2014,Institutionalisation,6 month,Odds ratio,5.5,1.77,17.11,,,,,,,,,,,,,,,,,,,,,,,
+Labaste 2023,Institutionalisation,3 month,Odds ratio,5.23,1.1,27.04,,,,,,,,,,,,,,,,,,,,,,,
+McCusker 2001,Institutionalisation,12 month,Odds ratio,1.15,0.33,4.05,,,,,,,,,,,,,,,,,,,,,,,
+Morandi 2014,Institutionalisation,12 month,Odds ratio,2.41,1.02,5.66,,,,,,,,,,,,,,,,,,,,,,,
+O'Keeffe 1997,Institutionalisation,6 month,Odds ratio,2.8,1.3,6.1,,,,,,,,,,,,,,,,,,,,,,,
+Pitkala 2005,Institutionalisation,24 month,Odds ratio,2.45,1.2,4.9,,,,,,,,,,,,,,,,,,,,,,,
+Rawle 2021,Institutionalisation,24 month,Odds ratio,4.79,2.87,7.99,,,,,,,,,,,,,,,,,,,,,,,
+Durlach 2023,Institutionalisation ,3 month,Cohort 2x2 (Events),,,,18,42,53,193,,,,,,,,,,,,,,,,,,,
+Eeles 2010,Institutionalisation ,12 month,Cohort 2x2 (Events),,,,15,37,24,136,,,,,,,,,,,,,,,,,,,
+Eeles 2010,Institutionalisation ,24 month,Cohort 2x2 (Events),,,,7,21,17,112,,,,,,,,,,,,,,,,,,,
+Eeles 2010,Institutionalisation ,36 month,Cohort 2x2 (Events),,,,4,14,13,95,,,,,,,,,,,,,,,,,,,
+Eeles 2010,Institutionalisation ,48 month,Cohort 2x2 (Events),,,,2,11,11,87,,,,,,,,,,,,,,,,,,,
+Eeles 2010,Institutionalisation ,60 month,Cohort 2x2 (Events),,,,1,8,7,61,,,,,,,,,,,,,,,,,,,
+Francis 1990,Institutionalisation,6 month,Cohort 2x2 (Events),,,,6,49,8,167,,,,,,,,,,,,,,,,,,,
+Hölttä 2011,Institutionalisation,24 month,Cohort 2x2 (Events),,,,51,66,130,189,,,,,,,,,,,,,,,,,,,
+Kat 2008,Institutionalisation,30 month,Cohort 2x2 (Events),,,,19,38,8,28,,,,,,,,,,,,,,,,,,,
+Maclullich 2019,Institutionalisation,3 month,Cohort 2x2 (Events),,,,1,34,2,206,,,,,,,,,,,,,,,,,,,
+Mariz 2013,Institutionalisation,1 month,Cohort 2x2 (Events),,,,13,28,31,50,,,,,,,,,,,,,,,,,,,
+McAvay 2006,Institutionalisation,12 month,Cohort 2x2 (Events),,,,14,31,111,378,,,,,,,,,,,,,,,,,,,
+Neufeld 2015,Institutionalisation,18 month,Cohort 2x2 (Events),,,,3,36,2,45,,,,,,,,,,,,,,,,,,,
+Paulino 2023,Institutionalisation ,3 month,Cohort 2x2 (Events),,,,5,20,5,52,,,,,,,,,,,,,,,,,,,
+Paulino 2023,Institutionalisation,6 month,Cohort 2x2 (Events),,,,1,15,2,46,,,,,,,,,,,,,,,,,,,
+Racine 2018,Institutionalisation,1 month,Cohort 2x2 (Events),,,,3,27,3,34,,,,,,,,,,,,,,,,,,,
+Sheng 2006,Institutionalisation,12 month,Cohort 2x2 (Events),,,,13,39,19,117,,,,,,,,,,,,,,,,,,,
+Visser 2015,Institutionalisation,12 month,Cohort 2x2 (Events),,,,10,22,27,441,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Institutionalisation ,3 month,Cohort 2x2 (Events),,,,4,15,5,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Institutionalisation,1.5 month,Cohort 2x2 (Events),,,,6,19,2,63,,,,,,,,,,,,,,,,,,,
+Miu 2013,Institutionalisation,12 month,Cohort 2x2 (Events),,,,56,86,29,228,,,,,,,,,,,,,,,,,,,
+Miu 2013,Institutionalisation ,6 month,Cohort 2x2 (Events),,,,52,86,28,228,,,,,,,,,,,,,,,,,,,
+Abelha 2013,Mortality,6 month,Odds ratio,2.562,1.36,4.828,,,,,,,,,,,,,,,,,,,,,,,
+Alzoubi 2023,Mortality,4 month,Odds ratio,7.11,1.97,25.68,,,,,,,,,,,,,,,,,,,,,,,
+Arneson 2023,Mortality ,0.23 month,Odds ratio,5.23,1.44,19.05,,,,,,,,,,,,,,,,,,,,,,,
+Arneson 2023,Mortality ,1 month,Odds ratio,2.82,1.45,5.46,,,,,,,,,,,,,,,,,,,,,,,
+Bickel 2008,Mortality,38 month,Odds ratio,1.7,0.6,5,,,,,,,,,,,,,,,,,,,,,,,
+Bickel 2008,Mortality,8 month,Odds ratio,1.3,0.2,8.5,,,,,,,,,,,,,,,,,,,,,,,
+deJong 2019,Mortality ,1 month,Odds ratio,1.68,0.8,3.53,,,,,,,,,,,,,,,,,,,,,,,
+deJong 2019,Mortality,12 month,Odds ratio,1.93,1.13,3.28,,,,,,,,,,,,,,,,,,,,,,,
+Edelstein 2004,Mortality,12 month,Odds ratio,2.4,1.1,4.9,,,,,,,,,,,,,,,,,,,,,,,
+Falsini 2018,Mortality ,1 month,Odds ratio,5.57,2.51,12.4,,,,,,,,,,,,,,,,,,,,,,,
+Falsini 2018,Mortality ,6 month,Odds ratio,2.39,1.16,4.9,,,,,,,,,,,,,,,,,,,,,,,
+Fick 2013,Mortality,1 month,Odds ratio,2.33,0.82,6.61,,,,,,,,,,,,,,,,,,,,,,,
+George 1997,Mortality,12 month,Odds ratio,2.3,1.25,4.35,,,,,,,,,,,,,,,,,,,,,,,
+George 1997,Mortality ,6 month,Odds ratio,3.11,1.52,6.77,,,,,,,,,,,,,,,,,,,,,,,
+Givens 2009,Mortality,12 month,Odds ratio,1.32,0.56,3.08,,,,,,,,,,,,,,,,,,,,,,,
+Han 2022,Mortality,1 month,Odds ratio,2.68,1.05,6.5,,,,,,,,,,,,,,,,,,,,,,,
+Inouye 1998,Mortality,3 month,Odds ratio,1.6,0.8,3.2,,,,,,,,,,,,,,,,,,,,,,,
+Kakuma 2003,mortality ,12 month,Odds ratio,2.5,0.76,8.18,,,,,,,,,,,,,,,,,,,,,,,
+Kakuma 2003,Mortality,18 month,Odds ratio,1.34,0.45,4.01,,,,,,,,,,,,,,,,,,,,,,,
+Kakuma 2003,Mortality ,6 month,Odds ratio,6.17,1.43,26.56,,,,,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality,6 month,Odds ratio,1.82,1.02,3.23,,,,,,,,,,,,,,,,,,,,,,,
+Knauf 2019,Mortality,60 month,Odds ratio,0.462,0.26,0.818,,,,,,,,,,,,,,,,,,,,,,,
+Krzych 2014,Mortality ,1 month,Odds ratio,3.735,1.428,9.772,,,,,,,,,,,,,,,,,,,,,,,
+Maclullich 2019,Mortality,3 month,Odds ratio,2,0.85,4.7,,,,,,,,,,,,,,,,,,,,,,,
+Mazzola 2015,Mortality,6 month,Odds ratio,3.8,1.72,8.39,,,,,,,,,,,,,,,,,,,,,,,
+Monacelli 2018,Mortality,3 month,Odds ratio,7.88,0.97,63.71,,,,,,,,,,,,,,,,,,,,,,,
+Morandi 2014,Mortality,12 month,Odds ratio,1.54,0.77,3.07,,,,,,,,,,,,,,,,,,,,,,,
+Moskowitz 2017,Mortality,60 month,Odds ratio,7.35,1.49,36.18,,,,,,,,,,,,,,,,,,,,,,,
+Noriega 2015,Mortality ,12 month,Odds ratio,4.2,1.81,9.74,,,,,,,,,,,,,,,,,,,,,,,
+Ojagbemi 2021,Mortality ,12 month,Odds ratio,3.4,1.5,7.6,,,,,,,,,,,,,,,,,,,,,,,
+Ojagbemi 2021,Mortality,3 month,Odds ratio,3.1,1.2,7.6,,,,,,,,,,,,,,,,,,,,,,,
+O'Keeffe 1997,Mortality,6 month,Odds ratio,1.4,0.7,2.8,,,,,,,,,,,,,,,,,,,,,,,
+Pasinska 2019,Mortality ,12 month,Odds ratio,1.72,1.01,2.92,,,,,,,,,,,,,,,,,,,,,,,
+Pasinska 2019,Mortality ,3 month,Odds ratio,2.83,1.54,5.21,,,,,,,,,,,,,,,,,,,,,,,
+Penfold 2023,Mortality,6 month,Odds ratio,1.69,1.13,2.54,,,,,,,,,,,,,,,,,,,,,,,
+Pitkala 2005,Mortality ,12 month,Odds ratio,1.86,1.1,3.1,,,,,,,,,,,,,,,,,,,,,,,
+Pitkala 2005,Mortality ,24 month,Odds ratio,1.76,1.1,2.8,,,,,,,,,,,,,,,,,,,,,,,
+Praditsuwan 2013,Mortality,3 month,Odds ratio,3.33,1.45,7.62,,,,,,,,,,,,,,,,,,,,,,,
+Radcliffe 2023,Mortality either COVID-19 or suspected COVID-19,1 month,Odds ratio,5.5,2.6,11.7,,,,,,,,,,,,,,,,,,,,,,,
+Radcliffe 2023,Mortality patients with COVID-19,1 month,Odds ratio,7.1,2.2,22.7,,,,,,,,,,,,,,,,,,,,,,,
+Rego 2022,Mortality,12 month,Odds ratio,1.96,0.25,15.39,,,,,,,,,,,,,,,,,,,,,,,
+Rizzi 2015,Mortality,1 month,Odds ratio,3.532,1.422,8.769,,,,,,,,,,,,,,,,,,,,,,,
+Rollo 2022,Mortality,3 month,Odds ratio,3.45,0.66,17.95,,,,,,,,,,,,,,,,,,,,,,,
+Sanguanwit 2023,Mortality,1 month,Odds ratio,2.15,0.37,12.25,,,,,,,,,,,,,,,,,,,,,,,
+VanRompaey 2009,Mortality ,3 month,Odds ratio,4.31,1.26,14.68,,,,,,,,,,,,,,,,,,,,,,,
+VanRompaey 2009,Mortality ,6 month,Odds ratio,3.8,1.11,13.05,,,,,,,,,,,,,,,,,,,,,,,
+Veiga 2012,Mortality,6 month,Odds ratio,3,1.8,5,,,,,,,,,,,,,,,,,,,,,,,
+Wang 2021,Mortality,24 month,Odds ratio,0.946,0.226,3.97,,,,,,,,,,,,,,,,,,,,,,,
+Ziman 2020,Mortality,60 month,Odds ratio,1.18,0.85,1.65,,,,,,,,,,,,,,,,,,,,,,,
+Adamis 2007,Mortality,6 month,Cohort 2x2 (Events),,,,6,47,15,117,,,,,,,,,,,,,,,,,,,
+Alberto 2018,Mortality,12 month,Cohort 2x2 (Events),,,,24,35,76,204,,,,,,,,,,,,,,,,,,,
+AlHuraizi 2023,Mortality,12 month,Cohort 2x2 (Events),,,,55,153,21,131,,,,,,,,,,,,,,,,,,,
+AlHuraizi 2023,Mortality ,3 month,Cohort 2x2 (Events),,,,39,153,11,131,,,,,,,,,,,,,,,,,,,
+Arneson 2023,Mortality ,0.16 month,Cohort 2x2 (Events),,,,8,107,12,860,,,,,,,,,,,,,,,,,,,
+Arneson 2023,Mortality ,0.33 month,Cohort 2x2 (Events),,,,10,107,20,860,,,,,,,,,,,,,,,,,,,
+Arneson 2023,Mortality ,0.5 month,Cohort 2x2 (Events),,,,15,107,30,860,,,,,,,,,,,,,,,,,,,
+Arneson 2023,Mortality ,0.66 month,Cohort 2x2 (Events),,,,18,107,37,860,,,,,,,,,,,,,,,,,,,
+Arneson 2023,Mortality ,0.83 month,Cohort 2x2 (Events),,,,19,107,48,860,,,,,,,,,,,,,,,,,,,
+Avelino-Silva 2017,Mortality (Delirium vs no delirium no dementia),12 month,Cohort 2x2 (Events),,,,53,207,85,527,,,,,,,,,,,,,,,,,,,
+Avelino-Silva 2017,"Mortality (DSD vs No delirium, dementia)",12 month,Cohort 2x2 (Events),,,,92,250,42,160,,,,,,,,,,,,,,,,,,,
+Avelino-Silva 2018,Mortality,12 month,Cohort 2x2 (Events),,,,145,457,127,687,,,,,,,,,,,,,,,,,,,
+Bagienski 2017,Mortality ,1 month,Cohort 2x2 (Events),,,,5,29,0,112,,,,,,,,,,,,,,,,,,,
+Bagienski 2017,Mortality,12 month,Cohort 2x2 (Events),,,,11,29,4,112,,,,,,,,,,,,,,,,,,,
+Bagienski 2017,Mortality  ,15.8 month,Cohort 2x2 (Events),,,,14,29,12,112,,,,,,,,,,,,,,,,,,,
+Bakker 2012,Mortality,1 month,Cohort 2x2 (Events),,,,9,63,0,138,,,,,,,,,,,,,,,,,,,
+Beishuizen 2020,Mortality,7 month,Cohort 2x2 (Events),,,,4,14,6,77,,,,,,,,,,,,,,,,,,,
+Bellelli 2007,Mortality,12 month,Cohort 2x2 (Events),,,,17,94,9,94,,,,,,,,,,,,,,,,,,,
+Bellelli 2008,Mortality,12 month,Cohort 2x2 (Events),,,,37,139,99,933,,,,,,,,,,,,,,,,,,,
+Bellelli 2018,Mortality,6 month,Cohort 2x2 (Events),,,,53,220,29,351,,,,,,,,,,,,,,,,,,,
+Bulic 2020,Mortality,12 month,Cohort 2x2 (Events),,,,5,37,12,66,,,,,,,,,,,,,,,,,,,
+Cartei 2022,Mortality,12 month,Cohort 2x2 (Events),,,,52,193,21,194,,,,,,,,,,,,,,,,,,,
+Chalmers 2021,Mortality,44 month,Cohort 2x2 (Events),,,,371,831,499,1640,,,,,,,,,,,,,,,,,,,
+Chan 2016,Mortality ,12 month,Cohort 2x2 (Events),,,,32,49,21,104,,,,,,,,,,,,,,,,,,,
+Chan 2016,Mortality,1 month,Cohort 2x2 (Events),,,,11,49,5,104,,,,,,,,,,,,,,,,,,,
+Chan 2017,Mortality ,12 month,Cohort 2x2 (Events),,,,16,39,18,117,,,,,,,,,,,,,,,,,,,
+Chan 2017,Mortality,1 month,Cohort 2x2 (Events),,,,4,39,5,117,,,,,,,,,,,,,,,,,,,
+Chan 2017,Mortality ,6 month,Cohort 2x2 (Events),,,,11,39,14,117,,,,,,,,,,,,,,,,,,,
+Cheong 2021,Mortality,1 month,Cohort 2x2 (Events),,,,5,50,12,396,,,,,,,,,,,,,,,,,,,
+Cole 2008,Mortality ,12 month,Cohort 2x2 (Events),,,,31,115,7,95,,,,,,,,,,,,,,,,,,,
+Cole 2008,Mortality ,6 month,Cohort 2x2 (Events),,,,16,115,4,95,,,,,,,,,,,,,,,,,,,
+Curyto 2001,Mortality,36 month,Cohort 2x2 (Events),,,,9,12,21,41,,,,,,,,,,,,,,,,,,,
+Czyzycki 2022,Mortality total ,12 month,Cohort 2x2 (Events),,,,92,158,87,490,,,,,,,,,,,,,,,,,,,
+Czyzycki 2022,Mortality total ,3 month,Cohort 2x2 (Events),,,,73,163,54,488,,,,,,,,,,,,,,,,,,,
+Dani 2017,Mortality,36 month,Cohort 2x2 (Events),,,,59,72,311,636,,,,,,,,,,,,,,,,,,,
+Davis 2014,Mortality,24 month,Cohort 2x2 (Events),,,,72,122,706,2075,,,,,,,,,,,,,,,,,,,
+DeCrane 2011,Mortality,1 month,Cohort 2x2 (Events),,,,24,70,45,250,,,,,,,,,,,,,,,,,,,
+deHaan 2023,Mortality ,12 month,Cohort 2x2 (Events),,,,109,326,286,1725,,,,,,,,,,,,,,,,,,,
+deHaan 2023,Mortality,1 month,Cohort 2x2 (Events),,,,53,326,99,1725,,,,,,,,,,,,,,,,,,,
+Diwell 2018,Mortality ,36 month,Cohort 2x2 (Events),,,,35,56,156,301,,,,,,,,,,,,,,,,,,,
+Diwell 2018,Mortality,6 month,Cohort 2x2 (Events),,,,21,56,145,301,,,,,,,,,,,,,,,,,,,
+Duprey 2020,Mortality ,1.67 month,Cohort 2x2 (Events),,,,115,542,171,953,,,,,,,,,,,,,,,,,,,
+Duprey 2020,Mortality ,2.33 month,Cohort 2x2 (Events),,,,118,242,177,953,,,,,,,,,,,,,,,,,,,
+Duprey 2020,Mortality ,3 month,Cohort 2x2 (Events),,,,124,542,183,953,,,,,,,,,,,,,,,,,,,
+Durlach 2023,Mortality,3 month,Cohort 2x2 (Events),,,,9,42,29,193,,,,,,,,,,,,,,,,,,,
+Edlund 2006,Mortality,12 month,Cohort 2x2 (Events),,,,45,125,55,275,,,,,,,,,,,,,,,,,,,
+van Eijsden 2015,Mortality ,12 month,Cohort 2x2 (Events),,,,20,29,24,63,,,,,,,,,,,,,,,,,,,
+van Eijsden 2015,Mortality ,18 month,Cohort 2x2 (Events),,,,26,29,63,63,,,,,,,,,,,,,,,,,,,
+van Eijsden 2015,Mortality ,6 month,Cohort 2x2 (Events),,,,11,29,5,63,,,,,,,,,,,,,,,,,,,
+Elsayem 2017,Mortality,10 month,Cohort 2x2 (Events),,,,39,44,144,198,,,,,,,,,,,,,,,,,,,
+Elsayem 2017,Mortality ,15 month,Cohort 2x2 (Events),,,,43,44,186,198,,,,,,,,,,,,,,,,,,,
+Elsayem 2017,Mortality ,5 month,Cohort 2x2 (Events),,,,33,44,81,198,,,,,,,,,,,,,,,,,,,
+Evensen 2021,Mortality,12 month,Cohort 2x2 (Events),,,,18,83,45,145,,,,,,,,,,,,,,,,,,,
+FialhoSilva 2021,Mortality,3 month,Cohort 2x2 (Events),,,,18,71,5,151,,,,,,,,,,,,,,,,,,,
+Francis 1990,Mortality,6 month,Cohort 2x2 (Events),,,,7,49,17,167,,,,,,,,,,,,,,,,,,,
+Francis 1992,Mortality,24 month,Cohort 2x2 (Events),,,,18,45,37,160,,,,,,,,,,,,,,,,,,,
+Furlaneto 2007,Mortality ,24 month,Cohort 2x2 (Events),,,,9,25,16,60,,,,,,,,,,,,,,,,,,,
+Furlaneto 2007,Mortality ,48 month,Cohort 2x2 (Events),,,,15,25,24,60,,,,,,,,,,,,,,,,,,,
+Gonzale 2005,Mortality,3 month,Cohort 2x2 (Events),,,,20,58,10,91,,,,,,,,,,,,,,,,,,,
+Gonzalez 2009,Mortality,3 month,Cohort 2x2 (Events),,,,49,192,20,350,,,,,,,,,,,,,,,,,,,
+Gottschalk 2015,Mortality,168 month,Cohort 2x2 (Events),,,,127,151,213,308,,,,,,,,,,,,,,,,,,,
+Gou 2021,Mortality ,12 month,Cohort 2x2 (Events),,,,1,122,6,375,,,,,,,,,,,,,,,,,,,
+Goudzwaard 2020,Mortality,16 month,Cohort 2x2 (Events),,,,24,75,70,468,,,,,,,,,,,,,,,,,,,
+Han 2010,Mortality,1 month,Cohort 2x2 (Events),,,,11,108,11,520,,,,,,,,,,,,,,,,,,,
+Han 2010,Mortality ,2 month,Cohort 2x2 (Events),,,,15,108,19,520,,,,,,,,,,,,,,,,,,,
+Han 2010,Mortality ,3 month,Cohort 2x2 (Events),,,,22,108,28,520,,,,,,,,,,,,,,,,,,,
+Han 2010,Mortality,4 month,Cohort 2x2 (Events),,,,27,108,34,520,,,,,,,,,,,,,,,,,,,
+Han 2010,Mortality ,5 month,Cohort 2x2 (Events),,,,29,108,46,520,,,,,,,,,,,,,,,,,,,
+Han 2010,Mortality,6 month,Cohort 2x2 (Events),,,,30,108,49,520,,,,,,,,,,,,,,,,,,,
+Hapca 2018,Mortality ,1 month,Cohort 2x2 (Events),,,,153,1065,382,4344,,,,,,,,,,,,,,,,,,,
+Hapca 2018,Mortality ,12 month,Cohort 2x2 (Events),,,,233,508,222,522,,,,,,,,,,,,,,,,,,,
+Hapca 2018,Mortality ,24 month,Cohort 2x2 (Events),,,,299,508,289,522,,,,,,,,,,,,,,,,,,,
+Hapca 2018,Mortality ,3 month,Cohort 2x2 (Events),,,,263,1065,667,4344,,,,,,,,,,,,,,,,,,,
+Hapca 2018,Mortality ,6 month,Cohort 2x2 (Events),,,,172,508,150,522,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Mortality,3 month,Cohort 2x2 (Events),,,,1,31,11,222,,,,,,,,,,,,,,,,,,,
+Lee 2017,"Mortality delirium vs No delirium, no dementia",1 month,Cohort 2x2 (Events),,,,8,73,9,248,,,,,,,,,,,,,,,,,,,
+Lee 2017,Mortality DSD vs dementia,1 month,Cohort 2x2 (Events),,,,8,77,3,68,,,,,,,,,,,,,,,,,,,
+Lee 2017,"Mortality delirium vs No delirium, no dementia",12 month,Cohort 2x2 (Events),,,,17,73,43,248,,,,,,,,,,,,,,,,,,,
+Lee 2017,Mortality DSD vs dementia,12 month,Cohort 2x2 (Events),,,,31,77,18,68,,,,,,,,,,,,,,,,,,,
+Lee 2017,"Mortality delirium vs No delirium, no dementia",6 month,Cohort 2x2 (Events),,,,15,73,30,248,,,,,,,,,,,,,,,,,,,
+Lee 2017,Mortality DSD vs dementia,6 month,Cohort 2x2 (Events),,,,21,77,11,68,,,,,,,,,,,,,,,,,,,
+Hölttä 2011,Mortality,24 month,Cohort 2x2 (Events),,,,36,66,82,189,,,,,,,,,,,,,,,,,,,
+Honda 2016,Mortality ,12 month,Cohort 2x2 (Events),,,,85,134,257,465,,,,,,,,,,,,,,,,,,,
+Honda 2016,Mortality ,18 month,Cohort 2x2 (Events),,,,104,134,354,465,,,,,,,,,,,,,,,,,,,
+Honda 2016,Mortality ,24 month,Cohort 2x2 (Events),,,,124,134,422,465,,,,,,,,,,,,,,,,,,,
+Honda 2016,Mortality ,6 month,Cohort 2x2 (Events),,,,59,134,159,465,,,,,,,,,,,,,,,,,,,
+Hoogma 2023,Mortality ,1 month,Cohort 2x2 (Events),,,,2,93,2,157,,,,,,,,,,,,,,,,,,,
+Hoogma 2023,Mortality ,6 month,Cohort 2x2 (Events),,,,6,93,5,157,,,,,,,,,,,,,,,,,,,
+Hshieh 2023,Mortality ADRD patients,1 month,Cohort 2x2 (Events),,,,6,39,4,37,,,,,,,,,,,,,,,,,,,
+Hshieh 2023,Mortality Non-ADRD patients,1 month,Cohort 2x2 (Events),,,,3,56,8,179,,,,,,,,,,,,,,,,,,,
+Hshieh 2023,Mortality ADRD patients,12 month,Cohort 2x2 (Events),,,,2,39,3,37,,,,,,,,,,,,,,,,,,,
+Hshieh 2023,Mortality Non-ADRD patients,12 month,Cohort 2x2 (Events),,,,13,56,36,179,,,,,,,,,,,,,,,,,,,
+Hshieh 2023,Mortality ADRD patients,3 month,Cohort 2x2 (Events),,,,18,39,11,37,,,,,,,,,,,,,,,,,,,
+Hshieh 2023,Mortality Non-ADRD patients,3 month,Cohort 2x2 (Events),,,,5,56,18,179,,,,,,,,,,,,,,,,,,,
+Hughes 2021,Mortality,12 month,Cohort 2x2 (Events),,,,305,740,113,300,,,,,,,,,,,,,,,,,,,
+Inouye 2016,Mortality,19 month,Cohort 2x2 (Events),,,,12,134,25,426,,,,,,,,,,,,,,,,,,,
+Isaia 2009,Mortality,6 month,Cohort 2x2 (Events),,,,6,14,12,130,,,,,,,,,,,,,,,,,,,
+Iwata 2020,Mortality ,12 month,Cohort 2x2 (Events),,,,77,109,138,299,,,,,,,,,,,,,,,,,,,
+Iwata 2020,Mortality ,3 month,Cohort 2x2 (Events),,,,32,109,60,299,,,,,,,,,,,,,,,,,,,
+Iwata 2020,Mortality ,6 month,Cohort 2x2 (Events),,,,53,109,94,299,,,,,,,,,,,,,,,,,,,
+Iwata 2020,Mortality ,9 month,Cohort 2x2 (Events),,,,67,109,122,299,,,,,,,,,,,,,,,,,,,
+Han 2017,Mortality ,1 month,Cohort 2x2 (Events),,,,15,155,20,929,,,,,,,,,,,,,,,,,,,
+Han 2017,Mortality ,2 month,Cohort 2x2 (Events),,,,24,155,42,929,,,,,,,,,,,,,,,,,,,
+Han 2017,Mortality ,3 month,Cohort 2x2 (Events),,,,32,155,61,929,,,,,,,,,,,,,,,,,,,
+Han 2017,Mortality ,4 month,Cohort 2x2 (Events),,,,38,155,76,929,,,,,,,,,,,,,,,,,,,
+Han 2017,Mortality ,5 month,Cohort 2x2 (Events),,,,40,155,89,929,,,,,,,,,,,,,,,,,,,
+Han 2017,Mortality ,6 month,Cohort 2x2 (Events),,,,43,155,97,929,,,,,,,,,,,,,,,,,,,
+Juliebø 2010,"Mortality (dementia, delirium vs dementia, no delirium) ",12 month,Cohort 2x2 (Events),,,,36,101,14,50,,,,,,,,,,,,,,,,,,,
+Juliebø 2010,"Mortality (no dementia, delirium vs no dementia, no delirium) ",12 month,Cohort 2x2 (Events),,,,4,42,14,138,,,,,,,,,,,,,,,,,,,
+Kat 2008,Mortality,30 month,Cohort 2x2 (Events),,,,39,71,14,41,,,,,,,,,,,,,,,,,,,
+Kat 2011,Mortality,24 month,Cohort 2x2 (Events),,,,22,67,54,522,,,,,,,,,,,,,,,,,,,
+Kennedy 2014,Mortality,1 month,Cohort 2x2 (Events),,,,4,63,7,613,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality ,12 month,Cohort 2x2 (Events),,,,25,44,67,371,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality ,18 month,Cohort 2x2 (Events),,,,29,44,88,371,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality,24 month,Cohort 2x2 (Events),,,,30,44,101,371,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality ,30 month,Cohort 2x2 (Events),,,,31,44,114,371,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality ,36 month,Cohort 2x2 (Events),,,,31,44,120,371,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality ,42 month,Cohort 2x2 (Events),,,,32,44,129,371,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality ,48 month,Cohort 2x2 (Events),,,,34,44,136,371,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality ,54 month,Cohort 2x2 (Events),,,,35,44,145,371,,,,,,,,,,,,,,,,,,,
+Kilicaslan 2022,Mortality ,60 month,Cohort 2x2 (Events),,,,35,44,148,371,,,,,,,,,,,,,,,,,,,
+Korber 2021,Mortality ,14 month,Cohort 2x2 (Events),,,,9,16,51,161,,,,,,,,,,,,,,,,,,,
+Korber 2021,Mortality ,20 month,Cohort 2x2 (Events),,,,11,16,103,161,,,,,,,,,,,,,,,,,,,
+Korber 2021,Mortality ,26.67 month,Cohort 2x2 (Events),,,,13,16,142,161,,,,,,,,,,,,,,,,,,,
+Korber 2021,Mortality ,6.67 month,Cohort 2x2 (Events),,,,5,16,27,161,,,,,,,,,,,,,,,,,,,
+Koster 2012,Mortality,6 month,Cohort 2x2 (Events),,,,7,46,5,218,,,,,,,,,,,,,,,,,,,
+Kotfis 2019,Mortality ,12 month,Cohort 2x2 (Events),,,,69,121,151,639,,,,,,,,,,,,,,,,,,,
+Kotfis 2019,Mortality ,1 month,Cohort 2x2 (Events),,,,41,121,82,639,,,,,,,,,,,,,,,,,,,
+Kotfis 2019,Mortality ,3 month,Cohort 2x2 (Events),,,,57,121,118,639,,,,,,,,,,,,,,,,,,,
+Krzych 2014,Mortality ,46 month,Cohort 2x2 (Events),,,,55,237,376,5544,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,1 month,Cohort 2x2 (Events),,,,0,129,1,419,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,12 month,Cohort 2x2 (Events),,,,1,120,2,391,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality,18 month,Cohort 2x2 (Events),,,,1,117,5,382,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,2 month,Cohort 2x2 (Events),,,,0,126,1,419,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,24 month,Cohort 2x2 (Events),,,,3,106,6,368,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,30 month,Cohort 2x2 (Events),,,,4,83,7,242,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,36 month,Cohort 2x2 (Events),,,,0,110,3,346,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,48 month,Cohort 2x2 (Events),,,,9,90,15,295,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,6 month,Cohort 2x2 (Events),,,,1,124,4,404,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,60 month,Cohort 2x2 (Events),,,,9,79,12,275,,,,,,,,,,,,,,,,,,,
+Kunicki 2023,Mortality ,72 month,Cohort 2x2 (Events),,,,11,65,15,248,,,,,,,,,,,,,,,,,,,
+Moon 2018,Mortality (delirium vs no delirium no dementia),1 month,Cohort 2x2 (Events),,,,2,14,1,36,,,,,,,,,,,,,,,,,,,
+Moon 2018,Mortality (dsd vs dementia only),1 month,Cohort 2x2 (Events),,,,5,69,1,54,,,,,,,,,,,,,,,,,,,
+Moon 2018,Mortality (delirium vs no delirium no dementia),3 month,Cohort 2x2 (Events),,,,3,14,1,36,,,,,,,,,,,,,,,,,,,
+Moon 2018,Mortality (dsd vs dementia only),3 month,Cohort 2x2 (Events),,,,9,69,3,54,,,,,,,,,,,,,,,,,,,
+Moon 2018,Mortality (delirium vs no delirium no dementia),6 month,Cohort 2x2 (Events),,,,4,14,2,36,,,,,,,,,,,,,,,,,,,
+Moon 2018,Mortality (dsd vs dementia only),6 month,Cohort 2x2 (Events),,,,11,69,4,54,,,,,,,,,,,,,,,,,,,
+Labaste 2020,Mortality,36 month,Cohort 2x2 (Events),,,,35,61,35,112,,,,,,,,,,,,,,,,,,,
+Large 2013,Mortality ,12 month,Cohort 2x2 (Events),,,,5,14,12,35,,,,,,,,,,,,,,,,,,,
+Large 2013,Mortality ,3 month,Cohort 2x2 (Events),,,,3,14,6,35,,,,,,,,,,,,,,,,,,,
+Lee 2011,Mortality ,24 month,Cohort 2x2 (Events),,,,8,56,20,162,,,,,,,,,,,,,,,,,,,
+Lee 2011,Mortality ,40 month,Cohort 2x2 (Events),,,,15,56,31,162,,,,,,,,,,,,,,,,,,,
+Lee 2018,Mortality,1 month,Cohort 2x2 (Events),,,,2,83,5,517,,,,,,,,,,,,,,,,,,,
+Leslie 2005,Mortality,12 month,Cohort 2x2 (Events),,,,48,115,174,804,,,,,,,,,,,,,,,,,,,
+Leslie 2008,Mortality,12 month,Cohort 2x2 (Events),,,,47,109,161,732,,,,,,,,,,,,,,,,,,,
+Lewis 1995,Mortality,3 month,Cohort 2x2 (Events),,,,4,20,28,362,,,,,,,,,,,,,,,,,,,
+Li 2019,Mortality,12 month,Cohort 2x2 (Events),,,,1,32,5,79,,,,,,,,,,,,,,,,,,,
+Li 2021,Mortality  POD vs No POD and frailty,3.33 month,Cohort 2x2 (Events),,,,1,15,2,198,,,,,,,,,,,,,,,,,,,
+Li 2021,Mortality frailty and POD vs frailty only,10 month,Cohort 2x2 (Events),,,,4,23,6,62,,,,,,,,,,,,,,,,,,,
+Li 2021,Mortality POD vs No POD and frailty,10 month,Cohort 2x2 (Events),,,,3,15,5,198,,,,,,,,,,,,,,,,,,,
+Li 2021,Mortality frailty and POD vs frailty only,12 month,Cohort 2x2 (Events),,,,4,23,4,60,,,,,,,,,,,,,,,,,,,
+Li 2021,Mortality POD vs No POD and frailty,12 month,Cohort 2x2 (Events),,,,2,14,2,188,,,,,,,,,,,,,,,,,,,
+Li 2021,Mortality frailty and POD vs frailty only,3.33 month,Cohort 2x2 (Events),,,,4,23,3,62,,,,,,,,,,,,,,,,,,,
+Li 2021,Mortality frailty and POD vs frailty only,6.67 month,Cohort 2x2 (Events),,,,4,23,6,62,,,,,,,,,,,,,,,,,,,
+Li 2021,Mortality POD vs No POD and frailty,6.67 month,Cohort 2x2 (Events),,,,3,15,5,198,,,,,,,,,,,,,,,,,,,
+Lima 2010,Mortality POD vs No POD and frailty,12 month,Cohort 2x2 (Events),,,,33,63,45,133,,,,,,,,,,,,,,,,,,,
+Lundström 2003,Mortality frailty and POD vs frailty only,60 month,Cohort 2x2 (Events),,,,21,29,17,49,,,,,,,,,,,,,,,,,,,
+Luz 2020,Mortality,1 month,Cohort 2x2 (Events),,,,7,89,8,80,,,,,,,,,,,,,,,,,,,
+Mariz 2013,Mortality,1 month,Cohort 2x2 (Events),,,,15,28,19,50,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,108 month,Cohort 2x2 (Events),,,,60,74,98,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,12 month,Cohort 2x2 (Events),,,,32,74,36,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,120 month,Cohort 2x2 (Events),,,,68,74,110,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,24 month,Cohort 2x2 (Events),,,,37,74,43,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality,36 month,Cohort 2x2 (Events),,,,39,74,48,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,48 month,Cohort 2x2 (Events),,,,41,74,51,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,60 month,Cohort 2x2 (Events),,,,47,74,58,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,72 month,Cohort 2x2 (Events),,,,52,74,65,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,84 month,Cohort 2x2 (Events),,,,54,74,83,125,,,,,,,,,,,,,,,,,,,
+Marrama 2022,Mortality ,96 month,Cohort 2x2 (Events),,,,56,74,90,125,,,,,,,,,,,,,,,,,,,
+Mauri 2021,Mortality ,12 month,Cohort 2x2 (Events),,,,42,66,224,595,,,,,,,,,,,,,,,,,,,
+Mauri 2021,Mortality ,18 month,Cohort 2x2 (Events),,,,59,66,345,595,,,,,,,,,,,,,,,,,,,
+Mauri 2021,Mortality,24 month,Cohort 2x2 (Events),,,,62,66,432,595,,,,,,,,,,,,,,,,,,,
+Mauri 2021,Mortality ,6 month,Cohort 2x2 (Events),,,,35,66,108,595,,,,,,,,,,,,,,,,,,,
+McAvay 2006,Mortality,12 month,Cohort 2x2 (Events),,,,8,31,75,378,,,,,,,,,,,,,,,,,,,
+McCusker 2001,Mortality,12 month,Cohort 2x2 (Events),,,,93,220,14,95,,,,,,,,,,,,,,,,,,,
+McCusker 2002,Mortality,12 month,Cohort 2x2 (Events),,,,101,243,17,118,,,,,,,,,,,,,,,,,,,
+McCusker 2014,Mortality,6 month,Cohort 2x2 (Events),,,,7,31,21,243,,,,,,,,,,,,,,,,,,,
+Minden 2005,Mortality,1 month,Cohort 2x2 (Events),,,,2,8,2,27,,,,,,,,,,,,,,,,,,,
+Moreno-Gavino 2012,Mortality,12 month,Cohort 2x2 (Events),,,,108,198,430,1236,,,,,,,,,,,,,,,,,,,
+Muresan 2016,Mortality,12 month,Cohort 2x2 (Events),,,,21,46,34,153,,,,,,,,,,,,,,,,,,,
+Nishizawa 2023,Mortality ,1.3 month,Cohort 2x2 (Events),,,,53,334,21,743,,,,,,,,,,,,,,,,,,,
+Nishizawa 2023,Mortality ,10 month,Cohort 2x2 (Events),,,,95,334,85,743,,,,,,,,,,,,,,,,,,,
+Nishizawa 2023,Mortality ,2 month,Cohort 2x2 (Events),,,,64,334,35,743,,,,,,,,,,,,,,,,,,,
+Nishizawa 2023,Mortality ,2.67 month,Cohort 2x2 (Events),,,,69,334,43,743,,,,,,,,,,,,,,,,,,,
+Nishizawa 2023,Mortality ,3.33 month,Cohort 2x2 (Events),,,,70,334,48,743,,,,,,,,,,,,,,,,,,,
+Nishizawa 2023,Mortality ,6.67 month,Cohort 2x2 (Events),,,,87,334,67,743,,,,,,,,,,,,,,,,,,,
+Noriega 2015,Mortality ,1 month,Cohort 2x2 (Events),,,,10,35,10,168,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Mortality ,12 month,Cohort 2x2 (Events),,,,4,75,1,60,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Mortality ,36 month,Cohort 2x2 (Events),,,,18,75,7,60,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Mortality ,4 month,Cohort 2x2 (Events),,,,4,75,1,60,,,,,,,,,,,,,,,,,,,
+Pak 2020,Mortality ,1 month,Cohort 2x2 (Events),,,,16,36,15,96,,,,,,,,,,,,,,,,,,,
+Pak 2020,Mortality ,2 month,Cohort 2x2 (Events),,,,19,36,31,96,,,,,,,,,,,,,,,,,,,
+Pak 2020,Mortality,3 month,Cohort 2x2 (Events),,,,23,36,43,96,,,,,,,,,,,,,,,,,,,
+Patel 2014,Mortality,10 month,Cohort 2x2 (Events),,,,48,87,3,10,,,,,,,,,,,,,,,,,,,
+Patel 2014,Mortality ,3.33 month,Cohort 2x2 (Events),,,,38,87,2,10,,,,,,,,,,,,,,,,,,,
+Patel 2014,Mortality ,6.67 month,Cohort 2x2 (Events),,,,44,87,3,10,,,,,,,,,,,,,,,,,,,
+Paulino 2023,Mortality ,3 month,Cohort 2x2 (Events),,,,3,34,1,72,,,,,,,,,,,,,,,,,,,
+Paulino 2023,Mortality ,6 month,Cohort 2x2 (Events),,,,0,34,4,72,,,,,,,,,,,,,,,,,,,
+Pompei 1994,Mortality,3 month,Cohort 2x2 (Events),,,,6,57,11,359,,,,,,,,,,,,,,,,,,,
+Qu 2018,Mortality ,3 month,Cohort 2x2 (Events),,,,2,38,0,223,,,,,,,,,,,,,,,,,,,
+Qu 2018,Mortality ,6 month,Cohort 2x2 (Events),,,,2,33,1,208,,,,,,,,,,,,,,,,,,,
+Raats 2015,Mortality,1 month,Cohort 2x2 (Events),,,,3,35,1,197,,,,,,,,,,,,,,,,,,,
+Raats 2015,Mortality,12 month,Cohort 2x2 (Events),,,,19,35,112,197,,,,,,,,,,,,,,,,,,,
+Raats 2015,Mortality ,3 month,Cohort 2x2 (Events),,,,8,35,19,197,,,,,,,,,,,,,,,,,,,
+Raats 2015,Mortality ,6 month,Cohort 2x2 (Events),,,,14,35,45,197,,,,,,,,,,,,,,,,,,,
+Raats 2015,Mortality ,9 month,Cohort 2x2 (Events),,,,14,35,87,197,,,,,,,,,,,,,,,,,,,
+Radinovic 2014,Mortality,1 month,Cohort 2x2 (Events),,,,15,88,3,99,,,,,,,,,,,,,,,,,,,
+Rahkonen 2001,Mortality,24 month,Cohort 2x2 (Events),,,,11,20,54,179,,,,,,,,,,,,,,,,,,,
+Reynish 2017,Mortality (delirium alone vs no cognitive disorder),1 month,Cohort 2x2 (Events),,,,123,901,323,3584,,,,,,,,,,,,,,,,,,,
+Reynish 2017,Mortality (DSD vs dementia alone),1 month,Cohort 2x2 (Events),,,,57,389,57,444,,,,,,,,,,,,,,,,,,,
+Reynish 2017,Mortality (delirium alone vs no cognitive disorder),12 month,Cohort 2x2 (Events),,,,326,901,932,3584,,,,,,,,,,,,,,,,,,,
+Reynish 2017,Mortality (DSD vs dementia alone),12 month,Cohort 2x2 (Events),,,,170,389,195,444,,,,,,,,,,,,,,,,,,,
+Robinson 2009,mortality ,1 month,Cohort 2x2 (Events),,,,6,64,1,80,,,,,,,,,,,,,,,,,,,
+Robinson 2009,Mortality ,6 month,Cohort 2x2 (Events),,,,13,64,2,78,,,,,,,,,,,,,,,,,,,
+Robinson 2011,Mortality,1 month,Cohort 2x2 (Events),,,,8,73,1,98,,,,,,,,,,,,,,,,,,,
+Robinson 2011,Mortality,6 month,Cohort 2x2 (Events),,,,18,73,2,98,,,,,,,,,,,,,,,,,,,
+Rockwood 1999,Mortality,36 month,Cohort 2x2 (Events),,,,30,38,71,165,,,,,,,,,,,,,,,,,,,
+Ruggiero 2017,Mortality,12 month,Cohort 2x2 (Events),,,,31,133,45,381,,,,,,,,,,,,,,,,,,,
+Sasajima 2012,Mortality ,12 month,Cohort 2x2 (Events),,,,5,88,15,211,,,,,,,,,,,,,,,,,,,
+Sasajima 2012,Mortality ,24 month,Cohort 2x2 (Events),,,,11,88,21,211,,,,,,,,,,,,,,,,,,,
+Sasajima 2012,Mortality ,36 month,Cohort 2x2 (Events),,,,16,88,28,211,,,,,,,,,,,,,,,,,,,
+Sato 2017,Mortality,2 month,Cohort 2x2 (Events),,,,8,35,5,128,,,,,,,,,,,,,,,,,,,
+Sauer 2017,Mortality ,1 month,Cohort 2x2 (Events),,,,0,23,3,161,,,,,,,,,,,,,,,,,,,
+Sauer 2017,Mortality ,12 month,Cohort 2x2 (Events),,,,1,23,3,161,,,,,,,,,,,,,,,,,,,
+Serrano-Duenas 2005,Mortality,60 month,Cohort 2x2 (Events),,,,10,21,4,21,,,,,,,,,,,,,,,,,,,
+Sheng 2006,Mortality ,1 month,Cohort 2x2 (Events),,,,4,39,5,117,,,,,,,,,,,,,,,,,,,
+Sheng 2006,Mortality ,12 month,Cohort 2x2 (Events),,,,16,39,18,117,,,,,,,,,,,,,,,,,,,
+Sheng 2006,Mortality ,6 month,Cohort 2x2 (Events),,,,11,39,14,117,,,,,,,,,,,,,,,,,,,
+Shi 2019,Mortality,36 month,Cohort 2x2 (Events),,,,8,28,7,75,,,,,,,,,,,,,,,,,,,
+Shintani 2009,Mortality ,1.67 month,Cohort 2x2 (Events),,,,66,182,12,42,,,,,,,,,,,,,,,,,,,
+Shintani 2009,Mortality ,3.33 month,Cohort 2x2 (Events),,,,75,182,18,42,,,,,,,,,,,,,,,,,,,
+Shintani 2009,Mortality ,5 month,Cohort 2x2 (Events),,,,82,182,20,42,,,,,,,,,,,,,,,,,,,
+Sri-on 2016,Mortality,1 month,Cohort 2x2 (Events),,,,4,27,3,205,,,,,,,,,,,,,,,,,,,
+Suraarunsumrit 2022,Mortality,3 month,Cohort 2x2 (Events),,,,7,42,6,247,,,,,,,,,,,,,,,,,,,
+Tahir 2018,Mortality,1 month,Cohort 2x2 (Events),,,,7,70,19,311,,,,,,,,,,,,,,,,,,,
+Tahir 2018,Mortality ,12 month,Cohort 2x2 (Events),,,,18,70,47,311,,,,,,,,,,,,,,,,,,,
+Tan AH 2015,Mortality,6 month,Cohort 2x2 (Events),,,,11,28,22,222,,,,,,,,,,,,,,,,,,,
+To-adithep 2023,Mortality,12 month,Cohort 2x2 (Events),,,,75,170,84,460,,,,,,,,,,,,,,,,,,,
+Trevisan 2023,Mortality,9 month,Cohort 2x2 (Events),,,,20,132,23,964,,,,,,,,,,,,,,,,,,,
+Tripathy 2014,Mortality ,1 month,Cohort 2x2 (Events),,,,22,56,11,53,,,,,,,,,,,,,,,,,,,
+Tripathy 2014,Mortality ,12 month,Cohort 2x2 (Events),,,,33,56,18,53,,,,,,,,,,,,,,,,,,,
+Tsai 2012,Mortality ,12 month,Cohort 2x2 (Events),,,,61,172,122,442,,,,,,,,,,,,,,,,,,,
+Tsai 2012,Mortality ,24 month,Cohort 2x2 (Events),,,,74,172,168,442,,,,,,,,,,,,,,,,,,,
+Tsai 2012,Mortality ,36 month,Cohort 2x2 (Events),,,,80,172,200,442,,,,,,,,,,,,,,,,,,,
+Uthamalingam 2011,Mortality,3 month,Cohort 2x2 (Events),,,,36,134,62,687,,,,,,,,,,,,,,,,,,,
+VanDerWulp 2019,Mortality ,1 month,Cohort 2x2 (Events),,,,9,116,19,587,,,,,,,,,,,,,,,,,,,
+VanDerWulp 2019,Mortality ,12 month,Cohort 2x2 (Events),,,,29,116,80,587,,,,,,,,,,,,,,,,,,,
+VanDerWulp 2019,Mortality ,24 month,Cohort 2x2 (Events),,,,50,116,229,587,,,,,,,,,,,,,,,,,,,
+VanDerWulp 2019,Mortality ,36 month,Cohort 2x2 (Events),,,,67,116,368,578,,,,,,,,,,,,,,,,,,,
+VanDerWulp 2019,Mortality ,48 month,Cohort 2x2 (Events),,,,78,116,454,587,,,,,,,,,,,,,,,,,,,
+VanDerWulp 2019,Mortality ,60 month,Cohort 2x2 (Events),,,,94,116,511,587,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2016,Mortality,1 month,Cohort 2x2 (Events),,,,57,620,7,299,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2022,Mortality  (DEL-S long form 0-1 vs other score),1 month,Cohort 2x2 (Events),,,,11,184,9,168,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2022,Mortality (DEL-S short form 0-1 vs other score),1 month,Cohort 2x2 (Events),,,,11,169,9,183,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2022,Mortality (DEL-S long form 0-1 vs other score),12 month,Cohort 2x2 (Events),,,,58,184,34,168,,,,,,,,,,,,,,,,,,,
+Vasunilashorn 2022,Mortality (DEL-S short form 0-1 vs other score),12 month,Cohort 2x2 (Events),,,,56,169,36,183,,,,,,,,,,,,,,,,,,,
+Visser 2015,Mortality,12 month,Cohort 2x2 (Events),,,,5,22,33,441,,,,,,,,,,,,,,,,,,,
+Vives-Borrás 2019,Mortality,6 month,Cohort 2x2 (Events),,,,9,37,53,490,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Mortality,6 month,Cohort 2x2 (Events),,,,40,107,38,142,,,,,,,,,,,,,,,,,,,
+Wolters 2014,Mortality,12 month,Cohort 2x2 (Events),,,,102,412,96,689,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Mortality ,1.5 month,Cohort 2x2 (Events),,,,2,19,1,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Mortality,3 month,Cohort 2x2 (Events),,,,2,15,2,61,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,10 month,Cohort 2x2 (Events),,,,28,64,134,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,12 month,Cohort 2x2 (Events),,,,28,64,129,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,13.33 month,Cohort 2x2 (Events),,,,30,64,152,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,16.67 month,Cohort 2x2 (Events),,,,34,64,164,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,20 month,Cohort 2x2 (Events),,,,43,64,276,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,23.33 month,Cohort 2x2 (Events),,,,45,64,285,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,26.67 month,Cohort 2x2 (Events),,,,45,64,296,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,3.33 month,Cohort 2x2 (Events),,,,21,64,86,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,30 month,Cohort 2x2 (Events),,,,45,64,309,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,33.33 month,Cohort 2x2 (Events),,,,48,64,324,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,36.67 month,Cohort 2x2 (Events),,,,50,64,340,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality,40 month,Cohort 2x2 (Events),,,,59,64,450,527,,,,,,,,,,,,,,,,,,,
+Zipprich 2020,Mortality ,6.67 month,Cohort 2x2 (Events),,,,26,64,117,527,,,,,,,,,,,,,,,,,,,
+Ditzel 2023,Mortality,3 month,Cohort 2x2 (Events),,,,0,38,5,208,,,,,,,,,,,,,,,,,,,
+Miu 2013,Mortality,12 month,Cohort 2x2 (Events),,,,26,86,17,228,,,,,,,,,,,,,,,,,,,
+van Rijsbergen 2011,Mortality,24 month,Cohort 2x2 (Events),,,,30,52,16,44,,,,,,,,,,,,,,,,,,,
+Sánchez-Lozano 2023,Mortality,3 month,Cohort 2x2 (Events),,,,34,96,29,273,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Quality of life ,3 month,Odds ratio,2.26,0.96,5.36,,,,,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Quality of life,3 month,Cohort 2x2 (Events),,,,16,25,88,200,,,,,,,,,,,,,,,,,,,
+Hoogma 2023,Quality of life,6 month,Cohort 2x2 (Events),,,,48,78,67,139,,,,,,,,,,,,,,,,,,,
+Suraarunsumrit 2022,Quality of life,3 month,Cohort 2x2 (Events),,,,7,26,57,247,,,,,,,,,,,,,,,,,,,
+VanderHeijden 2023,Quality of life,12 month,Cohort 2x2 (Events),,,,84,529,139,1871,,,,,,,,,,,,,,,,,,,
+Brown 2020,Anxiety disorder,12 month,Odds ratio,1.18,0.91,1.54,,,,,,,,,,,,,,,,,,,,,,,
+Brown 2020,Depressive disorder,12 month,Odds ratio,1.19,0.93,1.52,,,,,,,,,,,,,,,,,,,,,,,
+Brown 2020,Trauma-and-stressor related disorder,12 month,Odds ratio,0.82,0.51,1.3,,,,,,,,,,,,,,,,,,,,,,,
+DelaVarga-Martínez 2022,Emotional problems,36 month,Odds ratio,4.3,1.87,9.91,,,,,,,,,,,,,,,,,,,,,,,
+DelaVarga-Martínez 2022,Nightmares/ Bad dreams,36 month,Odds ratio,8.99,1.98,40.9,,,,,,,,,,,,,,,,,,,,,,,
+DelaVarga-Martínez 2022,Sleep disorders,36 month,Odds ratio,5.21,2.29,11.84,,,,,,,,,,,,,,,,,,,,,,,
+Drews 2015,PTSD,3 month,Odds ratio,2.411,1.064,5.464,,,,,,,,,,,,,,,,,,,,,,,
+Jackson 2014,Depression ,12 month,Odds ratio,2.31,1.25,4.27,,,,,,,,,,,,,,,,,,,,,,,
+Jackson 2014,Depression ,3 month,Odds ratio,1.63,0.94,2.85,,,,,,,,,,,,,,,,,,,,,,,
+Jackson 2014,PTSD,12 month,Odds ratio,1.92,1.03,3.55,,,,,,,,,,,,,,,,,,,,,,,
+Jackson 2014,PTSD ,3 month,Odds ratio,1.39,0.78,2.47,,,,,,,,,,,,,,,,,,,,,,,
+Miyamoto 2021,Anxiety symptoms ,12 month,Odds ratio,3.65,,12.97,,,,,,,,,,,,,,,,,,,,,,,
+Miyamoto 2021,Anxiety symptoms ,3 month,Odds ratio,1.8,0.64,5.07,,,,,,,,,,,,,,,,,,,,,,,
+Miyamoto 2021,Depression symptoms ,12 month,Odds ratio,3.3,0.62,17.75,,,,,,,,,,,,,,,,,,,,,,,
+Miyamoto 2021,Depression symptoms ,3 month,Odds ratio,1.95,0.65,5.9,,,,,,,,,,,,,,,,,,,,,,,
+Miyamoto 2021,PTSD symptoms ,12 month,Odds ratio,3.23,0.61,17.13,,,,,,,,,,,,,,,,,,,,,,,
+Miyamoto 2021,PTSD symptoms ,3 month,Odds ratio,2.14,0.57,8.11,,,,,,,,,,,,,,,,,,,,,,,
+Nguyen 2018,Alcohol consumption,6 month,Odds ratio,0.64,0.22,1.86,,,,,,,,,,,,,,,,,,,,,,,
+Nguyen 2018,Depressed,6 month,Odds ratio,1.8,0.63,5.1,,,,,,,,,,,,,,,,,,,,,,,
+Nguyen 2018,EuroQoL-5D anxiety/depression issue (>1),6 month,Odds ratio,4.41,1.52,12.92,,,,,,,,,,,,,,,,,,,,,,,
+VanderHeijden 2023,"Anxiety, depression, or PTSD symptoms (Non-persistent delirium)",12 month,Odds ratio,1.2,0.9,1.6,,,,,,,,,,,,,,,,,,,,,,,
+VanderHeijden 2023,"Anxiety, depression, or PTSD symptoms (persistent delirium)",12 month,Odds ratio,0.68,0.26,1.79,,,,,,,,,,,,,,,,,,,,,,,
+Bulic 2020,PTSD (probable ) ,12 month,Cohort 2x2 (Events),,,,3,27,7,33,,,,,,,,,,,,,,,,,,,
+Bulic 2020,PTSD (probable ) ,6 month,Cohort 2x2 (Events),,,,6,27,10,38,,,,,,,,,,,,,,,,,,,
+Bulic 2020,PTSD (severe ) ,12 month,Cohort 2x2 (Events),,,,11,27,4,33,,,,,,,,,,,,,,,,,,,
+Bulic 2020,PTSD (severe ),6 month,Cohort 2x2 (Events),,,,6,27,8,38,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Depression ,12 month,Cohort 2x2 (Events),,,,38,62,17,50,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Depression ,36 month,Cohort 2x2 (Events),,,,24,39,12,36,,,,,,,,,,,,,,,,,,,
+Olofsson 2018,Depression ,4 month,Cohort 2x2 (Events),,,,42,67,14,55,,,,,,,,,,,,,,,,,,,
+Slor 2013,Generalized anxiety disorder,3 month,Cohort 2x2 (Events),,,,1,20,1,27,,,,,,,,,,,,,,,,,,,
+Slor 2013,Major depressive episode,3 month,Cohort 2x2 (Events),,,,5,20,4,27,,,,,,,,,,,,,,,,,,,
+Slor 2013,Major depressive episode with melancholic features,3 month,Cohort 2x2 (Events),,,,2,21,3,27,,,,,,,,,,,,,,,,,,,
+Svenningsen 2015,Anxiety ,2 month,Cohort 2x2 (Events),,,,12,159,7,118,,,,,,,,,,,,,,,,,,,
+Svenningsen 2015,Anxiety ,6 month,Cohort 2x2 (Events),,,,5,159,4,118,,,,,,,,,,,,,,,,,,,
+Svenningsen 2015,Depression ,2 month,Cohort 2x2 (Events),,,,16,159,14,118,,,,,,,,,,,,,,,,,,,
+Svenningsen 2015,Depression ,6 month,Cohort 2x2 (Events),,,,11,159,12,118,,,,,,,,,,,,,,,,,,,
+Svenningsen 2015,PTSD ,2 month,Cohort 2x2 (Events),,,,12,159,9,118,,,,,,,,,,,,,,,,,,,
+Svenningsen 2015,PTSD,6 month,Cohort 2x2 (Events),,,,8,159,4,118,,,,,,,,,,,,,,,,,,,
+Verloo 2016,Depression,0.067 month,Cohort 2x2 (Events),,,,7,20,37,94,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Agitaion and aggression,6 month,Cohort 2x2 (Events),,,,12,57,7,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Anxiety,6 month,Cohort 2x2 (Events),,,,13,57,8,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Apathy,6 month,Cohort 2x2 (Events),,,,20,57,17,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Appetite and eating problems,6 month,Cohort 2x2 (Events),,,,11,57,16,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Delusion,6 month,Cohort 2x2 (Events),,,,11,57,4,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Depression,6 month,Cohort 2x2 (Events),,,,10,57,7,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Dinhibiltion,6 month,Cohort 2x2 (Events),,,,3,57,2,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Elation,6 month,Cohort 2x2 (Events),,,,2,57,0,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Hallucination,6 month,Cohort 2x2 (Events),,,,7,57,1,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Irritablity,6 month,Cohort 2x2 (Events),,,,10,57,4,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Psychomotor activity,6 month,Cohort 2x2 (Events),,,,10,57,3,64,,,,,,,,,,,,,,,,,,,
+Whittamore 2014,Sleep problem,6 month,Cohort 2x2 (Events),,,,12,57,7,64,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Cognitive decline,3 month,Odds ratio,1.36,0.34,5.36,,,,,,,,,,,,,,,,,,,,,,,
+Bryson 2011,Cognitive decline,3 month,Odds ratio,2.1,0.28,15.92,,,,,,,,,,,,,,,,,,,,,,,
+McCusker 2014,Cognitive decline,6 month,Cohort 2x2 (Events),,,,5,26,37,220,,,,,,,,,,,,,,,,,,,
+Saczynski 2012,Objective_change (cognitive decline),12 month,Cohort 2x2 (Events),,,,41,103,29,122,,,,,,,,,,,,,,,,,,,
+Saczynski 2012,Objective_change (cognitive decline) ,1 month,Cohort 2x2 (Events),,,,66,103,45,122,,,,,,,,,,,,,,,,,,,
+Saczynski 2012,Objective_change (cognitive decline) ,6 month,Cohort 2x2 (Events),,,,32,103,24,122,,,,,,,,,,,,,,,,,,,
+Vives-Borrás 2019,Objective_change (cognitive decline),6 month,Cohort 2x2 (Events),,,,8,37,114,490,,,,,,,,,,,,,,,,,,,
+Daiello 2019,Objective_change (cognitive decline ),1 month,Cohort 2x2 (Events),,,,75,129,181,419,,,,,,,,,,,,,,,,,,,
+Daiello 2019,Objective_change (cognitive decline ),2 month,Cohort 2x2 (Events),,,,31,126,92,410,,,,,,,,,,,,,,,,,,,
+Daiello 2019,Objective_change (cognitive decline ,6 month,Cohort 2x2 (Events),,,,23,124,62,404,,,,,,,,,,,,,,,,,,,
+Rudolph 2008,Objective_change (cognitive decline),3 month,Cohort 2x2 (Events),,,,9,61,85,883,,,,,,,,,,,,,,,,,,,
+Bickel 2008,Objective_ performance (Cognitive impairment ),38 month,Odds ratio,6.2,1.5,25.8,,,,,,,,,,,,,,,,,,,,,,,
+Bickel 2008,Objective performance(Cognitive impairment),8 month,Odds ratio,4.7,1.6,13.5,,,,,,,,,,,,,,,,,,,,,,,
+Franck 2016,Objective performance(Cognitive impairment_PACU delirium),3 month,Odds ratio,1.27,0.53,3.04,,,,,,,,,,,,,,,,,,,,,,,
+Franck 2016,Objective performance(Cognitive impairment_PACU delirium and post-operative delirium),3 month,Odds ratio,1.41,0.5,4.01,,,,,,,,,,,,,,,,,,,,,,,
+Franck 2016,Objective performance(Cognitive impairment_post-operative delirium),3 month,Odds ratio,2.56,1.07,6.16,,,,,,,,,,,,,,,,,,,,,,,
+Gonçalves 2023,Objective performance(Cognitive impairment),12 month,Odds ratio,2.04,1.2,3.45,,,,,,,,,,,,,,,,,,,,,,,
+Nguyen 2018,Objective performance(Cognitive impairment CFT),6 month,Odds ratio,1.14,0.41,3.15,,,,,,,,,,,,,,,,,,,,,,,
+Nguyen 2018,Objective performance(Cognitive impairment MIS),6 month,Odds ratio,1.02,0.33,3.16,,,,,,,,,,,,,,,,,,,,,,,
+Chen 2017,Objective performance (Cognitive impairment),9.82 month,Odds ratio,4.787,2.038,11.244,,,,,,,,,,,,,,,,,,,,,,,
+Bulic 2020,Objective performance Cognitive impairment ,12 month,Cohort 2x2 (Events),,,,14,27,20,33,,,,,,,,,,,,,,,,,,,
+Bulic 2020,Objective performance Cognitive impairment ,6 month,Cohort 2x2 (Events),,,,14,27,18,38,,,,,,,,,,,,,,,,,,,
+Dostovic 2021,Objective performance Cognitive impairment,12 month,Cohort 2x2 (Events),,,,55,75,24,96,,,,,,,,,,,,,,,,,,,
+Mathies 2020,Objective performance Cognitive impairment,12 month,Cohort 2x2 (Events),,,,14,21,21,47,,,,,,,,,,,,,,,,,,,
+Verloo 2016,Objective performance Cognitive impairment,0.067 month,Cohort 2x2 (Events),,,,17,20,75,94,,,,,,,,,,,,,,,,,,,
+Van Rijsbergen 2011,Objective performance Cognitive impairment_Attention,24 month,Cohort 2x2 (Events),,,,10,14,7,20,,,,,,,,,,,,,,,,,,,
+Van Rijsbergen 2011,Objective performance Cognitive impairment_Executive function,24 month,Cohort 2x2 (Events),,,,10,17,6,24,,,,,,,,,,,,,,,,,,,
+Van Rijsbergen 2011,Objective performance Cognitive impairment_Language,24 month,Cohort 2x2 (Events),,,,9,17,5,23,,,,,,,,,,,,,,,,,,,
+Van Rijsbergen 2011,Objective performance Cognitive impairment_Verbal memory,24 month,Cohort 2x2 (Events),,,,7,15,2,23,,,,,,,,,,,,,,,,,,,
+Van Rijsbergen 2011,Objective performance Cognitive impairment_Visual construction,24 month,Cohort 2x2 (Events),,,,10,13,7,20,,,,,,,,,,,,,,,,,,,
+Van Rijsbergen 2011,Objective performance Cognitive impairment_Visual memory,24 month,Cohort 2x2 (Events),,,,5,13,5,20,,,,,,,,,,,,,,,,,,,
+Van Rijsbergen 2011,Objective performance Cognitive impairment_Visual perception,24 month,Cohort 2x2 (Events),,,,7,15,7,20,,,,,,,,,,,,,,,,,,,
+DelaVarga-Martínez 2022,Subjective performance Cognitive impairment _Concentration problems,36 month,Odds ratio,11.2,3.58,35.09,,,,,,,,,,,,,,,,,,,,,,,
+DelaVarga-Martínez 2022,Subjective performance Cognitive impairment _Confusion/ Desorientation,36 month,Odds ratio,10.93,3.61,33.12,,,,,,,,,,,,,,,,,,,,,,,
+DelaVarga-Martínez 2022,Subjective performance Cognitive impairment _Memory problems,36 month,Odds ratio,6.11,2.54,14.68,,,,,,,,,,,,,,,,,,,,,,,
+VanderHeijden 2023,Subjective performance Cognitive impairment_Non-persistent delirium,12 month,Odds ratio,1.24,0.8,1.93,,,,,,,,,,,,,,,,,,,,,,,
+VanderHeijden 2023,Subjective performance Cognitive impairment_persistent delirium,12 month,Odds ratio,3.9,1.31,11.63,,,,,,,,,,,,,,,,,,,,,,,
+Wolters 2014,Subjective performance Cognitive impairment_mild problems with cognitive functioning,12 month,Odds ratio,2.41,1.57,3.69,,,,,,,,,,,,,,,,,,,,,,,
+Wolters 2014,Subjective performance Cognitive impairment_severe problems with cognitive functioning,3 month,Odds ratio,3.1,1.1,8.74,,,,,,,,,,,,,,,,,,,,,,,
+Koster 2012,Subjective performance Cognitive impairment_concentration problems,6 month,"Log OR, SE",,,,,,,,,0.444685821,0.619383822,,,,,,,,,,,,,,,,
+Koster 2012,Subjective performance Cognitive impairment_Confusion,6 month,"Log OR, SE",,,,,,,,,0.343589704,0.672863171,,,,,,,,,,,,,,,,
+Koster 2012,Subjective performance Cognitive impairment_Memory problems,6 month,"Log OR, SE",,,,,,,,,0.652325186,0.715693918,,,,,,,,,,,,,,,,
+Buurman 2011,Functional decline_change,12 month,Odds ratio,2.47,1.34,4.54,,,,,,,,,,,,,,,,,,,,,,,
+Davis 2012,Functional decline (Functional worsening)_change,29 month,Odds ratio,2.76,1.38,5.52,,,,,,,,,,,,,,,,,,,,,,,
+Furlaneto 2007,Functional impairment (Functional loss)_change,48 month,Odds ratio,2.11,0.43,10.28,,,,,,,,,,,,,,,,,,,,,,,
+Givens 2009,Functional decline (ADL Decline)_change,6 month,Odds ratio,1.64,0.71,3.8,,,,,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Functional decline (ADL functioning Decreased)_change,3 month,Odds ratio,2.65,1.02,6.88,,,,,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Functional decline (No return to independent preoperative living situation)_change,3 month,Odds ratio,0.18,0.07,0.49,,,,,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Functional decline (Use of supportive care Increased (Care assistance))_change,3 month,Odds ratio,2.45,1.02,5.87,,,,,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Functional decline (Use of supportive care Increased (Domestic))_change,3 month,Odds ratio,0.72,0.27,1.9,,,,,,,,,,,,,,,,,,,,,,,
+Hempenius 2016,Functional decline (Use of supportive care Increased (Informal care))_change,3 month,Odds ratio,1,0.41,2.49,,,,,,,,,,,,,,,,,,,,,,,
+Inouye 1998,Functional decline (ADL)_change,3 month,Odds ratio,2.7,1.4,5.2,,,,,,,,,,,,,,,,,,,,,,,
+Noriega 2015,Functional decline (need for help) _change,12 month,Odds ratio,2.66,0.76,9.33,,,,,,,,,,,,,,,,,,,,,,,
+Noriega 2015,Functional decline_change,12 month,Odds ratio,2,0.61,6.5,,,,,,,,,,,,,,,,,,,,,,,
+Quinlan 2011,Functional decline_change,3 month,Odds ratio,2.1,1.2,3.8,,,,,,,,,,,,,,,,,,,,,,,
+Edelstein 2004,Functional decline (Ambulation decline)_change,12 month,Odds ratio,2.7,1.1,6.6,,,,,,,,,,,,,,,,,,,,,,,
+Edelstein 2004,Functional decline (B-ADL decline)_change,12 month,Odds ratio,3.5,1.6,7.6,,,,,,,,,,,,,,,,,,,,,,,
+Beishuizen 2020,Functional decline (ADL)_change,7 month,Cohort 2x2 (Events),,,,7,14,28,77,,,,,,,,,,,,,,,,,,,
+Guenther 2020,Functional decline (ADL Decline)_change,6 month,Cohort 2x2 (Events),,,,29,39,46,86,,,,,,,,,,,,,,,,,,,
+Liang 2014,Functional decline (ADL decline) _change,1 month,Cohort 2x2 (Events),,,,8,17,46,165,,,,,,,,,,,,,,,,,,,
+Liang 2014,Functional decline (ADL decline)_change,12 month,Cohort 2x2 (Events),,,,7,17,26,165,,,,,,,,,,,,,,,,,,,
+Liang 2014,Functional decline (ADL decline)_change,3 month,Cohort 2x2 (Events),,,,5,17,25,165,,,,,,,,,,,,,,,,,,,
+Liang 2014,Functional decline (ADL decline) _change,6 month,Cohort 2x2 (Events),,,,6,17,27,165,,,,,,,,,,,,,,,,,,,
+Liang 2014,Functional decline (IADL decline)_change,1 month,Cohort 2x2 (Events),,,,6,13,59,165,,,,,,,,,,,,,,,,,,,
+Liang 2014,Functional decline (IADL decline)_change,12 month,Cohort 2x2 (Events),,,,8,13,39,165,,,,,,,,,,,,,,,,,,,
+Liang 2014,Functional decline (IADL decline)_change,3 month,Cohort 2x2 (Events),,,,6,13,45,165,,,,,,,,,,,,,,,,,,,
+Liang 2014,Functional decline (IADL decline)_change,6 month,Cohort 2x2 (Events),,,,7,13,41,165,,,,,,,,,,,,,,,,,,,
+McCusker 2014,Functional decline_change,6 month,Cohort 2x2 (Events),,,,5,27,39,206,,,,,,,,,,,,,,,,,,,
+Murray 1993,Functional decline (physical function worse: community)_change,3 month,Cohort 2x2 (Events),,,,18,35,41,143,,,,,,,,,,,,,,,,,,,
+Murray 1993,Functional decline (physical function worse: nursing home)_change,3 month,Cohort 2x2 (Events),,,,20,38,10,39,,,,,,,,,,,,,,,,,,,
+Neufeld 2015,Functional decline (change from independent to dependent)_change,18 month,Cohort 2x2 (Events),,,,6,36,6,45,,,,,,,,,,,,,,,,,,,
+Noriega 2015,Functional decline (need for help)_change,1 month,Cohort 2x2 (Events),,,,10,17,40,126,,,,,,,,,,,,,,,,,,,
+Noriega 2015,Functional decline_change,1 month,Cohort 2x2 (Events),,,,6,18,41,129,,,,,,,,,,,,,,,,,,,
+Racine 2018,Functional decline (Decline in physical function)_change,1 month,Cohort 2x2 (Events),,,,11,27,13,34,,,,,,,,,,,,,,,,,,,
+Racine 2018,Functional decline (New impairment in cognitive IADL)_change,1 month,Cohort 2x2 (Events),,,,7,27,2,34,,,,,,,,,,,,,,,,,,,
+Rudolph 2010,Functional decline_change,1 month,Cohort 2x2 (Events),,,,21,33,21,64,,,,,,,,,,,,,,,,,,,
+Rudolph 2010,Functional decline_change,12 month,Cohort 2x2 (Events),,,,8,33,8,59,,,,,,,,,,,,,,,,,,,
+Shim 2015,Functional decline (ADL deterioration)_change,1 month,Cohort 2x2 (Events),,,,49,90,62,206,,,,,,,,,,,,,,,,,,,
+Shim 2015,Functional decline (IADL deterioration)_change,1 month,Cohort 2x2 (Events),,,,51,88,79,205,,,,,,,,,,,,,,,,,,,
+Suraarunsumrit 2022,Functional decline(ADL)_change,3 month,Cohort 2x2 (Events),,,,6,26,49,247,,,,,,,,,,,,,,,,,,,
+Suraarunsumrit 2022,Functional decline(IADL)_change,3 month,Cohort 2x2 (Events),,,,9,26,44,247,,,,,,,,,,,,,,,,,,,
+Vives-Borrás 2019,Functional decline (ADL)_change,6 month,Cohort 2x2 (Events),,,,13,37,135,490,,,,,,,,,,,,,,,,,,,
+Edelstein 2004,Functional decline (IADL decline)_change,12 month,Cohort 2x2 (Events),,,,18,25,335,613,,,,,,,,,,,,,,,,,,,
+Francis 1990,Functional decline (ADL)_change,6 month,Cohort 2x2 (Events),,,,12,50,42,176,,,,,,,,,,,,,,,,,,,
+Abelha 2013,Functional impairment (dependent for ADL)_performance ,6 month,Odds ratio,2.18,1.075,4.455,,,,,,,,,,,,,,,,,,,,,,,
+Abelha 2013,Functional impairment (dependent for IADL)_performance ,6 month,Odds ratio,0.786,0.394,1.57,,,,,,,,,,,,,,,,,,,,,,,
+Alzoubi 2022,Functional impairment (dependence ADL)_performance ,4 month,Odds ratio,1.4,0.27,7.15,,,,,,,,,,,,,,,,,,,,,,,
+Bickel 2008,Functional impairment (need for long-term care)_performance ,38 month,Odds ratio,5.6,1.6,19.7,,,,,,,,,,,,,,,,,,,,,,,
+Bickel 2008,Functional impairment (need for long-term care )_performance ,8 month,Odds ratio,1.7,0.5,5.4,,,,,,,,,,,,,,,,,,,,,,,
+Czyzycki 2022,Functional impairment ( (poor functional outcome hyperactive)_performance ,12 month,Odds ratio,4.12,1.48,11.44,,,,,,,,,,,,,,,,,,,,,,,
+Czyzycki 2022,Functional impairment ( (poor functional outcome hyperactive)_performance ,3 month,Odds ratio,3.25,1.23,8.55,,,,,,,,,,,,,,,,,,,,,,,
+Czyzycki 2022,Functional impairment ( (poor functional outcome hypoactive)_performance ,12 month,Odds ratio,3.57,2.17,5.88,,,,,,,,,,,,,,,,,,,,,,,
+Czyzycki 2022,Functional impairment ( (poor functional outcome mixed)_performance ,12 month,Odds ratio,1.83,1.35,2.48,,,,,,,,,,,,,,,,,,,,,,,
+Czyzycki 2022,Functional impairment ( (poor functional outcome mixed)_performance ,3 month,Odds ratio,1.71,1.28,2.28,,,,,,,,,,,,,,,,,,,,,,,
+Czyzycki 2022,Functional impairment (poor functional outcome hypoactive)_performance ,3 month,Odds ratio,3.07,1.94,4.85,,,,,,,,,,,,,,,,,,,,,,,
+DelaVarga-Martínez 2022,Functional impairment (Less mobility)_performance ,36 month,Odds ratio,2.436,1.06,5.61,,,,,,,,,,,,,,,,,,,,,,,
+Francis 1992,Functional impairment ( (loss of Independent Community Living)_performance ,24 month,Odds ratio,2.56,1.1,5.951,,,,,,,,,,,,,,,,,,,,,,,
+Hawley 2023,Functional impairment (Not Return to outdoor mobility_performance ,4 month,Odds ratio,1.5873,1.33333,1.8867,,,,,,,,,,,,,,,,,,,,,,,
+Jackson 2014,Functional impairment (Disabilities in ADL)_performance ,12 month,Odds ratio,0.63,0.27,1.46,,,,,,,,,,,,,,,,,,,,,,,
+Jackson 2014,Functional impairment (Disabilities in ADL)_performance ,3 month,Odds ratio,1.5,0.63,3.57,,,,,,,,,,,,,,,,,,,,,,,
+Jackson 2014,Functional impairment (Disabilities in ADL_performance ,12 month,Odds ratio,1.84,0.96,3.54,,,,,,,,,,,,,,,,,,,,,,,
+Jackson 2014,Functional impairment (Disabilities in IADL)_performance ,3 month,Odds ratio,1.57,0.89,2.77,,,,,,,,,,,,,,,,,,,,,,,
+Miyamoto 2021,Functional impairment (ADL disability)_performance ,12 month,Odds ratio,5.2,0.45,60.25,,,,,,,,,,,,,,,,,,,,,,,
+Miyamoto 2021,Functional impairment (ADL disability)_performance ,3 month,Odds ratio,1.57,0.37,6.7,,,,,,,,,,,,,,,,,,,,,,,
+Morandi 2014,Functional impairment (Walking Dependence)_performance ,12 month,Odds ratio,4.31,2.08,8.94,,,,,,,,,,,,,,,,,,,,,,,
+Ogawa 2017,Frailty_performance ,10.3 month,Odds ratio,2.98,1.46,6.2,,,,,,,,,,,,,,,,,,,,,,,
+Qu 2018,Functional impairment (disability)_performance ,3 month,Odds ratio,2.055,0.71,5.952,,,,,,,,,,,,,,,,,,,,,,,
+Qu 2018,Functional impairment (disability)_performance ,6 month,Odds ratio,1.202,0.417,3.468,,,,,,,,,,,,,,,,,,,,,,,
+Qu 2018,Functional impairment (poor IADL)_performance ,3 month,Odds ratio,2.9,1.071,7.851,,,,,,,,,,,,,,,,,,,,,,,
+Qu 2018,Functional impairment (poor IADL)_performance ,6 month,Odds ratio,1.655,0.605,4.523,,,,,,,,,,,,,,,,,,,,,,,
+Rawle 2021,Functional impairment,24 month,Odds ratio,30.5,15.7,59.2,,,,,,,,,,,,,,,,,,,,,,,
+Rollo 2022,Functional impairment (poor functional outcome (disability and functional dependence))_performance ,3 month,Odds ratio,4.83,1.88,12.35,,,,,,,,,,,,,,,,,,,,,,,
+Verloo 2016,Frailty_performance ,0.067 month,Odds ratio,1.19,1,1.43,,,,,,,,,,,,,,,,,,,,,,,
+DelaVarga-Martínez 2022,Functional impairment ((dependency on ADL))_performance ,36 month,Cohort 2x2 (Events),,,,10,55,12,160,,,,,,,,,,,,,,,,,,,
+Durlach 2023,Functional impairment ( (poor functional outcome? BADL)_performance ,3 month,Cohort 2x2 (Events),,,,21,42,62,193,,,,,,,,,,,,,,,,,,,
+Durlach 2023,Functional impairment ( (poor functional outcome? IADL)_performance ,3 month,Cohort 2x2 (Events),,,,31,42,104,193,,,,,,,,,,,,,,,,,,,
+Eeles 2012,Frailty_performance ,60 month,Cohort 2x2 (Events),,,,72,102,39,171,,,,,,,,,,,,,,,,,,,
+FialhoSilva 2021,Functional impairment (disability)_performance ,1 month,Cohort 2x2 (Events),,,,58,70,74,140,,,,,,,,,,,,,,,,,,,
+FialhoSilva 2021,Functional Impairment (disability)_performance ,3 month,Cohort 2x2 (Events),,,,52,65,52,131,,,,,,,,,,,,,,,,,,,
+Gandossi 2023,Functional impairment ( (poor functional status (fraility: delirium vs non-delirium)_performance ,4 month,Cohort 2x2 (Events),,,,62,100,88,106,,,,,,,,,,,,,,,,,,,
+Gandossi 2023,Functional impairment ( (poor functional status (No fraility: delirium vs non-delirium)_performance ,4 month,Cohort 2x2 (Events),,,,45,46,196,210,,,,,,,,,,,,,,,,,,,
+Lee 2011,Functional impairment_performance ,12 month,Cohort 2x2 (Events),,,,20,48,35,136,,,,,,,,,,,,,,,,,,,
+Lee 2011,Functional impairment (housebound patient)_performance ,40 month,Cohort 2x2 (Events),,,,12,38,18,110,,,,,,,,,,,,,,,,,,,
+Neufeld 2015,Fall_performance ,18 month,Cohort 2x2 (Events),,,,9,36,14,45,,,,,,,,,,,,,,,,,,,
+Paulino 2023,Functional impairment ( (ADL dependency)_performance ,3 month,Cohort 2x2 (Events),,,,12,18,19,51,,,,,,,,,,,,,,,,,,,
+Paulino 2023,Functional impairment ( (ADL dependency)_performance ,6 month,Cohort 2x2 (Events),,,,6,13,5,45,,,,,,,,,,,,,,,,,,,
+Singler 2014,Fall_performance ,3 month,Cohort 2x2 (Events),,,,7,19,54,114,,,,,,,,,,,,,,,,,,,
+Suraarunsumrit 2022,Frailty_performance ,3 month,Cohort 2x2 (Events),,,,3,26,22,247,,,,,,,,,,,,,,,,,,,
+To-adithep 2023,Functional impairment (dependent on B-ADL)_performance ,12 month,Cohort 2x2 (Events),,,,104,141,158,366,,,,,,,,,,,,,,,,,,,
+To-adithep 2023,Functional impairment (dependent on I-ADL)_performance ,12 month,Cohort 2x2 (Events),,,,113,141,174,366,,,,,,,,,,,,,,,,,,,
+VanderHeijden 2023,Fatigue_performance ,12 month,Cohort 2x2 (Events),,,,332,529,915,1871,,,,,,,,,,,,,,,,,,,
+Verloo 2016,Functional impairment (IADL)_performance ,0.067 month,Cohort 2x2 (Events),,,,5,20,49,94,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Ambulation)_performance ,1.5 month,Cohort 2x2 (Events),,,,8,19,42,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Ambulation)_performance ,3 month,Cohort 2x2 (Events),,,,6,15,29,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Banking and finances)_performance ,1.5 month,Cohort 2x2 (Events),,,,10,19,41,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Banking and finances)_performance ,3 month,Cohort 2x2 (Events),,,,8,15,32,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Bathing)_performance ,1.5 month,Cohort 2x2 (Events),,,,9,19,29,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Bathing)_performance ,3 month,Cohort 2x2 (Events),,,,5,15,15,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Bed-to-wheelchair transfer)_performance ,1.5 month,Cohort 2x2 (Events),,,,6,19,16,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Bed-to-wheelchair transfer)_performance ,3 month,Cohort 2x2 (Events),,,,3,15,6,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Dressing)_performance ,1.5 month,Cohort 2x2 (Events),,,,7,19,18,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Dressing)_performance ,3 month,Cohort 2x2 (Events),,,,5,15,12,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Feeding)_performance ,1.5 month,Cohort 2x2 (Events),,,,3,19,3,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Feeding)_performance ,3 month,Cohort 2x2 (Events),,,,1,15,3,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Food shopping)_performance ,1.5 month,Cohort 2x2 (Events),,,,12,19,50,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Food shopping)_performance ,3 month,Cohort 2x2 (Events),,,,11,15,41,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Housework)_performance ,1.5 month,Cohort 2x2 (Events),,,,12,19,50,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Housework)_performance ,3 month,Cohort 2x2 (Events),,,,10,15,38,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Laundry)_performance ,1.5 month,Cohort 2x2 (Events),,,,11,19,48,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Laundry)_performance ,3 month,Cohort 2x2 (Events),,,,9,15,35,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Preparing meals)_performance ,1.5 month,Cohort 2x2 (Events),,,,9,19,44,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Preparing meals)_performance ,3 month,Cohort 2x2 (Events),,,,8,15,31,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Public transportation)_performance ,1.5 month,Cohort 2x2 (Events),,,,10,19,49,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Public transportation)_performance ,3 month,Cohort 2x2 (Events),,,,10,15,42,61,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Toilet)_performance ,1.5 month,Cohort 2x2 (Events),,,,5,19,14,63,,,,,,,,,,,,,,,,,,,
+Zakriya 2004,Functional impairment (Toilet)_performance ,3 month,Cohort 2x2 (Events),,,,2,15,8,61,,,,,,,,,,,,,,,,,,,
+Brown 2018,Objective Cognitive change (change from baseline to 1 month),1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.23,0.87,76,0.035,0.46,66,Negative,,,,,,,-0.371374521,0.168795728,2.85E-02
+Brown 2018,Objective Cognitive change (change from 1 month to 1 year),12 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.15,0.8,76,-0.28,0.48,66,Positive,,,,,,,0.192789252,0.167741586,2.81E-02
+Cavallari 2017,Objective Cognitive change,12 month,"Independent groups (means, SD's)",,,,,,,,,,,1.21,3.74,25,0.75,3.39,88,Negative,,,,,,,-0.131717619,0.225271147,5.07E-02
+Giroux 2021,Objective Cognitive change,2 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,69,310,,,Negative,,,-2.19,-4.12,-0.26,,-0.296401343,0.133281609,1.78E-02
+Inouye 2016,Objective Cognitive change (GCP change from baseline to 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-1.75,3.33201255,129,-0.71,7.414968132,419,Negative,,,,,,,-0.15534835,0.100661538,0.010132745
+Inouye 2016,Objective Cognitive change (GCP change from baseline to 12 month),12 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.05,2.850392901,120,0.26,2.77437397,391,Negative,,,,,,,-0.110854656,0.104263202,1.09E-02
+Inouye 2016,Objective Cognitive change (GCP change from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.36,2.924911494,117,0.14,2.891835655,382,Negative,,,,,,,-0.172177863,0.105644811,1.12E-02
+Inouye 2016,Objective Cognitive change (GCP change from baseline to 2 month),2 month,"Independent groups (means, SD's)",,,,,,,,,,,0.47,3.092594371,126,0.47,3.099253581,410,Positive,,,,,,,0,0.101717228,1.03E-02
+Inouye 2016,Objective Cognitive change (GCP change from baseline to 24 month),24 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.67,3.072930425,106,0.02,3.131971607,368,Negative,,,,,,,-0.220877709,0.110291479,1.22E-02
+Inouye 2016,Objective Cognitive change (GCP change from baseline to 30 month),30 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.99,3.091039964,83,-0.1,2.89697319,242,Negative,,,,,,,-0.301254111,0.127455614,1.62E-02
+Inouye 2016,Objective Cognitive change (GCP change from baseline to 36 month),36 month,"Independent groups (means, SD's)",,,,,,,,,,,-1.3,3.595892886,86,-0.23,3.259770898,226,Negative,,,,,,,-0.318127676,0.1270324,1.61E-02
+Inouye 2016,Objective Cognitive change (GCP change from baseline to 6 month),6 month,"Independent groups (means, SD's)",,,,,,,,,,,0.26,2.982730909,124,0.39,2.92266791,404,Negative,,,,,,,-4.42E-02,0.102525922,1.05E-02
+Jankowski 2011,Objective Cognitive change (Changes in AVLTDelayed Recall) 3 month,3 month,"Independent groups (means, SD's)",,,,,,,,,,,5.8,11.7,37,4,11.8,33,Positive,,,,,,,0.151532206,0.237132446,5.62E-02
+Jankowski 2011,Objective Cognitive change (Changes in AVLTLearning Efficiency) 3 month,3 month,"Independent groups (means, SD's)",,,,,,,,,,,3.6,9.3,37,7.3,11.6,33,Negative,,,,,,,-0.350293927,0.23862995,5.69E-02
+Jankowski 2011,Objective Cognitive change (Changes in AVLTPercent Retention) 3 month,3 month,"Independent groups (means, SD's)",,,,,,,,,,,9.7,19.9,37,1.8,17.5,33,Positive,,,,,,,0.415367099,0.239374474,5.73E-02
+Jankowski 2011,Objective Cognitive change (Changes in COWAT) 3 month,3 month,"Independent groups (means, SD's)",,,,,,,,,,,0.5,1.8,37,-0.03,2.4,33,Positive,,,,,,,0.249138841,0.237720721,5.65E-02
+Jankowski 2011,Objective Cognitive change (Changes in SCWT) 3 month,3 month,"Independent groups (means, SD's)",,,,,,,,,,,1.2,6.9,37,2.6,7.9,33,Negative,,,,,,,-0.187412191,0.237315536,5.63E-02
+Katz 2001,Objective Cognitive change (Buschke SRT verbal memory) 2 month,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,35,,,Positive,0.52,,,,,,0.171035895,0.329387921,0.108496402
+Katz 2001,Objective Cognitive change (EEG Alpha activity (right hemisphere) 2 month,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,35,,,Negative,-0.38,,,,,,-0.124987769,0.32916772,0.108351388
+Katz 2001,Objective Cognitive change (EEG Delta activity (right hemisphere) 2 month,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,35,,,Negative,-1.96,,,,,,-0.644673758,0.335568948,0.112606519
+Katz 2001,Objective Cognitive change (EEG Theta activity (right hemisphere) 2 month,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,35,,,Negative,-1.76,,,,,,-0.578890721,0.334290659,0.111750245
+Katz 2001,Objective Cognitive change (MMSE) 2 month,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,35,,,Negative,-0.79,,,,,,-0.259842994,0.330005269,0.108903478
+Katz 2001,Objective Cognitive change(Stroop % correct) 2 month,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,35,,,Negative,-0.44,,,,,,-0.14472268,0.329253721,0.108408013
+Katz 2001,Objective Cognitive change(Stroop Interference) 2 month,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,35,,,Negative,-0.23,,,,,,-7.57E-02,0.329007721,0.10824608
+Katz 2001,Objective Cognitive change (Verbal vigilance) 2 month,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,35,,,Negative,-1.62,,,,,,-0.532842596,0.33347509,0.111205636
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 12 month),12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.21,3.176790834,120,0.59,2.570583591,391,Positive,,,,,,,0.139273707,0.104296552,1.09E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,0.08,3.13682961,117,0.62,2.73627484,382,Positive,,,,,,,0.190199855,0.105675778,1.12E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 1month),1 month,"Independent groups (means, SD's)",,,,,,,,,,,-1.75,3.407345007,129,-0.54,3.070423424,419,Negative,,,,,,,-0.383277691,0.101216404,1.02E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 2 month),2 month,"Independent groups (means, SD's)",,,,,,,,,,,0.36,3.928740256,126,0.47,2.834783942,410,Positive,,,,,,,3.51E-02,0.101722892,1.03E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 24 month),24 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.28,3.294601645,106,0.44,3.069332175,368,Negative,,,,,,,-0.230339471,0.110311893,1.22E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 30 month),30 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.9,3.097547417,83,0.01,2.644579362,242,Negative,,,,,,,-0.32815838,0.127557774,1.63E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 36 month),36 month,"Independent groups (means, SD's)",,,,,,,,,,,-1.6,3.985473623,110,-0.5,3.16218279,346,Negative,,,,,,,-0.325079164,0.109806109,0.012057382
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 48 month),48 month,"Independent groups (means, SD's)",,,,,,,,,,,-2.99,4.553679831,90,-1.51,3.606868448,295,Negative,,,,,,,-0.383889614,0.120977515,1.46E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 6 month),6 month,"Independent groups (means, SD's)",,,,,,,,,,,0.3,3.563369192,124,0.51,2.612967661,404,Positive,,,,,,,7.32E-02,0.102541663,1.05E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 60 month),60 month,"Independent groups (means, SD's)",,,,,,,,,,,-4.39,5.33291665,79,-2.52,4.145780988,275,Negative,,,,,,,-0.420621598,0.128355248,1.65E-02
+Kunicki 2023,Objective Cognitive change(GCP change from baseline to 72 month),72 month,"Independent groups (means, SD's)",,,,,,,,,,,-5.79,5.804825579,65,-3.53,4.881884882,248,Negative,,,,,,,-0.443326329,0.140132864,1.96E-02
+Neufeld 2015,Objective Cognitive change(difference Digit Span: backward from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.7108,16.9857,36,-2.4803,6.8922,45,Positive,,,,,,,0.141104287,0.221754499,4.92E-02
+Neufeld 2015,Objective Cognitive change(difference Digit Span: forward from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,0.3554,13.1253,36,-1.4175,15.316,45,Positive,,,,,,,0.122058639,0.221684729,0.049144119
+Neufeld 2015,Objective Cognitive change(difference verbal fluency: Category-cued (animals) fluency from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.7771,3.8604,36,1.5197,11.487,45,Negative,,,,,,,-0.254194739,0.222375835,4.95E-02
+Neufeld 2015,Objective Cognitive changes(difference verbal fluency: Letter-cued (p) fluency from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,0.3554,5.4045,36,4,6.1264,45,Negative,,,,,,,-0.620508241,0.226779376,0.051428886
+Neufeld 2015,Objective Cognitive change(difference verbal fluency: Letter-cued (s) fluency from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,-1.0662,8.4928,36,-0.0827,5.3606,45,Negative,,,,,,,-0.140662411,0.221752767,4.92E-02
+Neufeld 2015,Objective Cognitive change(MMSE change from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,0.3554,2.3162,36,-1.3543,2.2974,45,Positive,,,,,,,0.734432871,0.228870558,5.24E-02
+Neufeld 2015,Objective Cognitive change(verbal fluency: Letter-cued (s+p) fluency from baseline to 18 month),18 month,"Independent groups (means, SD's)",,,,,,,,,,,0.7892,6.9487,36,-2,5.3606,45,Positive,,,,,,,0.451759159,0.224303247,5.03E-02
+Witlox 2013,Objective Cognitive change(change from baseline to 3 month (Expanded degit span forward)),3 month,"Independent groups (means, SD's)",,,,,,,,,,,-1,3.1,22,-0.4,2.2,26,Negative,,,,,,,-0.222780971,0.285839609,8.17E-02
+Witlox 2013,Objective Cognitive change(change from baseline to 3 month (Expanded digit span backward)),3 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.7,2.1,22,-0.4,2.1,26,Negative,,,,,,,-0.140515222,0.285294516,8.14E-02
+Witlox 2013,Objective Cognitive change(change from baseline to 3 month (MMSE)),3 month,"Independent groups (means, SD's)",,,,,,,,,,,0.1,4.2,22,1.6,1.8,26,Negative,,,,,,,-0.470968186,0.288959894,8.35E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: Grooved pegboard (s)) 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,0.2407,1.474,22,0.2038,1.0926,154,Positive,,,,,,,0.032077042,0.226943761,5.15E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: Grooved pegboard (s)) 12 month,12 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.6104,0.6702,20,0.1854,0.6824,126,Negative,,,,,,,-1.162815433,0.248925984,6.20E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: RAVL (DR)) 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.1263,0.7529,22,0.0165,0.8531,154,Negative,,,,,,,-0.168936336,0.227115886,5.16E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: RAVL (DR)) 12 month,12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.6373,0.9095,20,0.6264,0.8549,126,Positive,,,,,,,1.26E-02,0.239445342,5.73E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: RAVL (IR) 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.62,1.7989,22,0.1292,0.8382,154,Negative,,,,,,,-0.742873991,0.230365658,0.053068337
+Sauer 2017,Objective Cognitive change (change from the baseline: RAVL (IR) 12 month,12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.5186,1.1569,20,0.7625,1.2149,126,Negative,,,,,,,-0.200949242,0.239732809,5.75E-02
+Sauer 2017,Objective Cognitive change(change from the baseline: Trailmaking test A (s)) 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.03,1.4582,22,0.0062,0.5688,154,Negative,,,,,,,-4.90E-02,0.226952348,5.15E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: Trailmaking test A (s)) 12 month,12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.0787,1.125,20,-0.0027,0.525,126,Negative,,,,,,,-0.12704451,0.239559607,5.74E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: Trailmaking test B (s)) 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.7992,1.7593,22,-0.0776,0.5463,154,Negative,,,,,,,-0.900943579,0.231962306,5.38E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: Trailmaking test B (s)) 12 month,12 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.1499,1.2367,20,0.2227,0.6224,126,Negative,,,,,,,-0.505303543,0.241263246,5.82E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: WAIS digit span (span)) 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.4645,0.7608,22,-0.1235,1.4294,154,Negative,,,,,,,-0.248523494,0.227323587,5.17E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: WAIS digit span (span)) 12 month,12 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.0863,1.3404,20,0,1.4399,126,Negative,,,,,,,-6.02E-02,0.239470086,5.73E-02
+Sauer 2017,Objective Cognitive change (change from the baseline: WAIS digit span (total)) 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.4272,1.4106,22,-0.43,1.3321,154,Positive,,,,,,,2.08E-03,0.226937348,5.15E-02
+Sauer 2017,Objective Cognitive change(change from the baseline: WAIS digit span (total)) 12 month,12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.3202,1.4122,20,0.4435,1.3274,126,Negative,,,,,,,-9.16E-02,0.23950422,5.74E-02
+Sauer 2017,Objective Cognitive change(change from the baseline: Corsi blocks (total score)) 1 month,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.3926,0.9748,22,-0.0857,0.696,154,Negative,,,,,,,-0.41559076,0.228015826,5.20E-02
+Sauer 2017,Objective Cognitive change(change from the baseline: Corsi blocks (total score)) 12 month,12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.2936,0.9175,20,0.5556,0.7799,126,Negative,,,,,,,-0.326030502,0.240203158,5.77E-02
+Racine 2020,Objective Cognitive change (GCP  from the baseline 1 month,1 month,"Hedges's g, CI",,,,,,,,,,,,,30,,,110,Negative,,,,-0.5207,0.3225,,-0.0991,,
+Racine 2020,Objective Cognitive change (GCP from 1 month to 2 month,2 month,"Hedges's g, CI",,,,,,,,,,,,,30,,,110,Positive,,,,-0.2418,0.469,,0.1136,,
+Racine 2020,Objective Cognitive change (GCP from 2 month to 36 month,36 month,"Hedges's g, CI",,,,,,,,,,,,,30,,,110,Negative,,,,-0.5772,0.408,,-0.0846,,
+Krogseth 2016,Objective Cognitive change from the baseline,12 month,"Independent groups (means, SD's)",,,,,,,,,,,2.4702,2.0908,201,0.9648,1.4326,86,Negative,,,,,,,-0.78270018,0.13260078,0.017582967
+Duppils 2004,Objective Cognitive change,6 month,"Independent groups (difference, t)",,,,,,,,,,,,,32,83,,,Negative,2,,5.39,,,,-0.413396079,0.208487666,4.35E-02
+Witlox 2013,Objective Cognitive performance (Clock drawing),3 month,"Independent groups (means, SD's)",,,,,,,,,,,2,1.585,22,3.1425,1.5687,26,Negative,,,,,,,-0.712978956,0.294079048,8.65E-02
+Witlox 2013,Objective Cognitive performance (COWAT total),3 month,"Independent groups (means, SD's)",,,,,,,,,,,19.2,8.1,22,23.5,11,26,Negative,,,,,,,-0.432318494,0.288329944,8.31E-02
+Witlox 2013,Objective Cognitive performance (DART),3 month,"Independent groups (means, SD's)",,,,,,,,,,,71.2,15.8,22,62.6,16.9,26,Positive,,,,,,,0.515574325,0.289751988,0.083956215
+Witlox 2013,Objective Cognitive performance (EMCT total error),3 month,"Independent groups (means, SD's)",,,,,,,,,,,7.8637,10.4608,22,4.0725,4.706,26,Negative,,,,,,,-0.473618286,0.28900501,8.35E-02
+Witlox 2013,Objective Cognitive performance (EMCT total time (seconds)),3 month,"Independent groups (means, SD's)",,,,,,,,,,,272,123,22,224,80,26,Negative,,,,,,,-0.463297393,0.288830692,8.34E-02
+Witlox 2013,Objective Cognitive performance (EMCT total),3 month,"Independent groups (means, SD's)",,,,,,,,,,,17.7,5.8,22,20.3,2.8,26,Negative,,,,,,,-0.577383689,0.290963766,8.47E-02
+Witlox 2013,Objective Cognitive performance (Expanded digit span backward),3 month,"Independent groups (means, SD's)",,,,,,,,,,,5.5,2.5,22,6.6,1.9,26,Negative,,,,,,,-0.493067243,0.289343637,8.37E-02
+Witlox 2013,Objective Cognitive performance (Expanded digit span forwardd),3 month,"Independent groups (means, SD's)",,,,,,,,,,,10.5,2.7,22,10.5,2.8,26,Positive,,,,,,,0,0.284933833,8.12E-02
+Witlox 2013,Objective Cognitive performance (Fifteen Words Test total recall),3 month,"Independent groups (means, SD's)",,,,,,,,,,,20.3,5.9,22,29.7,8.2,26,Negative,,,,,,,-1.276846331,0.31332086,0.098169961
+Witlox 2013,Objective Cognitive performance (MMSE),3 month,"Independent groups (means, SD's)",,,,,,,,,,,23.1,4.5,22,26.8,2.7,26,Negative,,,,,,,-1.001449177,0.302711362,9.16E-02
+Witlox 2013,Objective Cognitive performance Fifteen Words Test delayed recall),3 month,"Independent groups (means, SD's)",,,,,,,,,,,1.1,1.7,22,5.1,2.9,26,Negative,,,,,,,-1.621152085,0.329490039,0.108563686
+Witlox 2013,Objective Cognitive performance RT mean (millisecond),3 month,"Independent groups (means, SD's)",,,,,,,,,,,617.6436,418.4336,22,360.88,136.474,26,Negative,,,,,,,-0.841598979,0.297599223,8.86E-02
+Witlox 2013,Objective Cognitive performance RT SD (millisecond),3 month,"Independent groups (means, SD's)",,,,,,,,,,,358.5886,393.074,22,144.9475,113.7283,26,Negative,,,,,,,-0.754523008,0.295156821,0.087117549
+Witlox 2013,Objective Cognitive performance RT total error,3 month,"Independent groups (means, SD's)",,,,,,,,,,,1,4.45,22,1,2.59,26,Positive,,,,,,,0,0.284933833,8.12E-02
+Witlox 2013,Objective Cognitvive performance (Fifteen Words Test recognition),3 month,"Independent groups (means, SD's)",,,,,,,,,,,22.1,3.8,22,26.5,3.2,26,Negative,,,,,,,-1.24123466,0.311826662,9.72E-02
+Whittamore 2014,Objective Cognitive performance,6 month,"Independent groups (means, SD's)",,,,,,,,,,,11.2964,13.5267,47,23,8.89,74,Negative,,,,,,,-1.065150041,0.197586042,3.90E-02
+Vives-Borrás 2019,Objective Cognitive performance,6 month,"Independent groups (means, SD's)",,,,,,,,,,,5.3553,5.3986,37,1,1.487,490,Negative,,,,,,,-2.158927716,0.182775775,3.34E-02
+Verloo 2016,Objective Cognitive performance,0.067 month,"Independent groups (means, SD's)",,,,,,,,,,,19.2,5.4,20,24.57,4.3,94,Negative,,,,,,,-1.183861122,0.256854319,6.60E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP (CAM-S 0-2 vs 3-7),1 month,"Independent groups (means, SD's)",,,,,,,,,,,55,7.9,242,60,6.9,243,Negative,,,,,,,-0.67318499,9.32E-02,8.69E-03
+Vasunilashorn 2018,Objective Cognitive performance (GCP (CAM-S 0-2 vs 3-7),12 month,"Independent groups (means, SD's)",,,,,,,,,,,56.8,7.6,224,61.2,7,227,Negative,,,,,,,-0.601389755,9.61E-02,9.24E-03
+Vasunilashorn 2018,Objective Cognitive performance (GCP (CAM-S 0-2 vs 3-7) ,18 month,"Independent groups (means, SD's)",,,,,,,,,,,56.5,7.9,222,61.5,6.9,219,Negative,,,,,,,-0.672677089,0.097738234,9.55E-03
+Vasunilashorn 2018,Objective Cognitive performance (GCP (CAM-S 0-2 vs 3-7),2 month,"Independent groups (means, SD's)",,,,,,,,,,,56.2,8.1,237,60.9,7.1,238,Negative,,,,,,,-0.616193397,9.38E-02,8.79E-03
+Vasunilashorn 2018,Objective Cognitive performance (GCP (CAM-S 0-2 vs 3-7) ,36 month,"Independent groups (means, SD's)",,,,,,,,,,,55.8,8.2,141,60.6,7.4,123,Negative,,,,,,,-0.610673935,0.125862878,1.58E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP (CAM-S 0-2 vs 3-7) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,56.4,7.9,230,61,6.5,237,Negative,,,,,,,-0.635786974,9.47E-02,8.97E-03
+Vasunilashorn 2018,Objective Cognitive performance (GCP (CAM-S 0-2 vs 8-19) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,54.2,6.1,61,61,6.5,237,Negative,,,,,,,-1.056350516,0.149601855,2.24E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP CAM-S 0-2 vs 3-7),30 month,"Independent groups (means, SD's)",,,,,,,,,,,56.1,7.9,152,60.7,7.5,132,Negative,,,,,,,-0.594518035,0.121250656,1.47E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP) (CAM-S 0-2 vs 8-19),1 month,"Independent groups (means, SD's)",,,,,,,,,,,51.4,5.8,63,60,6.9,243,Negative,,,,,,,-1.282258554,0.150253908,2.26E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP) (CAM-S 0-2 vs 8-19) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,53.9,5.4,60,61.2,7,227,Negative,,,,,,,-1.086648929,0.151717665,0.02301825
+Vasunilashorn 2018,Objective Cognitive performance (GCP) (CAM-S 0-2 vs 8-19) ,18 month,"Independent groups (means, SD's)",,,,,,,,,,,52.7,7.2,58,61.5,6.9,219,Negative,,,,,,,-1.260329017,0.156703203,2.46E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP) (CAM-S 0-2 vs 8-19),2 month,"Independent groups (means, SD's)",,,,,,,,,,,53.8,5.3,61,60.9,7.1,238,Negative,,,,,,,-1.045318625,0.14939342,2.23E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP) (CAM-S 0-2 vs 8-19),24 month,"Independent groups (means, SD's)",,,,,,,,,,,52.4,7.2,50,61.2,6.8,213,Negative,,,,,,,-1.275971248,0.166277574,2.76E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP) (CAM-S 0-2 vs 8-19) ,30 month,"Independent groups (means, SD's)",,,,,,,,,,,52.4,7.3,41,60.7,7.5,132,Negative,,,,,,,-1.108650236,0.187718224,3.52E-02
+Vasunilashorn 2018,Objective Cognitive performance (GCP) (CAM-S 0-2 vs 8-19) ,36 month,"Independent groups (means, SD's)",,,,,,,,,,,51.8,7.7,48,60.6,7.4,123,Negative,,,,,,,-1.170515875,0.180866515,3.27E-02
+Vasunilashorn 2018,Objective Cognitive performance GCP (CAM-S 0-2 vs 3-7) ,24 month,"Independent groups (means, SD's)",,,,,,,,,,,56.4,8.1,211,61.2,6.8,213,Negative,,,,,,,-0.640978618,9.94E-02,9.89E-03
+Sheng 2006,Objective Cognitive performance ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,18.5,6.6,16,24.3,5.4,82,Negative,,,,,,,-1.026783422,0.280906652,7.89E-02
+Sheng 2006,Objective Cognitive performance ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,17.5,7.5,10,24.7,4.9,73,Negative,,,,,,,-1.35795886,0.350292932,0.122705138
+Serrano-Duenas 2005,Objective Cognitive performance ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,31,2.3,21,34.1,2.1,21,Negative,,,,,,,-1.381078291,0.338208488,0.114384981
+Serrano-Duenas 2005, Cognitive performance ,18 month,"Independent groups (means, SD's)",,,,,,,,,,,29.8,2.8,19,33.8,1.9,21,Negative,,,,,,,-1.654705728,0.361292633,0.130532367
+Serrano-Duenas 2005,Objective Cognitive performance ,24 month,"Independent groups (means, SD's)",,,,,,,,,,,27.4,3.3,18,33.3,1.8,21,Negative,,,,,,,-2.223764723,0.402995612,0.162405463
+Serrano-Duenas 2005,Objective Cognitive performance ,30 month,"Independent groups (means, SD's)",,,,,,,,,,,26.3,3.2,17,32.6,2,21,Negative,,,,,,,-2.369907106,0.419433055,0.175924088
+Serrano-Duenas 2005,Objective Cognitive performance ,36 month,"Independent groups (means, SD's)",,,,,,,,,,,25.4,2.9,15,32.6,2,21,Negative,,,,,,,-2.919206738,0.477096086,0.227620675
+Serrano-Duenas 2005,Objective Cognitive performance ,42 month,"Independent groups (means, SD's)",,,,,,,,,,,24.4,3,14,32.3,1.9,20,Negative,,,,,,,-3.202895422,0.516352994,0.266620415
+Serrano-Duenas 2005,Objective Cognitive performance ,48 month,"Independent groups (means, SD's)",,,,,,,,,,,22.9,3.2,13,32,1.9,20,Negative,,,,,,,-3.572300671,0.560500427,0.314160728
+Serrano-Duenas 2005,Objective Cognitive performance ,54 month,"Independent groups (means, SD's)",,,,,,,,,,,21.6,3.4,11,31.8,2.1,18,Negative,,,,,,,-3.731679601,0.615191415,0.378460477
+Serrano-Duenas 2005,Objective Cognitive performance ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,31.8,2.2,21,34.4,1.9,21,Negative,,,,,,,-1.241044818,0.331683179,0.110013731
+Serrano-Duenas 2005,Objective Cognitive performance,60 month,"Independent groups (means, SD's)",,,,,,,,,,,21.1,3.3,11,31.6,2.1,17,Negative,,,,,,,-3.880207195,0.640308237,0.409994639
+Sauer 2017,Objective Cognitive performance  (Trailmaking test A (s)),1 month,"Independent groups (means, SD's)",,,,,,,,,,,49.7943,24.5671,22,34.7177,14.2648,154,Negative,,,,,,,-0.94607373,0.232472189,5.40E-02
+Sauer 2017,Objective Cognitive performance  (Trailmaking test A (s)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,47.7988,23.1375,20,36.7577,14.2488,126,Negative,,,,,,,-0.699039202,0.242913583,5.90E-02
+Sauer 2017,Objective Cognitive performance (Corsi blocks),1 month,"Independent groups (means, SD's)",,,,,,,,,,,29.6411,10.3023,22,43.1614,14.2188,154,Negative,,,,,,,-0.975135211,0.232813092,5.42E-02
+Sauer 2017,Objective Cognitive performance (Grooved pegboard (s)),1 month,"Independent groups (means, SD's)",,,,,,,,,,,105,62.23,22,81,20,154,Negative,,,,,,,-0.834955072,0.231259783,5.35E-02
+Sauer 2017,Objective Cognitive performance (Grooved pegboard (s)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,112.6705,47.8708,20,78.0546,20.2484,126,Negative,,,,,,,-1.342155855,0.251997317,6.35E-02
+Sauer 2017,Objective Cognitive performance (RAVL (DR)),1 month,"Independent groups (means, SD's)",,,,,,,,,,,5.3589,2.3775,22,8,4.4902,154,Negative,,,,,,,-0.612872654,0.229276317,5.26E-02
+Sauer 2017,Objective Cognitive performance (RAVL (DR)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,7.3598,3.9892,20,9,4.4996,126,Negative,,,,,,,-0.367849896,0.240409926,5.78E-02
+Sauer 2017,Objective Cognitive performance (RAVL (IR)),1 month,"Independent groups (means, SD's)",,,,,,,,,,,34.7177,12.6798,22,42.2975,11.9738,154,Negative,,,,,,,-0.625732224,0.229374975,5.26E-02
+Sauer 2017,Objective Cognitive performance (RAVL (IR)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,36.9208,11.9677,20,44.9454,14.2488,126,Negative,,,,,,,-0.571453619,0.241768244,5.85E-02
+Sauer 2017,Objective Cognitive performance (Trailmaking test B (s)),1 month,"Independent groups (means, SD's)",,,,,,,,,,,107.3261,81.6262,22,61.5127,34.4245,154,Negative,,,,,,,-1.061644913,0.233885672,5.47E-02
+Sauer 2017,Objective Cognitive performance (Trailmaking test B (s)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,98.5913,77.3911,20,53.4608,27.7477,126,Negative,,,,,,,-1.175515729,0.249130186,6.21E-02
+Sauer 2017,Objective Cognitive performance (WAIS digit span (span)),1 month,"Independent groups (means, SD's)",,,,,,,,,,,5.3589,0.7925,22,5.7025,1.4967,154,Negative,,,,,,,-0.239204377,0.227295184,5.17E-02
+Sauer 2017,Objective Cognitive performance (WAIS digit span (span)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,5.3598,0.7978,20,6,1.4999,126,Negative,,,,,,,-0.446236241,0.24086401,5.80E-02
+Sauer 2017,Objective Cognitive performance (WAIS digit span (total)),1 month,"Independent groups (means, SD's)",,,,,,,,,,,12.6411,2.3775,22,14,2.9934,154,Negative,,,,,,,-0.462424909,0.228271852,5.21E-02
+Sauer 2017,Objective Cognitive performance (WAIS digit span (total)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,13.6403,2.3935,20,15.3515,3.7497,126,Negative,,,,,,,-0.472835692,0.241037742,5.81E-02
+Sauer 2017,Objective Cognitive performance Corsi blocks (total),12 month,"Independent groups (means, SD's)",,,,,,,,,,,38.9208,5.5849,20,51.1876,14.1876,126,Negative,,,,,,,-0.912476076,0.245326197,6.02E-02
+Saczynski 2012,Objective Cognitive performance ,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,103,,,122,Negative,,,-0.9,-1.8,0,,-0.262808535,0.133934954,1.79E-02
+Saczynski 2012,Objective Cognitive performance,1 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,103,,,122,Negative,,,-2.2,,-1.3,,-0.642420864,0.136756016,1.87E-02
+Saczynski 2012,Objective Cognitive performance ,6 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,103,,,122,Negative,,,-0.9,-1.8,0,,-0.262808535,0.133934954,1.79E-02
+Richardson 2021_2,Objective Cognitive performance ,24 month,"Independent groups (means, SD's)",,,,,,,,,,,25.2,3.9,48,27.4,2.5,87,Negative,,,,,,,-0.712888444,0.18397172,3.38E-02
+Richardson 2021_2,Objective Cognitive performance ,36 month,"Independent groups (means, SD's)",,,,,,,,,,,21.8,5.8,48,26.7,3.2,87,Negative,,,,,,,-1.132509816,0.191607999,3.67E-02
+Pandharipande 2013,Objective Cognitive performance (Part B (Trails B) ,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,352,,,115,Negative,,,-6,-10.2,-1.9,,-0.304663114,0.107697424,1.16E-02
+Pandharipande 2013,Objective Cognitive performance (Part B (Trails B),3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,352,,,115,Negative,,,-5.1,-9.2,-1.1,,-0.265357811,0.107585999,1.16E-02
+Pandharipande 2013,Objective Cognitive performance (RBANS),12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,352,,,115,Negative,,,-5.6,-9.5,-1.8,,-0.306509557,0.107703033,1.16E-02
+Pandharipande 2013,Objective Cognitive performance (RBANS) ,3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,352,,,115,Negative,,,-6.3,-10.3,-2.3,,-0.33189238,0.107783547,1.16E-02
+Olofsson 2018,Objective Cognitive performance ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,19.9,6.3,64,25.9,4.8,55,Negative,,,,,,,-1.053757855,0.195037007,3.80E-02
+Olofsson 2018,Objective Cognitive performance ,36 month,"Independent groups (means, SD's)",,,,,,,,,,,18.7,7.1,64,26,4.2,55,Negative,,,,,,,-1.221030556,0.199093485,3.96E-02
+Olofsson 2018,Objective Cognitive performance ,4 month,"Independent groups (means, SD's)",,,,,,,,,,,20.4,5.2,64,26.2,3.5,55,Negative,,,,,,,-1.281753806,0.200690746,4.03E-02
+Ojagbemi 2020,Objective Cognitive performance (executive function),3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,11,,,100,Negative,,,-2.2,-4.1,-0.3,,-0.72397779,0.319191242,0.101883049
+Ojagbemi 2020,Objective Cognitive performance (global cognitive functioning),3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,11,,,100,Negative,,,-5.6,-9,-2.1,,-1.014904306,0.322741102,0.104161819
+Ojagbemi 2020,Objective Cognitive performance (Memory),3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,11,,,100,Negative,,,-1.9,,-0.9,,-1.187981737,0.32539092,0.105879251
+Neufeld 2015,Objective Cognitive performance  (Letter-cued (p) fluency),18 month,"Independent groups (means, SD's)",,,,,,,,,,,43.7111,13.9136,36,48.2911,13.7946,45,Negative,,,,,,,-0.327596901,0.222967759,4.97E-02
+Neufeld 2015,Objective Cognitive performance  (Letter-cued (s) fluency),18 month,"Independent groups (means, SD's)",,,,,,,,,,,41.4879,10.0487,36,45.5823,13.7946,45,Negative,,,,,,,-0.330329306,0.222992643,4.97E-02
+Neufeld 2015,Objective Cognitive performance (Category-cued (animals) fluency),18 month,"Independent groups (means, SD's)",,,,,,,,,,,47.3556,14.6866,36,47.2911,10.7291,45,Positive,,,,,,,5.06E-03,0.221477565,4.91E-02
+Neufeld 2015,Objective Cognitive performance (Digit Span: backward),18 month,"Independent groups (means, SD's)",,,,,,,,,,,44.2889,17.0055,36,47.6455,6.9027,45,Negative,,,,,,,-0.267335514,0.222470934,4.95E-02
+Neufeld 2015,Objective Cognitive performance (Digit Span: forward),18 month,"Independent groups (means, SD's)",,,,,,,,,,,47.4223,10.8217,36,46,9.1964,45,Positive,,,,,,,0.141593573,0.221756425,4.92E-02
+Neufeld 2015,Objective Cognitive performance (MMSE score),18 month,"Independent groups (means, SD's)",,,,,,,,,,,24.6446,2.3162,36,25.3543,2.2974,45,Negative,,,,,,,-0.304864601,0.222768653,4.96E-02
+Nerdal 2022,Objective Cognitive performance ,18 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,9,,,100,Negative,,,4.2,1.4,7.1,,-1.009536562,0.352264614,0.124090358
+Nerdal 2022,Objective Cognitive performance ,3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,10,,,115,Negative,,,2.9,0.1,5.7,,-0.67177902,0.330418828,0.109176602
+Nerdal 2022,Objective Cognitive performance ,36 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,5,,,83,Negative,,,3.6,0.5,6.7,,-1.053767738,0.463318851,0.214664358
+Muller 2023,Objective Cognitive performance,3 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.44,0.86,11,0.08,0.65,46,Negative,,,,,,,-0.740154626,0.338213873,0.114388624
+McCusker 2001,Objective Cognitive performance (delirium & dementia vs dementia only) ,6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,220,,,95,Negative,,0.0001,,,,,-0.48270387,0.12397345,1.54E-02
+McCusker 2001,Objective Cognitive performance (delirium only vs neither) ,6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,220,,,95,Negative,,0.08,,,,,-0.215109705,0.122772221,1.51E-02
+McCusker 2001,Objective Cognitive performance with dementia,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,220,,,95,Negative,,,-4.99,-7.17,-2.81,,-0.551587098,0.124428711,1.55E-02
+McCusker 2001,Objective Cognitive performance without dementia,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,220,,,95,Negative,,,-3.36,-6.15,-0.58,,-0.290726169,0.123019233,1.51E-02
+Lingehall 2017,Objective Cognitive performance,12 month,"Independent groups (means, SD's)",,,,,,,,,,,26.1,3.1,64,27.1,2.6,50,Negative,,,,,,,-0.343471853,0.188854022,3.57E-02
+Lingehall 2017,Objective Cognitive performance ,36 month,"Independent groups (means, SD's)",,,,,,,,,,,25.2,4.8,64,27.2,2.8,50,Negative,,,,,,,-0.490699896,0.190274794,3.62E-02
+Lingehall 2017,Objective Cognitive performance ,60 month,"Independent groups (means, SD's)",,,,,,,,,,,23.1,6.2,64,26.6,2.9,50,Negative,,,,,,,-0.691141766,0.192985728,3.72E-02
+Kunicki 2023,Objective Cognitive performance ,12 month,"Raw difference (indep groups), SE",,,,,,,,,,0.32,,,120,,,391,Negative,,,-3.8,,,,-1.237440588,0.111162439,1.24E-02
+Kunicki 2023,Objective Cognitive performance ,18 month,"Raw difference (indep groups), SE",,,,,,,,,,0.33,,,117,,,382,Negative,,,-0.54,,,,-0.172643122,0.105645572,1.12E-02
+Kunicki 2023,Objective Cognitive performance ,2 month,"Raw difference (indep groups), SE",,,,,,,,,,0.39,,,126,,,410,Negative,,,-0.11,,,,-2.87E-02,0.101721002,1.03E-02
+Kunicki 2023,Objective Cognitive performance ,24 month,"Raw difference (indep groups), SE",,,,,,,,,,0.36,,,106,,,368,Negative,,,-0.72,,,,-0.220115853,0.110289872,1.22E-02
+Kunicki 2023,Objective Cognitive performance ,30 month,"Raw difference (indep groups), SE",,,,,,,,,,0.39,,,83,,,242,Negative,,,-0.91,,,,-0.296115648,0.127437087,1.62E-02
+Kunicki 2023,Objective Cognitive performance,36 month,"Raw difference (indep groups), SE",,,,,,,,,,0.42,,,110,,,346,Negative,,,-1.1,,,,-0.286202213,0.109687391,1.20E-02
+Kunicki 2023,Objective Cognitive performance ,48 month,"Raw difference (indep groups), SE",,,,,,,,,,0.52,,,90,,,295,Negative,,,-1.49,,,,-0.344373076,0.120822948,1.46E-02
+Kunicki 2023,Objective Cognitive performance ,6 month,"Raw difference (indep groups), SE",,,,,,,,,,0.35,,,124,,,404,Negative,,,-0.22,,,,-6.44E-02,0.102536075,1.05E-02
+Kunicki 2023,Objective Cognitive performance ,60 month,"Raw difference (indep groups), SE",,,,,,,,,,0.65,,,79,,,275,Negative,,,-1.87,,,,-0.36645698,0.128120471,1.64E-02
+Kunicki 2023,Objective Cognitive performance ,72 month,"Raw difference (indep groups), SE",,,,,,,,,,0.78,,,65,,,248,Negative,,,-2.26,,,,-0.402767151,0.13993713,1.96E-02
+Kunicki 2023,Objective Cognitive performance month,1 month,"Raw difference (indep groups), SE",,,,,,,,,,0.34,,,129,,,419,Negative,,,-1.21,,,,-0.3578472,0.10113142,1.02E-02
+Krogseth 2023,Objective Cognitive performance (MoCA with dementia),24 month,"Independent groups (means, SD's)",,,,,,,,,,,9.6,6.4,39,12.2,6.2,63,Negative,,,,,,,-0.411112569,0.204256248,4.17E-02
+Krogseth 2023,Objective Cognitive performance (MoCA without dementia),24 month,"Independent groups (means, SD's)",,,,,,,,,,,19.1,5.5,18,22.2,5.2,68,Negative,,,,,,,-0.58384329,0.266440384,7.10E-02
+Kat 2008,Objective Cognitive performance (Digit span backwards),30 month,"Independent groups (means, SD's)",,,,,,,,,,,7.4,4,25,8.7,3.6,21,Negative,,,,,,,-0.334185091,0.293009598,0.085854625
+Kat 2008,Objective Cognitive performance (Digit span forward),30 month,"Independent groups (means, SD's)",,,,,,,,,,,15.3,4.1,25,16.1,2.6,21,Negative,,,,,,,-0.224728122,0.291872674,8.52E-02
+Kat 2008,Objective Cognitive performance (MMSE),30 month,"Independent groups (means, SD's)",,,,,,,,,,,22.6,6.5,27,26.2,3.9,22,Negative,,,,,,,-0.64491624,0.290017371,8.41E-02
+Janssen 2021,Objective Cognitive performance ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,26.4261,4.988,10,27.6487,2.2452,153,Negative,,,,,,,-0.49070183,0.326010378,0.106282767
+Janssen 2021,Objective Cognitive performance ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,27.1123,3.306,8,27.6487,2.2459,148,Negative,,,,,,,-0.23160754,0.361450397,0.13064639
+Jankowski 2011,Objective Cognitive performance: AVLT delayed recall ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,91.1,18.2,37,97.8,15.9,33,Negative,,,,,,,-0.386208421,0.2390255,5.71E-02
+Jankowski 2011,Objective Cognitive performance: AVLT learning efficency ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,90.6,18.5,37,99.6,17.7,33,Negative,,,,,,,-0.490975534,0.240394714,5.78E-02
+Jankowski 2011,Objective Cognitive performance: AVLT percent retention ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,95.1,19.3,37,97.7,14.5,33,Negative,,,,,,,-0.149413219,0.237122842,5.62E-02
+Jankowski 2011,Objective Cognitive performance: COWA,3 month,"Independent groups (means, SD's)",,,,,,,,,,,8.7,2.6,37,9.8,2.6,33,Negative,,,,,,,-0.418393415,0.239412117,5.73E-02
+Jankowski 2011,Objective Cognitive performance: SCWT,3 month,"Independent groups (means, SD's)",,,,,,,,,,,44.9,9.1,37,52.2,8.9,33,Positive,,,,,,,0.801558853,0.246286508,6.07E-02
+Inouye 2016,Objective Cognitive performance  ,24 month,"Independent groups (means, SD's)",,,,,,,,,,,57.1,3.939654391,106,57.8,5.3830762,368,Negative,,,,,,,-0.13710529,0.110147974,1.21E-02
+Inouye 2016,Objective Cognitive performance ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,55.9,4.346103326,129,56.9,5.743989398,419,Negative,,,,,,,-0.183282544,0.1007044,1.01E-02
+Inouye 2016,Objective Cognitive performance,12 month,"Independent groups (means, SD's)",,,,,,,,,,,57.6,3.912303982,120,57.9,5.54874794,391,Negative,,,,,,,-5.75E-02,0.104221029,1.09E-02
+Inouye 2016,Objective Cognitive performance ,18 month,"Independent groups (means, SD's)",,,,,,,,,,,57.3,3.863090652,117,57.8,5.484515896,382,Negative,,,,,,,-0.096904458,0.105548713,1.11E-02
+Inouye 2016,Objective Cognitive performance ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,58,3.722567298,126,58,5.165422636,410,Negative,,,,,,,0,0.101717228,1.03E-02
+Inouye 2016,Objective Cognitive performance ,30 month,"Independent groups (means, SD's)",,,,,,,,,,,56.8,3.950953338,83,57.7,4.76214771,242,Negative,,,,,,,-0.196484582,0.127140498,1.62E-02
+Inouye 2016,Objective Cognitive performance ,36 month,"Independent groups (means, SD's)",,,,,,,,,,,56.5,4.494866108,86,57.6,4.985531962,226,Negative,,,,,,,-0.22597864,0.126715745,1.61E-02
+Inouye 2016,Objective Cognitive performance,6 month,"Independent groups (means, SD's)",,,,,,,,,,,57.9,3.692904935,124,58,5.640236318,404,Negative,,,,,,,-1.90E-02,0.102518569,1.05E-02
+Humbert 2021,Objective Cognitive performance (Clock Drawing Test),3 month,"Independent groups (means, SD's)",,,,,,,,,,,8.4837,1.4373,15,9.2336,2.1507,62,Negative,,,,,,,-0.364518869,0.28636585,8.20E-02
+Humbert 2021,Objective Cognitive performance (MMSE),3 month,"Independent groups (means, SD's)",,,,,,,,,,,24.9349,4.5993,15,27.6168,1.9356,62,Negative,,,,,,,-1.003789521,0.2961172,8.77E-02
+Giroux 2021,Objective Cognitive performance,2 month,"Independent groups (means, SD's)",,,,,,,,,,,27,7.64,69,32.3,5.58,310,Negative,,,,,,,-0.880981766,0.136645534,1.87E-02
+Francis 1992,Objective Cognitive performance,24 month,"Independent groups (means, SD's)",,,,,,,,,,,23.7,5.1,11,26.4,4.2,81,Negative,,,,,,,-0.621317179,0.321922802,0.10363429
+Eide 2016,Objective Cognitive performance (SAVR),6 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Negative,,0.5,-0.6,,,2,-0.165442493,0.244413361,5.97E-02
+Eide 2016,Objective Cognitive performance (TAVI),6 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Negative,,0.2,-1.4,,,2,-0.324435204,0.252078546,6.35E-02
+Cole 2008,Objective Cognitive performance  ,6 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,83,,,87,Negative,,,-0.6,-2.5,1.3,,-9.52E-02,0.152836757,2.34E-02
+Cole 2008,Objective Cognitive performance ,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,83,,,87,Negative,,,-1.1,-3.1,0.9,,-0.165855665,0.15301408,2.34E-02
+Cole 2008,Objective Cognitive performance ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,22.3,4.9,83,23.3,5.2,87,Negative,,,,,,,-0.196908478,0.153122306,2.34E-02
+Chan 2017,Objective Cognitive performance ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,18.5,6.6,39,24.3,5.4,117,Negative,,,,,,,-1.009119214,0.192663326,3.71E-02
+Chan 2017,Objective Cognitive performance ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,17.5,7.5,39,24.7,4.9,117,Negative,,,,,,,-1.267270259,0.197490907,3.90E-02
+Cavallari 2017,Objective Cognitive performance,12 month,"Independent groups (means, SD's)",,,,,,,,,,,56,6,25,60,7,88,Negative,,,,,,,-0.584573027,0.228434634,5.22E-02
+Bulic 2020,Objective Cognitive performance (IQCODE) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,51.3572,5.4788,27,50.3559,3.8748,33,Negative,,,,,,,-0.211963435,0.256859371,6.60E-02
+Bulic 2020,Objective Cognitive performance (TICS) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,31.3572,3.9234,27,30.7118,4.45,33,Positive,,,,,,,0.15087824,0.25649958,6.58E-02
+Bulic 2020,Objective Cognitive performance (TICS) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,31.6428,2.3481,27,32.3551,3.8521,38,Negative,,,,,,,-0.212293994,0.249387548,6.22E-02
+Ditzel 2023,Objective Cognitive performance,3 month,"Independent groups (means, SD's)",,,,,,,,,,,97.8411,27.7351,38,87.5625,30.6126,203,Negative,,,,,,,-0.339449523,0.176875606,3.13E-02
+Sánchez-Lozano 2023,Objective Cognitive performance,3 month,"Independent groups (means, SD's)",,,,,,,,,,,21.6455,8.4366,43,27.9346,3.8521,38,Negative,,,,,,,-0.930766296,0.232335037,5.40E-02
+Chen 2017,Objective Cognitive performance,9.82 month,"Independent groups (means, SD's)",,,,,,,,,,,30.4,6.9,44,36.8,5.2,92,Negative,,,,,,,-1.097247328,0.19402938,3.76E-02
+Brown 2018,Objective Cognitive performance ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.45,1.21,76,0.23,1.01,66,Negative,,,,,,,-0.603030077,0.171133891,2.93E-02
+Brown 2018,Objective Cognitive performance ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.42,0.9,76,-0.04,0.94,66,Negative,,,,,,,-0.411368711,0.169121931,2.86E-02
+Wolters 2017,Subjective Cognitive performance (multile day delirium vs no delirium) (CFQ),12 month,"Independent groups (means, SD's)",,,,,,,,,,,25.351,14.1956,186,23,16.4436,177,Negative,,,,,,,-0.153012583,0.104940516,1.10E-02
+Wolters 2017,Subjective Cognitive performance 1 day delirium vs no delirium (CFQ),12 month,"Independent groups (means, SD's)",,,,,,,,,,,20.351,15.6899,186,23,16.4436,177,Positive,,,,,,,0.164582865,0.10496463,1.10E-02
+VandenBoogaard 2012,Subjective Cognitive performance (CFQ),18 month,"Independent groups (means, SD's)",,,,,,,,,,,28.7023,14.9531,171,26,13.3696,744,Negative,,,,,,,-0.19739815,8.49E-02,7.20E-03
+Svenningsen 2014,Subjective Cognitive performance (Factual memories) ICU-Memory Tool,6 month,"Independent groups (means, SD's)",,,,,,,,,,,4.98,3.89,129,6.9,2.63,117,Negative,,,,,,,-0.571268706,0.129854181,1.69E-02
+Svenningsen 2014,Subjective Cognitive performance (Factual memory ) ICU-Memory Tool,2 month,"Independent groups (means, SD's)",,,,,,,,,,,4.77,3.79,158,7.1,2.54,137,Negative,,,,,,,-0.710762495,0.120062013,1.44E-02
+Svenningsen 2014,Subjective Cognitive performance (Memories of delusions) ICU-Memory Tool,2 month,"Independent groups (means, SD's)",,,,,,,,,,,1.247,1.37,158,0.82,1.15,137,Negative,,,,,,,-0.334668075,0.117253909,1.37E-02
+Svenningsen 2014,Subjective Cognitive performance (Memories of delusions) ICU-Memory Tool,6 month,"Independent groups (means, SD's)",,,,,,,,,,,1.3,1.4,129,0.71,1.06,117,Negative,,,,,,,-0.470567688,0.129030495,1.66E-02
+Svenningsen 2014,Subjective Cognitive performance (Memories of feelings) ICU-Memory Tool,2 month,"Independent groups (means, SD's)",,,,,,,,,,,1.92,1.84,158,2.15,1.59,137,Negative,,,,,,,-0.132725401,0.116569729,1.36E-02
+Svenningsen 2014,Subjective Cognitive performance (Memories of feelings) ICU-Memory Tool,6 month,"Independent groups (means, SD's)",,,,,,,,,,,2.07,1.96,129,2.03,1.7,117,Negative,,,,,,,-0.021660728,0.127278251,1.62E-02
+Kainz 2022,Subjective Cognitive performance (CFQ),3 month,"Independent groups (means, SD's)",,,,,,,,,,,16.5892,12.104,72,14,11.9768,150,Negative,,,,,,,-0.214708234,0.143245635,2.05E-02
+Hoogma 2023,Subjective Cognitive performance (CFQ),6 month,"Independent groups (means, SD's)",,,,,,,,,,,29,16,93,28,15,157,Negative,,,,,,,-6.48E-02,0.130487592,1.70E-02
+Bruck 2018,Subjective Cognitive performance (CFQ),3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,43,,,82,Negative,,,0.61,-3.32,4.54,,-5.75E-02,0.187169103,3.50E-02
+Koster 2012,Subjective Cognitive impairment (CFQ),6 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,40,,,223,Negative,,,5.7,1.3,10.2,,-0.431843047,0.172248301,2.97E-02
+Fick 2013,Functional change (Change in Katz impaired ADLs from admission to follow-up),1 month,"Independent groups (means, SD's)",,,,,,,,,,,0.19,1.724645,44,0.4,1.656955,95,Positive,,,,,,,0.124425927,0.181509016,3.29E-02
+Fick 2013,Functional change (Change in Lawton IADLs from admission to follow-up),1 month,"Independent groups (means, SD's)",,,,,,,,,,,0.51,3.382957,44,0.15,1.949359,95,Positive,,,,,,,0.143794228,0.181560485,3.30E-02
+Giroux 2021,Functional change,2 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,69,,,310,Negative,,,-1.36,-2.33,-0.39,,-0.366235581,0.133510433,1.78E-02
+Jankowski 2011,Functional change (ADL Change between preoperative and follow-up),3 month,"Independent groups (means, SD's)",,,,,,,,,,,0.1,0.7,37,0.2,0.5,33,Negative,,,,,,,-0.161050082,0.23717725,5.63E-02
+Jankowski 2011,Functional change (IADL Change between preoperative and follow-up),3 month,"Independent groups (means, SD's)",,,,,,,,,,,-0.2,1.5,37,-0.3,2.1,33,Positive,,,,,,,5.47E-02,0.236831519,5.61E-02
+Katz 2001,Functional change,2 month,"Independent groups (Sample size, t)",,,,,,,,,,,,,12,,,35,Negative,-3.38,,,,,,-1.111733317,0.348329746,0.121333612
+Neufeld 2015,Functional change (Change in ADLs baseline to 18-month follow-up),18 month,"Independent groups (means, SD's)",,,,,,,,,,,0,1.00E-15,36,0,1.00E-15,45,Auto,,,,,,,0,0.221477209,4.91E-02
+Neufeld 2015,Functional change (Change in IADLs baseline to 18-month follow-up),18 month,"Independent groups (means, SD's)",,,,,,,,,,,0,1.00E-15,36,0,1.00E-15,45,Auto,,,,,,,0,0.221477209,4.91E-02
+Shi 2019,Functional change (1 month SAVR change from the baseline),1 month,"Independent groups (means, SD's)",,,,,,,,,,,-4.4,4.016216866,34,-3.2,4.074850871,35,Negative,,,,,,,-0.293251134,0.239396494,5.73E-02
+Shi 2019,Functional change (12 month SAVR change from the baseline),12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.6,3.421221775,34,0.1,3.319072646,32,Positive,,,,,,,0.146529845,0.243732403,5.94E-02
+Shi 2019,Functional change (3 month SAVR change from the baseline),3 month,"Independent groups (means, SD's)",,,,,,,,,,,-1.1,3.030457634,32,-0.9,3.030457634,32,Negative,,,,,,,-0.065195054,0.247030783,6.10E-02
+Shi 2019,Functional change (6 month SAVR change from the baseline),6 month,"Independent groups (means, SD's)",,,,,,,,,,,0,3.018408053,35,0.01,2.794502844,30,Negative,,,,,,,-3.39E-03,0.24583307,6.04E-02
+Shi 2019,Functional change (9 month SAVR change from the baseline),9 month,"Independent groups (means, SD's)",,,,,,,,,,,0.3,2.974975457,34,0.01,2.886150127,32,Positive,,,,,,,9.77E-02,0.243547101,5.93E-02
+Shi 2019,Functional change (TAVR change from the baseline 12 month),12 month,"Independent groups (means, SD's)",,,,,,,,,,,-2.3,4.107063632,20,-0.5,4.252100321,63,Negative,,,,,,,-0.422726159,0.256381633,6.57E-02
+Shi 2019,Functional change (TAVR change from the baseline 1month),1 month,"Independent groups (means, SD's)",,,,,,,,,,,-3.6,3.644657418,28,-0.7,3.581618117,77,Negative,,,,,,,-0.800064554,0.225922634,5.10E-02
+Shi 2019,Functional change (TAVR change from the baseline 3 month),3 month,"Independent groups (means, SD's)",,,,,,,,,,,-2.7,4.03730715,23,0.1,4.112763931,72,Negative,,,,,,,-0.678225081,0.242619303,5.89E-02
+Shi 2019,Functional change (TAVR change from the baseline 6 month),6 month,"Independent groups (means, SD's)",,,,,,,,,,,-2,3.740878118,21,-0.5,3.730425798,66,Negative,,,,,,,-0.398277619,0.250152221,6.26E-02
+Shi 2019,Functional change (TAVR change from the baseline 9 month),9 month,"Independent groups (means, SD's)",,,,,,,,,,,-2.8,3.891874057,19,-0.3,3.847138386,63,Negative,,,,,,,-0.642035018,0.264075056,6.97E-02
+Shi 2019_2,Functional change (ADL) follow up - baseline,36 month,"Independent groups (means, SD's)",,,,,,,,,,,16,11.12,20,9,11.12,68,Negative,,,,,,,-0.623990603,0.256498047,6.58E-02
+Cirbus 2019,Functional decline (ADL drug etiology) ,6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,68,,,91,Negative,,0.3635,,,,,-0.145389505,0.159737502,2.55E-02
+Cirbus 2019,Functional decline (ADL infection etiology)  ,6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,68,,,91,Negative,,0.4314,,,,,-0.125841751,0.159685305,2.55E-02
+Cirbus 2019,Functional decline (ADL other etiology) ,6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,68,,,91,Negative,,0.4354,,,,,-0.124749827,0.159682611,2.55E-02
+Isaia 2009,Functional change(loss of more ADL functions),6 month,"Independent groups (means, SD's)",,,,,,,,,,,2.8,2.2,14,0.7,0.6,130,Negative,,,,,,,-2.380292133,0.312983578,9.80E-02
+Ojagbemi 2020,Functional change(ADL decline),3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,29,,,121,Negative,,-2.8,-5.5,-0.2,,,-0.429506568,0.207193775,4.29E-02
+Sánchez-Lozano 2023,Functional performance  (IADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,4.3545,5.3687,43,4.4262,3.698,38,Negative,,,,,,,-1.52E-02,0.220529616,4.86E-02
+Miu 2013,Functional performance  (ADL),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,86,,,228,Negative,,0.0001,,,,2,-0.497578486,0.12779341,0.016331156
+Miu 2013,Functional performance  (ADL),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,86,,,228,Negative,,0.0001,,,,2,-0.497578486,0.12779341,0.016331156
+Miu 2013,Functional performance  (mRs),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,86,,,228,Negative,,0.0001,,,,2,-0.497578486,0.12779341,0.016331156
+Miu 2013,Functional performance  (mRsL),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,86,,,228,Negative,,0.0001,,,,2,-0.497578486,0.12779341,0.016331156
+Zipprich 2020,Functional performance  (disabled (require special care)),6 month,"Independent groups (means, SD's)",,,,,,,,,,,35,35,64,64,34,527,Negative,,,,,,,-0.849148311,0.134491435,1.81E-02
+Zakriya 2004,Functional performance  (Best grip strength) ,1.5 month,"Independent groups (means, SD's)",,,,,,,,,,,20,10,19,24,9,63,Negative,,,,,,,-0.429087168,0.261428428,0.068344823
+Zakriya 2004,Functional performance  (Best grip strength) ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,28,8,15,24,9,61,Positive,,,,,,,0.448927587,0.28758518,8.27E-02
+Witlox 2013,Functional performance  (ADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,16.4617,5.9437,22,18.9285,1.7255,26,Negative,,,,,,,-0.575978124,0.290934746,0.084643026
+Witlox 2013,Functional performance  (IADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,19.9,6.4,22,16.2,6.4,26,Negative,,,,,,,-0.568647541,0.290784495,0.084555623
+Whittamore 2014,Functional performance  (ADL),6 month,"Independent groups (means, SD's)",,,,,,,,,,,6.9394,6.8514,55,13.2955,7.54,86,Negative,,,,,,,-0.868344186,0.179338129,3.22E-02
+Weng 2019,Functional performance  (ADL) ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,50.9,30.3,85,72,27.8,64,Negative,,,,,,,-0.717564444,0.169818451,2.88E-02
+Weng 2019,Functional performance  (ADL) ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,51.6,29.3,85,74.8,27,64,Negative,,,,,,,-0.81452891,0.171279962,0.029336825
+Weng 2019,Functional performance  (ADL) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,52.4,29.1,85,77.6,25.4,64,Negative,,,,,,,-0.909195958,0.172871076,2.99E-02
+Wang 2021,Functional performance  (ADL),24 month,"Independent groups (means, SD's)",,,,,,,,,,,98.6,1.4,17,96,2,35,Negative,,,,,,,-1.399701769,0.321897377,0.103617922
+Vives-Borrás 2019,Functional performance  (ADL),6 month,"Independent groups (means, SD's)",,,,,,,,,,,77.5655,34.7051,37,91.496,14.8702,490,Negative,,,,,,,-0.818906969,0.172107708,0.029621063
+Vives-Borrás 2019,Functional performance  (IADL),6 month,"Independent groups (means, SD's)",,,,,,,,,,,2.1447,3.0849,37,5,2.974,490,Negative,,,,,,,-0.956227773,0.17277829,2.99E-02
+Verloo 2016,Functional performance  (IADL ),0.067 month,"Independent groups (means, SD's)",,,,,,,,,,,23.7,6,20,20.59,5.6,94,Negative,,,,,,,-0.544834557,0.247242882,6.11E-02
+VandenBoogaard 2012,Functional performance (Fatigue),18 month,"Independent groups (means, SD's)",,,,,,,,,,,32.7023,16.4484,171,28,16.3406,744,Negative,,,,,,,-0.287177728,8.50E-02,7.23E-03
+Svenningsen 2014,Functional performance  (Healthcare dependency (Barthel Index),2 month,"Independent groups (means, SD's)",,,,,,,,,,,92.21,16.63,148,93.53,13.37,131,Negative,,,,,,,-0.08667845,0.119690928,1.43E-02
+Svenningsen 2014,Functional performance  (Healthcare dependency (Barthel Index) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,95.11,12.28,126,95.69,12.27,114,Negative,,,,,,,-4.71E-02,0.128871292,1.66E-02
+Suraarunsumrit 2022,Functional performance  (ADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,87.63,19.95,26,93.69,12.68,247,Negative,,,,,,,-0.447135198,0.206497231,4.26E-02
+Suraarunsumrit 2022,Functional performance  (IADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,5.1,2.42,26,6.33,1.89,247,Negative,,,,,,,-0.630655326,0.207372541,4.30E-02
+Shi 2019_2,Functional decline (ADL),36 month,"Independent groups (means, SD's)",,,,,,,,,,,40,17.04,20,27,12.59,68,Negative,,,,,,,-0.940734659,0.261929869,6.86E-02
+Shi 2019,Functional performance  (functional status SAVR) ,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,34,,,32,Negative,,,-1.1,-2.7,0.6,,-0.324162921,0.245028361,6.00E-02
+Shi 2019,Functional performance  (functional status SAVR) ,9 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,34,,,32,Negative,,,-1.5,-3.2,0.2,,-0.429039161,0.246246482,6.06E-02
+Shi 2019,Functional performance  (functional status TAVR) ,1 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,28,,,77,Negative,,,-5.2,-7.2,-3.2,,-1.129646395,0.232528701,5.41E-02
+Shi 2019,Functional performance  (functional status TAVR) ,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,20,,,63,Negative,,,-4.1,-6.4,-1.8,,-0.90186569,0.263732479,6.96E-02
+Shi 2019,Functional performance  (functional status TAVR),3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,23,,,72,Negative,,,-5.1,-7.4,-2.9,,-1.069372734,0.249923702,0.062461857
+Shi 2019,Functional performance  (functional status TAVR) ,6 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,21,,,66,Negative,,,-3.7,-6,-1.5,,-0.81191712,0.255837947,6.55E-02
+Shi 2019,Functional performance  (functional status TAVR) ,9 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,19,,,63,Negative,,,-4.8,-7.2,-2.5,,-1.053893056,0.272019612,7.40E-02
+Shi 2019,Functional performance  (lfunctional status SAVR) ,1 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,34,,,35,Negative,,,-3,-4.9,-1,,-0.731126841,0.246091539,6.06E-02
+Shi 2019,Functional performance  (lfunctional status SAVR) ,6 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,35,,,30,Negative,,,-1.8,-3.5,-0.2,,-0.535917635,0.250286037,6.26E-02
+Shi 2019,Functional performance  (lower functional status SAVR) ,3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,32,,,32,Negative,,,-2.1,-3.9,-0.3,,-0.575951982,0.252155843,6.36E-02
+Sheng 2006,Functional performance  (ADL dependency) ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,63.1,40.5,39,98.8,30.8,117,Negative,,,,,,,-1.06187122,0.19356992,0.037469314
+Sheng 2006,Functional performance  (ADL dependency) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,70.9,41.8,39,102.7,28.2,117,Negative,,,,,,,-0.985946579,0.192278395,0.036970981
+Sheng 2006,Functional performance  (ADL dependency) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,72.1,42,39,100.8,30.2,117,Negative,,,,,,,-0.852532035,0.1902231,3.62E-02
+Rudolph 2010,Functional performance  (IADL),1 month,"Independent groups (means, SD's)",,,,,,,,,,,11,3.6,74,11.8,3,105,Negative,,,,,,,-0.244292889,0.151686952,2.30E-02
+Rudolph 2010,Functional performance  (IADL) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,12.4,3.6,78,12.6,3.1,100,Negative,,,,,,,-5.98E-02,0.150453372,2.26E-02
+Pasinska 2019,Functional performance  (Disability) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,3,2.23,164,1,1.48,518,Negative,,,,,,,-1.181861078,9.50E-02,9.03E-03
+Pasinska 2019,Functional performance  (Disability) ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,4,1.48,164,1,2.23,518,Negative,,,,,,,-1.444138732,9.77E-02,9.54E-03
+Pasinska 2019,Functional performance  (IADL performance ) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,9,6.67,164,27,11.12,518,Negative,,,,,,,-1.757378989,0.101363534,1.03E-02
+Pasinska 2019,Functional performance  (IADL performance ) ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,10,7.4,164,27,8.89,518,Negative,,,,,,,-1.984598255,0.104393084,1.09E-02
+Oldenbeuving 2011,Functional performance  (ADL decline),1 month,"Independent groups (means, SD's)",,,,,,,,,,,7.8832,4.3014,62,19.6159,3.3317,465,Negative,,,,,,,-3.387714149,0.170634043,2.91E-02
+Neufeld 2015,Functional performance  (ADLs),18 month,"Independent groups (means, SD's)",,,,,,,,,,,5.6446,0.7721,36,5.6457,0.7658,45,Negative,,,,,,,-1.42E-03,0.221477237,4.91E-02
+Neufeld 2015,Functional performance  (IADLs),18 month,"Independent groups (means, SD's)",,,,,,,,,,,7.2892,1.5442,36,7.6457,0.7658,45,Negative,,,,,,,-0.30024808,0.222729946,4.96E-02
+Murray 1993,Functional performance  (Physical dysfunction: community) ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,4.39,1.93,31,1.45,1.72,130,Negative,,,,,,,-1.661109306,0.219415098,4.81E-02
+Murray 1993,Functional performance  (Physical dysfunction: community),6 month,"Independent groups (means, SD's)",,,,,,,,,,,4.42,2.16,34,1.5,1.93,38,Negative,,,,,,,-1.414830621,0.261603836,0.068436567
+Murray 1993,Functional performance  (Physical dysfunction: nursing home) ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,4.97,1.61,31,3.63,1.61,130,Negative,,,,,,,-0.828366019,0.204217545,4.17E-02
+Murray 1993,Functional performance  (Physical dysfunction: nursing home) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,4.97,1.8,34,3.83,2.31,35,Negative,,,,,,,-0.543346531,0.24254244,5.88E-02
+Monacelli 2018,Functional performance  (ADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,5.08,0.27,85,4.39,0.15,133,Positive,,,,,,,3.351164126,0.211913281,4.49E-02
+Monacelli 2018,Functional performance  (Barthel index),3 month,"Independent groups (means, SD's)",,,,,,,,,,,84.17,3.64,85,75.85,2.04,133,Positive,,,,,,,2.988707879,0.199089843,3.96E-02
+Monacelli 2018,Functional performance  (Hand-grip strength),3 month,"Independent groups (means, SD's)",,,,,,,,,,,12.29,1.63,85,14.62,0.91,133,Negative,,,,,,,-1.871466002,0.164871649,2.72E-02
+Monacelli 2018,Functional performance  (IADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,4.5,0.5,85,3.72,0.27,133,Positive,,,,,,,2.064365939,0.170070559,2.89E-02
+Miyamoto 2021,Functional performance  (Barthel Index score) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,83.1334,37.2469,22,98.2335,3.7995,59,Negative,,,,,,,-0.767865034,0.254676904,6.49E-02
+Miyamoto 2021,Functional performance  (Barthel Index score) ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,81.5405,33.2845,22,94.7004,11.3985,59,Negative,,,,,,,-0.660130484,0.252805594,6.39E-02
+McCusker 2001,Functional performance  (Barthel index) ,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,220,,,95,Negative,,,-13.89,-28.49,0.7,,-0.229333867,0.122813081,1.51E-02
+McCusker 2001,Functional performance  (Barthel index) ,6 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,220,,,95,Negative,,,-12.17,-25.3,0.95,,-0.223440201,0.122795835,1.51E-02
+McCusker 2001,Functional performance  (IADL) ,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,220,,,95,Negative,,,-0.42,-0.68,-0.14,,-0.374848324,0.123379918,1.52E-02
+McCusker 2001,Functional performance  (IADL) delirium only vs neither,6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,220,,,95,Negative,,0.87,,,,2,-2.01E-02,0.122475341,1.50E-02
+McCusker 2001,Functional performance  IADL (delirium & dementia vs dementia only),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,220,,,95,Negative,,0.51,,,,2,-8.08E-02,0.122515014,1.50E-02
+Liang 2014,Functional performance  (IADL) ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,4.4,1.154469575,17,5.2,1.156070932,165,Negative,,,,,,,-0.689196527,0.25622009,6.56E-02
+Liang 2014,Functional performance  (IADL),12 month,"Independent groups (means, SD's)",,,,,,,,,,,4,1.360624856,17,5.6,1.284523258,165,Negative,,,,,,,-1.233729582,0.261773517,6.85E-02
+Liang 2014,Functional performance  (IADL) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,4.3,1.360624856,17,5.5,1.284523258,165,Negative,,,,,,,-0.925297186,0.258255572,6.67E-02
+Liang 2014,Functional performance  (ADL) ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,83,11.62715786,17,92.7,11.30380467,165,Negative,,,,,,,-0.852342244,0.257564858,6.63E-02
+Liang 2014,Functional performance (ADL),12 month,"Independent groups (means, SD's)",,,,,,,,,,,86.4,13.11147589,17,95.2,12.84523258,165,Negative,,,,,,,-0.680954189,0.256159539,6.56E-02
+Liang 2014,Functional performance (ADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,84.5,11.42100258,17,94.4,11.17535234,165,Negative,,,,,,,-0.880444319,0.257824423,6.65E-02
+Liang 2014,Functional performance  (ADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,4.4,1.154469575,17,5.5,1.156070932,165,Negative,,,,,,,-0.947645224,0.258478106,0.066810931
+Liang 2014,Functional performance (IADL),6 month,"Independent groups (means, SD's)",,,,,,,,,,,86.9,12.61670321,17,94.6,12.33142328,165,Negative,,,,,,,-0.620526191,0.255737461,6.54E-02
+Jankowski 2011,Functional performance  (ADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,11.3,0.9,37,11.7,0.9,33,Negative,,,,,,,-0.439524395,0.239682398,5.74E-02
+Jankowski 2011,Functional performance  (ADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,12.8,1.6,37,12.9,2.1,33,Negative,,,,,,,-5.34E-02,0.236829359,0.056088145
+Humbert 2021,Functional performance  (IADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,5.4837,0.8624,15,5.8467,0.4301,62,Negative,,,,,,,-0.668134269,0.289898784,8.40E-02
+Humbert 2021,Functional performance  (ADL),3 month,"Independent groups (means, SD's)",,,,,,,,,,,6.1396,2.0122,15,7.5401,1.2904,62,Negative,,,,,,,-0.954445109,0.295055829,0.087057942
+Hshieh 2017,Functional performance  (IADL dependency) ,1 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,135,,,431,Negative,,,-0.4,-0.8,,,-0.193466425,9.87E-02,9.73E-03
+Hshieh 2017,Functional performance  (IADL dependency) ,18 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,135,,,431,Negative,,,-0.2,,0.05,,-0.15477314,9.86E-02,9.72E-03
+Hshieh 2017,Functional performance  (Physical function) ,1 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,135,,,431,Negative,,,-1.5,-3.3,0.2,,-0.165828364,0.098620586,9.73E-03
+Hshieh 2017,Functional performance  (Physical function) ,18 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,135,,,431,Negative,,,-1.8,-3.2,-0.3,,-0.240165217,9.88E-02,9.75E-03
+Hoogma 2023,Functional performance  (IADL),6 month,"Independent groups (means, SD's)",,,,,,,,,,,9,3.9,93,10.8,3.2,157,Negative,,,,,,,-0.516244757,0.13248254,1.76E-02
+Giroux 2021,Functional performance ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,22.1,3.8,69,24.4,2.3,310,Negative,,,,,,,-0.871305059,0.136563656,1.86E-02
+Eide 2016,Functional performance  (ADL SAVR) ,1 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Auto,,,0,,,,0,0.244029541,5.96E-02
+Eide 2016,Functional performance  (ADL SAVR) ,6 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Negative,,,-0.3,,,,-9.44E-02,0.244154598,5.96E-02
+Eide 2016,Functional performance  (ADL TAVI),1 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Negative,,,-3.1,,,,-0.865761922,0.262024752,6.87E-02
+Eide 2016,Functional performance  (ADL TAVI) ,6 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Negative,,,-1.6,,,,-0.418249808,0.253172999,6.41E-02
+Eide 2016,Functional performance  (IADL SAVR),1 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Negative,,,-9.4,,,,-0.466419277,0.247063685,0.061040464
+Eide 2016,Functional performance  (IADL SAVR) ,6 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Negative,,,-3,,,,-0.128545773,0.244261325,5.97E-02
+Eide 2016,Functional performance  (IADL TAVI) ,1 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Negative,,,-10.5,,,,-0.729394248,0.258709412,0.06693056
+Eide 2016,Functional performance  (IADL TAVI) ,6 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Negative,,,-2.3,,,,-0.169915564,0.250873171,6.29E-02
+Eeles 2012,Functional performance (Frailty),60 month,"Independent groups (means, SD's)",,,,,,,,,,,0.33,0.14,102,0.18,0.11,171,Negative,,,,,,,-1.225641183,0.135338672,1.83E-02
+Decrane 2012,Functional performance (Fall (hyperactive)),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,14,,,250,Negative,,0.798,,,,2,-7.02E-02,0.273872705,0.075006258
+Decrane 2012,Functional performance (Fall (hypoactive)),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,33,,,250,Negative,,0.103,,,,2,-0.302159325,0.18515212,3.43E-02
+Decrane 2012,Functional performance (Fall (mixed)),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,23,,,250,Negative,,0.764,,,,2,-6.53E-02,0.217309453,4.72E-02
+Cole 2008,Functional performance  (ADL),12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,83,,,87,Negative,,,-3.4,-13.1,6.2,,-0.106247623,0.152858118,2.34E-02
+Cole 2008,Functional performance  (ADL),2 month,"Independent groups (means, SD's)",,,,,,,,,,,79.3,23.2,83,79.9,22.2,87,Negative,,,,,,,-2.63E-02,0.152756146,2.33E-02
+Cole 2008,Functional performance  (ADL) ,6 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,83,,,87,Negative,,,-3.1,-10.2,4.1,,-0.130744453,0.152913961,2.34E-02
+Cole 2008,Functional performance  (IADL) ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,8.3,3.6,83,8.1,3.5,87,Positive,,,,,,,5.61E-02,0.152779772,2.33E-02
+Cole 2008,Functional performance  (IADL)  ,6 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,83,,,87,Negative,,,0.02,-1.1,1.2,,-5.24E-03,0.152749741,2.33E-02
+Cole 2008,Functional performance  (IADL) ,12 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,83,,,87,Positive,,,0.3,-0.9,1.4,,0.078666719,0.152809044,0.023350604
+Chan 2017,Functional performance  (functional status disability) ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,63.1,40.5,39,98.8,30.8,117,Negative,,,,,,,-1.06187122,0.19356992,0.037469314
+Chan 2017,Functional performance  (functional status disability) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,70.9,41.8,39,102.7,28.2,117,Negative,,,,,,,-0.985946579,0.192278395,0.036970981
+Chan 2017,Functional performance  (functional status disability) ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,72.1,42,39,100.8,30.2,117,Negative,,,,,,,-0.852532035,0.1902231,3.62E-02
+Cartei 2022,Functional performance (Disability in ADLs ),12 month,"Hedges's g, SE",,,,,,,,,,0.458,,,193,,,194,Negative,,,,,,,-0.7498,0.458,0.209764
+Vida 2006,Functional change (ADL dementia),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.809,,,,2,-4.21E-02,0.17381037,3.02E-02
+Vida 2006,Functional change (ADL no dementia),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.259,,,,2,-0.21390577,0.189120356,3.58E-02
+Vida 2006,Functional change (ADL dementia),18 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.808,,,,2,-4.23E-02,0.173810577,3.02E-02
+Vida 2006,Functional change (ADL no dementia),18 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.902,,,,2,-2.33E-02,0.18864915,3.56E-02
+Vida 2006,Functional change (ADL dementia),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.95,,,,2,-1.09E-02,0.173792361,3.02E-02
+Vida 2006,Functional change (ADL no dementia),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.065,,,,2,-0.351189622,0.189926134,3.61E-02
+Vida 2006,Functional change (BADL dementia),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.904,,,,2,-2.10E-02,0.173795868,3.02E-02
+Vida 2006,Functional change (BADL no dementia),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.195,,,,2,-0.245785816,0.189272835,3.58E-02
+Vida 2006,Functional change (BADL dementia),18 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.732,,,,2,-5.96E-02,0.173829827,3.02E-02
+Vida 2006,Functional change (BADL no dementia),18 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.373,,,,2,-0.168661432,0.188940106,3.57E-02
+Vida 2006,Functional change (BADL  dementia),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.727,,,,2,-6.08E-02,0.173831349,3.02E-02
+Vida 2006,Functional change (BADL no dementia),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.207,,,,2,-0.239281941,0.189240021,3.58E-02
+Vida 2006,Functional change (IADL  dementia),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.667,,,,2,-7.49E-02,0.173852265,3.02E-02
+Vida 2006,Functional change (IADL no dementia),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.419,,,,2,-0.152959263,0.188887483,3.57E-02
+Vida 2006,Functional change (IADL dementia),18 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.716,,,,2,-6.34E-02,0.173834812,3.02E-02
+Vida 2006,Functional change (IADL no dementia),18 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.649,,,,2,-8.61E-02,0.188720782,3.56E-02
+Vida 2006,Functional change (IADL  dementia),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,60,,,72,Negative,,0.881,,,,2,-2.61E-02,0.173798467,3.02E-02
+Vida 2006,Functional change (IADL no dementia),6 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,41,,,86,Negative,,0.069,,,,2,-0.346013161,0.189888724,3.61E-02
+Bulic 2020,PTSD ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,30.3572,32.0901,27,13.4859,19.2605,33,Negative,,,,,,,-0.645116758,0.2628126,0.069070463
+Bulic 2020,PTSD ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,21.7144,21.9152,27,18.5795,23.1126,38,Negative,,,,,,,-0.13689628,0.248981174,6.20E-02
+Chan 2017,Anxiety,1 month,"Independent groups (means, SD's)",,,,,,,,,,,4,2.23,17,5,5.18,82,Negative,,,,,,,0.205885811,0.26483191,7.01E-02
+Chan 2017,Anxiety,12 month,"Independent groups (means, SD's)",,,,,,,,,,,6,3.7,11,6,4.26,74,Negative,,,,,,,0,0.320216061,0.102538325
+Chan 2017,Anxiety ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,5.5,6.48,16,4,5.18,73,Negative,,,,,,,-0.274036361,0.274424229,7.53E-02
+Chan 2017,Depression ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,5,2.97,17,6,4.26,82,Negative,,,,,,,-0.243470432,0.264992901,7.02E-02
+Chan 2017,Depression ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,5,2.23,11,6,3.7,74,Negative,,,,,,,-0.278725472,0.320928829,0.102995313
+Chan 2017,Depression ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,4,4.814814815,16,5,5.18,73,Positive,,,,,,,0.193665676,0.274039195,7.51E-02
+Janssen 2021,Depression ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,25.4873,10.9018,12,25.5085,9.7158,179,Negative,,,,,,,-2.16E-03,0.297009584,8.82E-02
+Janssen 2021,Depression ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,23.0442,10.0588,9,22.9305,8.5893,194,Negative,,,,,,,-0.01309153,0.339704371,0.11539906
+Kat 2008,Depression ,30 month,"Independent groups (means, SD's)",,,,,,,,,,,2.2,2.7,20,1.2,1.6,21,Negative,,,,,,,-0.444630327,0.310302664,9.63E-02
+Kat 2008,Neuropsychiatric symptoms,30 month,"Independent groups (means, SD's)",,,,,,,,,,,5.9,7.3,26,4.6,6.5,20,Negative,,,,,,,-0.183426107,0.292950979,8.58E-02
+Miyamoto 2021,Anxiety ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,6.905,4.1528,13,4.7115,3.0957,34,Negative,,,,,,,-0.632513422,0.327194914,0.107056512
+Miyamoto 2021,Anxiety,3 month,"Independent groups (means, SD's)",,,,,,,,,,,7.6411,2.3775,22,5.3533,5.3193,59,Negative,,,,,,,-0.480112227,0.250287043,6.26E-02
+Miyamoto 2021,Depression ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,8,6.6444,13,5.3557,3.8697,34,Negative,,,,,,,-0.545054404,0.325516336,0.105960885
+Miyamoto 2021,Depression ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,8,4.7549,22,6,4.5594,59,Negative,,,,,,,-0.429504843,0.249718736,6.24E-02
+Miyamoto 2021,PTSD,3 month,"Independent groups (means, SD's)",,,,,,,,,,,13.8709,19.0197,22,10.4132,12.1584,59,Negative,,,,,,,-0.239376106,0.248141947,6.16E-02
+Nerdal 2022,Anxiety ,18 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,7,,,93,Negative,,,-2.6,-5,-0.1,,-0.819060002,0.393212393,0.154615986
+Nerdal 2022,Anxiety ,3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,8,,,100,Negative,,,-0.9,-3.4,1.4,,-0.271232406,0.365284115,0.133432485
+Nerdal 2022,Anxiety ,36 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,5,,,75,Negative,,,-2.8,-5.5,-0.3,,-0.980713764,0.463949001,0.215248675
+Nerdal 2022,Depression ,18 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,7,,,93,Negative,,,-2.44,-5.2,0.3,,-0.684802894,0.391926606,0.153606465
+Nerdal 2022,Depression ,3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,8,,,100,Positive,,,0.04,-2.6,2.7,,1.09E-02,0.364818378,0.133092449
+Nerdal 2022,Depression ,36 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,5,,,75,Negative,,,-2.3,-5.1,0.64,,-0.729799441,0.461049047,0.212566224
+Nerdal 2022,Neuropsychiatry symptoms ,18 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,9,,,100,Positive,,,0.44,-0.8,1.7,,0.241135019,0.345950891,0.119682019
+Nerdal 2022,Neuropsychiatry symptoms ,3 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,10,,,117,Negative,,,-1.6,-2.7,-0.47,,-0.930054086,0.332642859,0.110651272
+Nerdal 2022,Neuropsychiatry symptoms ,36 month,"Raw difference (indep groups), CI",,,,,,,,,,,,,5,,,84,Negative,,,-1,-2.5,0.5,,-0.604698463,0.458596568,0.210310812
+Olofsson 2018,Depression ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,5.4,3.7,62,3.6,2.5,50,Negative,,,,,,,-0.554987623,0.192384976,3.70E-02
+Olofsson 2018,Depression ,36 month,"Independent groups (means, SD's)",,,,,,,,,,,4.1,2.9,39,3.2,2.3,36,Negative,,,,,,,-0.338745768,0.230408449,5.31E-02
+Olofsson 2018,Depression,4 month,"Independent groups (means, SD's)",,,,,,,,,,,5.1,3.3,67,2.9,2.2,55,Negative,,,,,,,-0.764979062,0.187328903,0.035092118
+Slor 2013,Anxiety,3 month,"Independent groups (means, SD's)",,,,,,,,,,,11.7,3.9,23,10.5,3,30,Negative,,,,,,,-0.345951849,0.275112992,7.57E-02
+Slor 2013,Depression ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,4.9,3.4,23,3,2.7,30,Negative,,,,,,,-0.619448977,0.279603377,7.82E-02
+Slor 2013,PTSD,3 month,"Independent groups (means, SD's)",,,,,,,,,,,19,5.3,23,17.8,5.3,30,Negative,,,,,,,-0.223069058,0.273911498,7.50E-02
+Svenningsen 2015,Anxiety ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,14.1074,7.4814,157,13.4057,5.9935,138,Negative,,,,,,,-0.102532035,0.116464356,1.36E-02
+Svenningsen 2015,Anxiety ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,12.7575,5.2477,130,12.7583,5.2537,118,Negative,,,,,,,-1.52E-04,0.126761018,0.016068356
+Svenningsen 2015,Depression ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,9.8098,14.9627,158,9.1627,14.2345,138,Negative,,,,,,,-4.41E-02,0.116230574,1.35E-02
+Svenningsen 2015,Depression,6 month,"Independent groups (means, SD's)",,,,,,,,,,,7.515,13.4941,130,8.2198,15.0106,118,Positive,,,,,,,0.049358851,0.126780391,1.61E-02
+Svenningsen 2015,PTSD,2 month,"Independent groups (means, SD's)",,,,,,,,,,,1.3542,0.6658,158,1.3657,0.6593,138,Positive,,,,,,,1.73E-02,0.116218602,1.35E-02
+Svenningsen 2015,PTSD,6 month,"Independent groups (means, SD's)",,,,,,,,,,,1.3025,0.6072,128,1.2393,0.4728,118,Negative,,,,,,,-0.11520666,0.127334124,1.62E-02
+Whittamore 2014,Behavioural and psychological symptoms,6 month,"Independent groups (means, SD's)",,,,,,,,,,,16.5182,16.5327,107,11.9598,13.4833,140,Negative,,,,,,,-0.305414958,0.128750048,1.66E-02
+Witlox 2013,Depression,3 month,"Independent groups (means, SD's)",,,,,,,,,,,5.1,3.5,22,2.5,2.1,26,Negative,,,,,,,-0.904784199,0.299524174,8.97E-02
+Bagienski 2017,Quality of life,12 month,"Independent groups (means, SD's)",,,,,,,,,,,63.2164,11.6961,29,71.7587,11.2654,112,Negative,,,,,,,-0.748328261,0.211964821,4.49E-02
+Duppils 2004,Quality of life: Physical functioning,6 month,"Independent groups (means, p)",,,,,,,,,,,21,,15,,34,56,Negative,,0.05,,,,,-0.573662893,0.291560014,8.50E-02
+Duppils 2004,Quality of life: Vitality,6 month,"Independent groups (means, p)",,,,,,,,,,,39,,15,,54,56,Negative,,0.03,,,,,-0.637198157,0.292487639,8.55E-02
+Eide 2016,Quality of life: Mental SAVR ,1 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Negative,,0.06,-6.3,,,2,-0.466419277,0.247063685,0.061040464
+Eide 2016,Quality of life: Mental SAVR ,6 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Positive,,0.2,4.3,,,2,0.315673995,0.245424024,6.02E-02
+Eide 2016,Quality of life: Mental TAVI ,1 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Negative,,0.2,-3.6,,,2,-0.324435204,0.252078546,6.35E-02
+Eide 2016,Quality of life: Mental TAVI ,6 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Positive,,0.3,3,,,2,0.26176482,0.251499556,6.33E-02
+Eide 2016,Quality of life: Physical SAVR,1 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Negative,,0.1,-4,,,2,-0.406699549,0.246339856,6.07E-02
+Eide 2016,Quality of life: Physical SAVR ,6 month,"Independent groups (difference, p)",,,,,,,,,,,,,48,,,25,Negative,,0.05,-4.9,,,2,-0.486581085,0.247329878,6.12E-02
+Eide 2016,Quality of life: Physical TAVI ,1 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Negative,,0.8,-0.6,,,2,-6.37E-02,0.250480408,6.27E-02
+Eide 2016,Quality of life: Physical TAVI,6 month,"Independent groups (difference, p)",,,,,,,,,,,,,28,,,35,Positive,,0.7,1.1,,,2,0.096946074,0.250564967,6.28E-02
+Hofhuis 2022,Quality of life: Health related (mental),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,182,,,300,Negative,,0.029,,,,2,-0.205449307,9.40E-02,8.84E-03
+Hofhuis 2022,Quality of life: Health related (physical),12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,182,,,300,Negative,,0.035,,,,2,-0.198346932,0.094026963,8.84E-03
+Hoogma 2023,Quality of life,6 month,"Independent groups (means, SD's)",,,,,,,,,,,69,18,93,72,15,157,Negative,,,,,,,-0.184876313,0.130717117,1.71E-02
+Jackson 2014,Quality of life: Mental ,12 month,"Independent groups (difference, p)",,,,,,,,,,,,,352,,,115,Negative,,0.18,-5.79,,,2,-0.143992522,0.107338509,1.15E-02
+Jackson 2014,Quality of life: Mental ,3 month,"Independent groups (difference, p)",,,,,,,,,,,,,352,,,115,Negative,,0.1,-4.53,,,2,-0.176738072,0.107390876,1.15E-02
+Jackson 2014,Quality of life: Physical ,12 month,"Independent groups (difference, p)",,,,,,,,,,,,,352,,,115,Negative,,0.09,-3.72,,,2,-0.182185557,0.107400622,1.15E-02
+Jackson 2014,Quality of life: Physical ,3 month,"Independent groups (difference, p)",,,,,,,,,,,,,352,,,115,Positive,,0.77,0.79,,,2,3.14E-02,0.107239966,1.15E-02
+Janssen 2021,Quality of life: Environment ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,14,1.8,10,16.3,2.2,130,Negative,,,,,,,-1.051155331,0.332368736,0.110468977
+Janssen 2021,Quality of life: Environment ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,16.3,2.8,9,16.2,2.3,147,Positive,,,,,,,4.27E-02,0.341719347,0.116772112
+Janssen 2021,Quality of life: Physical health ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,13.9,2.5,10,15.4,2.8,130,Negative,,,,,,,-0.536356373,0.327948516,0.107550229
+Janssen 2021,Quality of life: Physical health ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,14.9,3,9,15.2,2.7,146,Negative,,,,,,,-0.109893689,0.341824311,0.116843859
+Janssen 2021,Quality of life: Psychological health ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,12.7,2,10,15.3,2.3,129,Negative,,,,,,,-1.133349602,0.333457183,0.111193693
+Janssen 2021,Quality of life: Psychological health ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,14.2,2.7,9,15.1,2.4,147,Negative,,,,,,,-0.370622438,0.342354376,0.117206519
+Janssen 2021,Quality of life: Social relationships ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,12.7,3.6,10,15.5,2.9,130,Negative,,,,,,,-0.943754911,0.331215615,0.109703783
+Janssen 2021,Quality of life: Social relationships ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,14.8,3.7,9,15.5,2.7,146,Negative,,,,,,,-0.252261354,0.342067507,0.117010179
+Kainz 2022,Quality of life: Bodily pain,3 month,"Independent groups (means, SD's)",,,,,,,,,,,90.8296,19.6689,72,90.8662,19.4623,150,Negative,,,,,,,-1.87E-03,0.142882791,2.04E-02
+Kainz 2022,Quality of life: Change in health state,3 month,"Independent groups (means, SD's)",,,,,,,,,,,2.6473,0.7565,72,3.3513,0.7485,150,Negative,,,,,,,-0.934104054,0.149601763,2.24E-02
+Kainz 2022,Quality of life: General health,3 month,"Independent groups (means, SD's)",,,,,,,,,,,68.7635,18.9124,72,72,14.971,150,Negative,,,,,,,-0.197309449,0.143189268,0.020503167
+Kainz 2022,Quality of life: Mental health,3 month,"Independent groups (means, SD's)",,,,,,,,,,,80,12.104,72,82.5948,14.971,150,Negative,,,,,,,-0.183276129,0.143147258,2.05E-02
+Kainz 2022,Quality of life: Physical functioning,3 month,"Independent groups (means, SD's)",,,,,,,,,,,82.9458,22.6949,72,90,7.4855,150,Negative,,,,,,,-0.491998759,0.144778004,2.10E-02
+Kainz 2022,Quality of life: Role emotional,3 month,"Independent groups (means, SD's)",,,,,,,,,,,100,0.0000001,72,100,0.0000001,150,Auto,,,,,,,0,0.142882763,2.04E-02
+Kainz 2022,Quality of life: Role physical,3 month,"Independent groups (means, SD's)",,,,,,,,,,,66.1823,56.7373,72,82.435,37.4274,150,Negative,,,,,,,-0.363306451,0.143919291,2.07E-02
+Kainz 2022,Quality of life: Social functioning,3 month,"Independent groups (means, SD's)",,,,,,,,,,,87.6473,18.9124,72,91.2175,18.7137,150,Negative,,,,,,,-0.189477285,0.143165441,2.05E-02
+Kainz 2022,Quality of life: Vitality,3 month,"Independent groups (means, SD's)",,,,,,,,,,,65,15.13,72,70,14.971,150,Negative,,,,,,,-0.331698184,0.143747296,2.07E-02
+Koster 2012,Quality of life: Bodily pain,6 month,"Independent groups (means, SD's)",,,,,,,,,,,78.355,33.0952,39,85.4387,24.6221,225,Negative,,,,,,,-0.27143296,0.173357564,3.01E-02
+Koster 2012,Quality of life: General health perceptions,6 month,"Independent groups (means, SD's)",,,,,,,,,,,56,21,39,66,21,225,Negative,,,,,,,-0.474826034,0.174184714,0.030340315
+Koster 2012,Quality of life: Mental health,6 month,"Independent groups (means, SD's)",,,,,,,,,,,74.32,18.4717,39,82.5965,14.9225,225,Negative,,,,,,,-0.532857856,0.174502344,3.05E-02
+Koster 2012,Quality of life: Physical functioning,6 month,"Independent groups (means, SD's)",,,,,,,,,,,59.675,34.36345,39,83.2457,26.1143,225,Negative,,,,,,,-0.855756082,0.176918835,3.13E-02
+Koster 2012,Quality of life: Role limitations (Emotional problems),6 month,"Independent groups (means, SD's)",,,,,,,,,,,76.215,51.5669,39,88.4214,24.6221,225,Negative,,,,,,,-0.404816394,0.173849588,3.02E-02
+Koster 2012,Quality of life: Role limitations (Physical health),6 month,"Independent groups (means, SD's)",,,,,,,,,,,50,76.9655,39,66.2283,55.9593,225,Negative,,,,,,,-0.272110059,0.173359575,3.01E-02
+Koster 2012,Quality of life: Social functioning,6 month,"Independent groups (means, SD's)",,,,,,,,,,,70.74,29.2469,39,87.6491,18.6531,225,Negative,,,,,,,-0.821214465,0.176608514,3.12E-02
+Koster 2012,Quality of life: Vitality,6 month,"Independent groups (means, SD's)",,,,,,,,,,,58,23,39,67,19,225,Negative,,,,,,,-0.457150708,0.174095134,3.03E-02
+Labaste 2020,Quality of life,36 month,"Independent groups (means, SD's)",,,,,,,,,,,60,18.6,61,75,22.23,112,Negative,,,,,,,-0.710208114,0.162965779,2.66E-02
+Luz 2020,Quality of life: Environment,1 month,"Independent groups (means, SD's)",,,,,,,,,,,56.4,13.5,74,62.1,16.2,31,Negative,,,,,,,-0.39461626,0.214119947,4.58E-02
+Luz 2020,Quality of life: Physical,1 month,"Independent groups (means, SD's)",,,,,,,,,,,46.8,23.6,74,50.8,23.7,31,Negative,,,,,,,-0.168046653,0.212697657,4.52E-02
+Luz 2020,Quality of life: Psychological,1 month,"Independent groups (means, SD's)",,,,,,,,,,,53.4,24.1,74,62.7,20,31,Negative,,,,,,,-0.401720436,0.214182846,4.59E-02
+Luz 2020,Quality of life: Social relationships,1 month,"Independent groups (means, SD's)",,,,,,,,,,,48.9,15.8,74,56.4,18.8,31,Negative,,,,,,,-0.44504005,0.214590224,4.60E-02
+Minden 2005,Quality of life: Energy,6 month,"Independent groups (means, SD's)",,,,,,,,,,,34.2,7.1,8,52.3,2.6,27,Negative,,,,,,,-4.418738652,0.658507885,0.433632634
+Minden 2005,Quality of life: Health perception,6 month,"Independent groups (means, SD's)",,,,,,,,,,,57.7,8,8,70.8,2.7,27,Negative,,,,,,,-2.91214651,0.525216015,0.275851863
+Minden 2005,Quality of life: Mental health,6 month,"Independent groups (means, SD's)",,,,,,,,,,,81.6,8.5,8,78.7,3.1,27,Positive,,,,,,,0.592167807,0.399637261,0.15970994
+Minden 2005,Quality of life: Pain,6 month,"Independent groups (means, SD's)",,,,,,,,,,,73.6,13.2,8,71,4.6,27,Positive,,,,,,,0.346898154,0.395499168,0.156419592
+Minden 2005,Quality of life: Physical function,6 month,"Independent groups (means, SD's)",,,,,,,,,,,50.9,7.4,8,70,2.9,27,Negative,,,,,,,-4.369562744,0.653803287,0.427458738
+Minden 2005,"Quality of life: Role, emotional",6 month,"Independent groups (means, SD's)",,,,,,,,,,,80.7,24.6,8,74.4,7.3,27,Positive,,,,,,,0.471632697,0.397338835,0.15787815
+Minden 2005,"Quality of life: Role, physical",6 month,"Independent groups (means, SD's)",,,,,,,,,,,22.8,17.7,8,42.9,6.8,27,Negative,,,,,,,-1.936219293,0.456351654,0.208256832
+Minden 2005,Quality of life: Social function,6 month,"Independent groups (means, SD's)",,,,,,,,,,,39.7,10.2,8,70,3.7,27,Negative,,,,,,,-5.165109885,0.731997202,0.535819903
+Naidech 2013,Quality of life: Applied cognition executive function,12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,29,,,56,Negative,,0.045,,,,2,-0.461439229,0.229451407,0.052647948
+Naidech 2013,Quality of life: Fatigue,12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,29,,,56,Negative,,0.01,,,,2,-0.597679633,0.231293625,5.35E-02
+Naidech 2013,Quality of life: Fine motor,12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,29,,,56,Negative,,0.7,,,,2,-8.77E-02,0.226805291,5.14E-02
+Naidech 2013,Quality of life: Mobility,12 month,"Independent groups (Sample size, p)",,,,,,,,,,,,,29,,,56,Negative,,0.7,,,,2,-8.77E-02,0.226805291,5.14E-02
+Rosenthal 2017,Quality of life: Health related (delirium with agitation vs without delirium with agitation) ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,20.9,7.3,11,36.6,17.5,5,Negative,,,,,,,-1.324668598,0.561137157,0.314874909
+Rosenthal 2017,Quality of life: Health related (delirium with agitation vs without delirium with agitation) ,12 month,"Independent groups (means, SD's)",,,,,,,,,,,20.5,11.1,11,44,12.2,5,Negative,,,,,,,-1.944682,0.614995891,0.378219946
+Rosenthal 2017,Quality of life: Health related (delirium with agitation vs without delirium with agitation) ,3 month,"Independent groups (difference, p)",,,,,,,,,,,,,11,,,5,Negative,,0.3,-24.4,,,2,-0.548838627,0.519087963,0.269452313
+Rosenthal 2017,Quality of life: Health related (delirium without agitation vs neither delirious nor agitated) ,1 month,"Independent groups (means, SD's)",,,,,,,,,,,30.4,16.5,18,40.4,15.9,47,Negative,,,,,,,-0.61506529,0.279135349,7.79E-02
+Rosenthal 2017,Quality of life: Health related (delirium without agitation vs neither delirious nor agitated),12 month,"Independent groups (means, SD's)",,,,,,,,,,,34.2,12.9,18,36.7,14.6,47,Negative,,,,,,,-0.174426367,0.274300086,7.52E-02
+Rosenthal 2017,Quality of life: Health related (delirium without agitation vs neither delirious nor agitated) ,3 month,"Independent groups (means, SD's)",,,,,,,,,,,40.4,19,18,37.9,14,47,Positive,,,,,,,0.159271816,0.274229168,7.52E-02
+Svenningsen 2014,Quality of life: Bodily pain ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,73.82,30.41,148,71.62,31.74,131,Positive,,,,,,,7.07E-02,0.119672081,1.43E-02
+Svenningsen 2014,Quality of life: Bodily pain ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,71.73,31.78,126,68.77,32.44,114,Positive,,,,,,,0.091935116,0.128921668,0.016620796
+Svenningsen 2014,Quality of life: General health perceptions ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,59.85,22.98,148,59.3,26.08,131,Positive,,,,,,,2.24E-02,0.119638427,0.014313353
+Svenningsen 2014,Quality of life: General health perceptions ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,63.94,24.36,126,60.91,27.42,114,Positive,,,,,,,0.11680858,0.128963613,1.66E-02
+Svenningsen 2014,Quality of life: Mental health ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,82.51,18.71,148,82.66,16.99,131,Negative,,,,,,,-8.35E-03,0.11963519,1.43E-02
+Svenningsen 2014,Quality of life: Mental health ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,85.14,15.3,126,82.09,19.59,114,Positive,,,,,,,0.174047164,0.129098014,1.67E-02
+Svenningsen 2014,Quality of life: Physical function ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,58.07,30.9,148,62.48,31.14,131,Negative,,,,,,,-0.141813681,0.119785204,1.43E-02
+Svenningsen 2014,Quality of life: Physical function ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,64.6,30.44,126,69.25,30.88,114,Negative,,,,,,,-0.151235802,0.129038128,1.67E-02
+Svenningsen 2014,Quality of life: Role emotional ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,84.01,31.22,148,88.8,27.31,131,Negative,,,,,,,-0.162209431,0.119831581,1.44E-02
+Svenningsen 2014,Quality of life: Role emotional ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,89.15,27.27,126,89.77,28.09,114,Negative,,,,,,,-0.022342425,0.128857394,1.66E-02
+Svenningsen 2014,Quality of life: Role physical ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,35.81,37.25,148,37.02,37.39,131,Negative,,,,,,,-3.23E-02,0.1196425,1.43E-02
+Svenningsen 2014,Quality of life: Role physical ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,53.18,39.24,126,55.04,39.1,114,Negative,,,,,,,-4.73E-02,0.128871468,1.66E-02
+Svenningsen 2014,Quality of life: Social function ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,76.41,27.72,148,79.96,27.02,131,Negative,,,,,,,-0.129240607,0.119759708,1.43E-02
+Svenningsen 2014,Quality of life: Social function ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,83.93,26.26,126,85.09,23.22,114,Negative,,,,,,,-4.65E-02,0.128870844,1.66E-02
+Svenningsen 2014,Quality of life: Vitality ,2 month,"Independent groups (means, SD's)",,,,,,,,,,,60.41,22.47,148,58.78,25.01,131,Positive,,,,,,,6.86E-02,0.119669912,1.43E-02
+Svenningsen 2014,Quality of life: Vitality ,6 month,"Independent groups (means, SD's)",,,,,,,,,,,64.68,22.71,126,62.65,26.33,114,Positive,,,,,,,8.26E-02,0.128908517,1.66E-02
+VandenBoogaard 2012,Quality of life :Role-emotional,18 month,"Independent groups (means, SD's)",,,,,,,,,,,72.6111,58.317,171,76.5324,49.7646,744,Negative,,,,,,,-7.61E-02,8.48E-02,7.18E-03
+VandenBoogaard 2012,quality of life :Social functioning,18 month,"Independent groups (means, SD's)",,,,,,,,,,,70.7863,28.4109,171,83.446,27.482,744,Negative,,,,,,,-0.457357966,8.54E-02,7.29E-03
+VandenBoogaard 2012,Quality of life: Bodily pain,18 month,"Independent groups (means, SD's)",,,,,,,,,,,77.6489,33.6489,171,78.3503,31.9385,744,Negative,,,,,,,-2.17E-02,8.47E-02,7.18E-03
+VandenBoogaard 2012,Quality of life: General health,18 month,"Independent groups (means, SD's)",,,,,,,,,,,53.2443,26.1679,171,58.2487,25.9964,744,Negative,,,,,,,-0.192108785,8.49E-02,7.20E-03
+VandenBoogaard 2012,Quality of life: Mental,18 month,"Independent groups (means, SD's)",,,,,,,,,,,50,14.08,171,53,11.12,744,Negative,,,,,,,-0.255590321,8.49E-02,7.22E-03
+VandenBoogaard 2012,Quality of life: Physical functioning,18 month,"Independent groups (means, SD's)",,,,,,,,,,,53.2443,41.121,171,71.4974,29.7102,744,Negative,,,,,,,-0.567400301,8.58E-02,7.36E-03
+VandenBoogaard 2012,Quality of life: Role-physical,18 month,"Independent groups (means, SD's)",,,,,,,,,,,33.7785,56.0741,171,50,74.2756,744,Negative,,,,,,,-0.227515973,8.49E-02,7.21E-03
+VandenBoogaard 2012,Quality of life: Vitality,18 month,"Independent groups (means, SD's)",,,,,,,,,,,56.7557,26.1679,171,60,22.2827,744,Negative,,,,,,,-0.14059964,8.48E-02,7.19E-03
+VanderHeijden 2023,Quality of life: Non-Persistent delirium)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.776,0.1784,529,0.864,0.1929,1871,Negative,,,,,,,-0.463494902,4.97E-02,2.47E-03
+VanderHeijden 2023,Quality of life: Persistent delirium)),12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.72,0.1933,529,0.864,0.1929,1871,Negative,,,,,,,-0.74592643,5.04E-02,2.54E-03
+VanRompaey 2009,Quality of life Health perception,3 month,"Independent groups (means, p)",,,,,,,,,,,47.5,,20,55.7,,85,Negative,,0.4,,,,2,-0.208501613,0.247130201,0.061073336
+VanRompaey 2009,Quality of life: Heath perception  ,6 month,"Independent groups (means, p)",,,,,,,,,,,57.5,,20,68.9,,85,Negative,,0.42,,,,2,-0.199752964,0.247095787,6.11E-02
+VanRompaey 2009,Quality of life: Mental health ,6 month,"Independent groups (means, p)",,,,,,,,,,,68,,20,74.9,,85,Negative,,0.21,,,,2,-0.311210987,0.247643945,6.13E-02
+VanRompaey 2009,Quality of life: Pain ,3 month,"Independent groups (means, p)",,,,,,,,,,,17.5,,20,36.4,,85,Negative,,0.14,,,,2,-0.366924464,0.248006924,6.15E-02
+VanRompaey 2009,Quality of life: Pain ,6 month,"Independent groups (means, p)",,,,,,,,,,,32.5,,20,20.8,,85,Positive,,0.3,,,,2,0.256993369,0.247347579,6.12E-02
+VanRompaey 2009,Quality of life: Physical function ,3 month,"Independent groups (means, p)",,,,,,,,,,,41.7,,20,59.1,,85,Negative,,0.13,,,,2,-0.376555135,0.248075655,6.15E-02
+VanRompaey 2009,Quality of life: Physical function ,6 month,"Independent groups (means, p)",,,,,,,,,,,66.7,,20,73.8,,85,Negative,,0.56,,,,2,-0.144262261,0.246911776,6.10E-02
+VanRompaey 2009,Quality of life: Role function ,3 month,"Independent groups (means, p)",,,,,,,,,,,30,,20,62.5,,85,Negative,,0.05,,,,2,-0.489293099,0.249010761,6.20E-02
+VanRompaey 2009,Quality of life: Role function ,6 month,"Independent groups (means, p)",,,,,,,,,,,40,,20,78.8,,85,Negative,,0.01,,,,2,-0.64747004,0.250724143,0.062862596
+VanRompaey 2009,Quality of life: Social function ,3 month,"Independent groups (means, p)",,,,,,,,,,,52,,20,75.3,,85,Negative,,0.2,,,,2,-0.318213999,0.24768632,6.13E-02
+VanRompaey 2009,Quality of life: Social funtion,6 month,"Independent groups (means, p)",,,,,,,,,,,62,,20,81.5,,85,Negative,,0.24,,,,2,-0.291567047,0.247530075,6.13E-02
+VanRompaey 2009,Qulaity of life: Mental health,3 month,"Independent groups (means, p)",,,,,,,,,,,70,,20,71.6,,85,Negative,,0.48,,,,2,-0.174888643,0.247006012,6.10E-02
+Wolters 2014,Quality of life,12 month,"Independent groups (means, SD's)",,,,,,,,,,,0.8167,0.2317,182,0.857,0.2084,364,Negative,,,,,,,-0.185945682,9.08E-02,8.25E-03
+Zipprich 2020,Quality of life,6 month,"Independent groups (means, SD's)",,,,,,,,,,,0.5,0.36,64,0.64,0.33,527,Negative,,,,,,,-0.419459342,0.132765857,1.76E-02
+Sánchez-Lozano 2023,Quality of life,3 month,"Independent groups (means, SD's)",,,,,,,,,,,61,20,43,69,18,38,Negative,,,,,,,-0.415089575,0.222924774,4.97E-02
+Chen 2017,Quality of life,9.82 month,"Independent groups (means, SD's)",,,,,,,,,,,61.97,2.8,44,68.36,2.4,92,Negative,,,,,,,-2.506333889,0.23730914,5.63E-02
